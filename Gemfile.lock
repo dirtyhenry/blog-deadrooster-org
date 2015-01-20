@@ -91,6 +91,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   heroku
   jekyll
   rack-jekyll
