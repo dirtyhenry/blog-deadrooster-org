@@ -12,4 +12,4 @@ twitter_username: dead__rooster
 markdown: kramdown
 
 permalink:  /:title.html
-exclude: [ 'bower_components', 'node_modules', 'bower.json', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'README.md', 'config.ru', 'vendor']
+exclude: [ 'bower_components', 'node_modules', 'bower.json', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb']
