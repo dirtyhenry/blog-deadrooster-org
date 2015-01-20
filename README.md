@@ -6,6 +6,7 @@ The Dead Rooster Blog
 
     npm install   # Install Grunt and Bower
     bower install # Install JS and CSS dependencies
+    heroku config:add BUILDPACK_URL=http://github.com/mattmanning/heroku-buildpack-ruby-jekyll.git
 
 ## Acknowledgements
 
