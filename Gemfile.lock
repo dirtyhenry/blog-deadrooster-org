@@ -50,6 +50,7 @@ GEM
       sass (~> 3.2)
     jekyll-watch (1.2.0)
       listen (~> 2.7)
+    kgio (2.9.2)
     kramdown (1.5.0)
     launchy (2.4.2)
       addressable (~> 2.3)
@@ -72,6 +73,7 @@ GEM
     rack-jekyll (0.3.5)
       jekyll
       rack
+    raindrops (0.13.0)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -85,6 +87,10 @@ GEM
       hitimes
     toml (0.1.2)
       parslet (~> 1.5.0)
+    unicorn (4.8.3)
+      kgio (~> 2.6)
+      rack
+      raindrops (~> 0.7)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -95,3 +101,4 @@ DEPENDENCIES
   heroku
   jekyll
   rack-jekyll
+  unicorn
