@@ -6,7 +6,19 @@ The Dead Rooster Blog
 
     npm install   # Install Grunt and Bower
     bower install # Install JS and CSS dependencies
-    heroku config:add BUILDPACK_URL=http://github.com/mattmanning/heroku-buildpack-ruby-jekyll.git
+
+## Deployment
+
+This site is deployed via GitHub Pages facility. From your developer environment, create 2 clones of this 
+repository: 
+
+- one for the Jekyll content
+- one called `blog-deadrooster-org-gh-pages` that should be at the same level than the first one
+
+To deploy:
+
+1. From the Jekyll clone, type: `grunt`
+2. From the `gh-pages` clone, commit and push modifications
 
 ## Acknowledgements
 

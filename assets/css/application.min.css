@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic);
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -1159,7 +1161,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -4030,7 +4032,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   min-height: 50px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
@@ -6531,6 +6533,21 @@ button.close {
 }
 body {
   background: url('/assets/images/retina_wood.png');
+  font-size: 1.8em;
+  line-height: 1.4em;
+  font-family: 'Alegreya', serif;
+  color: #444;
+}
+h3 {
+  color: #777;
+  font-weight: 300;
+}
+blockquote {
+  font-style: italic;
+}
+.post-content {
+  margin: auto;
+  max-width: 32em;
 }
 .container {
   background-color: white;
@@ -6539,4 +6556,7 @@ footer {
   color: #999;
   margin-top: 3em;
   border-top: thin solid #999;
+}
+.dr-playlist button {
+  margin-right: 1em;
 }

@@ -25,13 +25,26 @@ grunt.initConfig({
                                        'bower_components/bootstrap/js/button.js',
                                        'bower_components/bootstrap/js/affix.js']
       }
+    },
+    deadrooster: {
+      files: {
+        'assets/js/deadrooster.min.js': 'assets/_javascript/deadrooster.js'
+      }
     }
   },
   copy: {
     fontawesome: {
       files: [
-        {expand: true, cwd: 'bower_components/components-font-awesome/css/', src: ['font-awesome.min.css'], dest: 'assets/css/'}
+        {expand: true, cwd: 'bower_components/components-font-awesome/css/', src: ['font-awesome.min.css'], dest: 'assets/css/'},
+        {expand: true, cwd: 'bower_components/components-font-awesome/fonts/', src: ['*'], dest: 'assets/fonts/'}
       ]
+    }
+  },
+  coffee: {
+    compile: {
+      files: {
+        'assets/_javascript/deadrooster.js': 'assets/_coffeescript/deadrooster.js.coffee'
+      }
     }
   },
   exec: {
@@ -40,9 +53,6 @@ grunt.initConfig({
     },
     serve: {
       cmd: 'jekyll serve --watch'
-    },
-    deploy: {
-      cmd: 'rsync --progress -a --delete -e "ssh -q" _site/ myuser@host:mydir/'
     }
   }
 });
@@ -50,9 +60,10 @@ grunt.initConfig({
 grunt.loadNpmTasks('grunt-contrib-uglify');
 grunt.loadNpmTasks('grunt-contrib-less');
 grunt.loadNpmTasks('grunt-contrib-copy');
+grunt.loadNpmTasks('grunt-contrib-coffee');
 grunt.loadNpmTasks('grunt-exec');
 
-grunt.registerTask('default', [ 'less', 'uglify', 'copy', 'exec:build' ]);
+grunt.registerTask('default', [ 'less', 'coffee', 'uglify', 'copy', 'exec:build' ]);
 grunt.registerTask('deploy', [ 'default', 'exec:deploy' ]);
 
 };

@@ -7,9 +7,10 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.deadrooster.org" # the base hostname & protocol for your site
 twitter_username: dead__rooster
+destination: ../blog-deadrooster-org-gh-pages
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 
 permalink:  /:title.html
 exclude: [ 'bower_components', 'node_modules', 'bower.json', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb']

@@ -34,6 +34,7 @@ GEM
       safe_yaml (~> 1.0)
       toml (~> 0.1.0)
     kgio (2.9.3)
+    kramdown (1.5.0)
     launchy (2.4.3)
       addressable (~> 2.3)
     liquid (2.5.5)
@@ -81,5 +82,6 @@ DEPENDENCIES
   bundler
   heroku
   jekyll
+  kramdown
   rack-jekyll
   unicorn

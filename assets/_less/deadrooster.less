@@ -1,8 +1,30 @@
-//@navbar-default-bg: red;
-@navbar-margin-bottom: 0;
+//@navbar-margin-bottom: 0; <-- Uncomment to remove the little appearing background between navbar and content 
+
+@import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic);
+
+@headings-font-family: 'Source Sans Pro', sans-serif;
 
 body {
   background: url('/assets/images/retina_wood.png');
+  font-size: 1.8em;    // Butterick's reco: 15-25 pixels, here we aim 16 pixels.
+  line-height: 1.4em;  // 120-145%, here we aim 140%.
+  font-family: 'Alegreya', serif;
+  color: #444;
+}
+
+h3 {
+  color: #777;
+  font-weight: 300;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+.post-content { 
+  margin: auto; // Center the text...
+  max-width: 32em; // ... and limit to a reasonable width of 45-90 characters
 }
 
 .container {
@@ -13,4 +35,8 @@ footer {
   color: #999;
   margin-top: 3em;
   border-top: thin solid #999;
+}
+
+.dr-playlist button {
+  margin-right: 1em;
 }
