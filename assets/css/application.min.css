@@ -6545,6 +6545,9 @@ h3 {
 blockquote {
   font-style: italic;
 }
+.lead {
+  font-size: 1.17em;
+}
 .post-content {
   margin: auto;
   max-width: 32em;

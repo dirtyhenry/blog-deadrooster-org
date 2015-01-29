@@ -14,14 +14,13 @@
       return $(this).empty().append(button).append(span);
     });
     return $(document).on('click', 'button[dr-spotify-id]', function() {
-      var spotifyIframe, target;
-      console.log("CLICK");
+      var spotifyId, spotifyIframe, target;
+      spotifyId = $(this).attr("dr-spotify-id");
+      ga('send', 'event', 'spotify-button', 'click-load-iframe', spotifyId);
       spotifyIframe = $(document.createElement('iframe'));
-      spotifyIframe.attr('src', 'https://embed.spotify.com/?uri=spotify:user:dirtyhenry:playlist:' + $(this).attr("dr-spotify-id"));
+      spotifyIframe.attr('src', 'https://embed.spotify.com/?uri=spotify:user:dirtyhenry:playlist:' + spotifyId);
       spotifyIframe.attr('width', 300).attr('height', 380).attr('frameborder', 0).attr('allowtransparency', "true");
       target = $("#" + $(this).attr("dr-id-target"));
-      console.log(target);
-      console.dir(target);
       return target.empty().append(spotifyIframe);
     });
   });
