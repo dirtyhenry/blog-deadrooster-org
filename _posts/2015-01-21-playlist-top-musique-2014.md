@@ -5,6 +5,8 @@ date:   2015-01-21 10:00:00
 tags: musique top
 ---
 
+![Le podium, celui des champions](/assets/images/top-musique-2014.png)
+
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le temps de faire un petit 
 Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 {: .lead}
