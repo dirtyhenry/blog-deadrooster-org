@@ -6564,6 +6564,9 @@ footer {
   margin-top: 3em;
   border-top: thin solid #999;
 }
+.dr-playlist {
+  padding: 1em 0;
+}
 .dr-playlist button {
   margin-right: 1em;
 }
