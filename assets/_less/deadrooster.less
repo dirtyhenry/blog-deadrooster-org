@@ -5,8 +5,18 @@
 
 @headings-font-family: 'Source Sans Pro', sans-serif;
 
+// Dead Rooster's Color Palette
+@mybrown: #873D35;
+@myyellow: #F1E568;
+
+@navbar-default-bg: @mybrown;
+@navbar-default-brand-color: @myyellow;
+@navbar-default-color: @myyellow;
+@navbar-height: 54px;
+@navbar-default-link-color: @myyellow;
+
 body {
-  background: url('/assets/images/retina_wood.png');
+  background-color: #F2F2F2;
   font-size: 1.8em;    // Butterick's reco: 15-25 pixels, here we aim 18 pixels.
   line-height: 1.4em;  // 120-145%, here we aim 140%.
   font-family: 'Alegreya', serif;
@@ -36,7 +46,6 @@ img {
 }
 
 .post {
-  background-color: #F2F2F2;
   padding: 1em;
 }
 
@@ -52,4 +61,16 @@ footer {
 
 .dr-playlist button {
   margin-right: 1em;
+}
+
+.navbar {
+  font-family: @headings-font-family;
+  
+  .navbar-brand {
+    img {
+      max-height: 50px;
+    }
+    padding-top: 5px; // Leave space for the brand icon to fit without overflow
+    padding-bottom: 5px; // Leave space for the brand icon to fit without overflow
+  }
 }

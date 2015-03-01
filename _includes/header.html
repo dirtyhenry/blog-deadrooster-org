@@ -1,8 +1,13 @@
 <header>
-  <nav class="navbar navbar-inverse">
+  <nav class="navbar navbar-default navbar-static-top">
     <div class="container">
       <div class="navbar-header">
-        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+          <img alt="{{ site.title }}" src="{{ site.brand_logo }}">
+        </a>
+        <p class="navbar-text">
+          {{ site.title }}
+        </p>
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
@@ -10,7 +15,17 @@
           {% if page.title %}
           <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
           {% endif %}
-          {% endfor %}      
+          {% endfor %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/{{ site.facebook_pagename }}">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
         </ul>
       </div>
     </div>

@@ -3,6 +3,7 @@ layout: post
 title:  "Neutral Milk Hotel, une Introduction"
 date:   2015-02-26 10:00:00
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
+cover: /assets/images/neutral-milk-hotel-introduction.png
 ---
 
 ![Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?](/assets/images/neutral-milk-hotel-introduction.png)

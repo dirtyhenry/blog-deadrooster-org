@@ -34,3 +34,17 @@ jQuery ->
         target = $("#" + $(this).attr("dr-id-target"))
         target.empty().append(spotifyIframe)
     )
+    
+    #console.log "MICK"
+    #$('#first-page-background').css("position", "absolute")
+    #$('#first-page-background').css("top", 54)
+    #$('#first-page-background').css("z-index", -1)
+    #$('#first-page-background').css("left", 0)
+    #$('#first-page-background').css("width", $(window).width())
+    #$('#first-page-background').css("height", $(window).height() - 54)
+    #$('#first-page-background').css("background-color", "blue")
+    #$('#first-page-background').css("background-image", "url(/assets/images/neutral-milk-hotel-introduction.png)")    
+    #$('#first-page-background').css("background-position", "50% 50%")
+    #$('#first-page-background').css("background-size", "cover")
+    #$('#first-page-background').css("background-repeat", "no-repeat")
+    #$('#first-page-background').html("<h1>Neutral Milk Hotel, une Introduction</h1>")
