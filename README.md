@@ -20,6 +20,12 @@ To deploy:
 1. From the Jekyll clone, type: `grunt`
 2. From the `gh-pages` clone, commit and push modifications
 
+## Resources
+
+- Some inspiration were not used but might be useful for the future:
+    - [Common Elements Used in Wooden UI Design](http://www.webdesignerdepot.com/2011/03/common-elements-used-in-wooden-ui-design/)
+    - [The Elements of Retro Web Design](http://www.webdesignerdepot.com/2011/01/the-elements-of-retro-web-design/)
+
 ## Acknowledgements
 
 - This site runs with [Jekyll][http://jekyllrb.com/]
