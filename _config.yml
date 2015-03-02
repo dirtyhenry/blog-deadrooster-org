@@ -9,6 +9,7 @@ twitter_username: dead__rooster
 facebook_pagename: DeadRoosterBlog
 destination: ../blog-deadrooster-org-gh-pages
 postatic_url: "http://deadrooster.postatic.com"
+github_url: "https://github.com/dirtyhenry/blog-deadrooster-org"
 
 # Build settings
 markdown: kramdown

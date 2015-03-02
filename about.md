@@ -12,4 +12,4 @@ et tout, ce qui veut dire que le site est aussi joli sur smartphone et sur table
 que sur un PC.
  
 Nouveauté, le contenu de ce site et son code sont disponibles en open source sur 
-GitHub.
+[GitHub]({{ site.github_url }}).
