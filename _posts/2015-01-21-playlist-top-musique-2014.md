@@ -13,8 +13,8 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 
 ## Le Top
 
-- Prix __*vieux con*__ du mec qui n'a pas assez écouté de disques de 2014 cette année : moi
-- Prix __*remise en selle*__ de ceux qui vont aider à y remédier l'année prochaine : [*Magic*][magicrpm] et [le podcast de *Label Pop*][labelpop-podcast]
+- Prix __*vieux con*__ du mec qui n'a pas assez écouté de disques de 2014 cette année&nbsp;: moi
+- Prix __*remise en selle*__ de ceux qui vont aider à y remédier l'année prochaine&nbsp;: [*Magic*][magicrpm] et [le podcast de *Label Pop*][labelpop-podcast]
 
 ## La Playlist
 
@@ -47,26 +47,32 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 
 ### Neutral Milk Hotel
 
-OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au Trianon fut de loin le meilleur depuis des lustres. J'en parlerai plus en détail très vite.
+OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au Trianon fut de loin le meilleur depuis des lustres. J'en parlerai plus en détail 
+très vite.
 
-Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album *In The Aeroplane Over The Sea* mais son écoute intégrale, comme celle de son prédécesseur, *On Avery Island*, sont vivement recommandées.
+Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album *In The Aeroplane Over The Sea* mais son écoute intégrale, comme celle de 
+son prédécesseur, *On Avery Island*, sont vivement recommandées.
 
 Et puis de la scie musicale quoi ! [Bravo Maestro !][bravo-maestro-classe-americaine]
 
 ### Gandi Lake
 
-Une découverte sympa et j'attends la suite car, pour l'instant, seulement trois titres sont disponibles sur les autoroutes de l'information. Programmés aux Trans 2014, je les ai découverts via [le widget de recommandation de Deezer][deezer-lineup-recommender], la voix du mec m'a vaguement rappelé celle de 3 Guys Never In, un [autre coup de cœur][three-guys-never-in] maintenant vieux d'une décennie.
+Une découverte sympa et j'attends la suite car, pour l'instant, seulement trois titres sont disponibles sur les autoroutes de l'information. 
+Programmés aux Trans 2014, je les ai découverts via [le widget de recommandation de Deezer][deezer-lineup-recommender], la voix du mec m'a vaguement 
+rappelé celle de 3 Guys Never In, un [autre coup de cœur][three-guys-never-in] maintenant vieux d'une décennie.
 
 Ils promettent un EP pour bientôt, financé en crowdfunding. À surveiller.
 
 ### Les Poppys
 
-Tout le monde connaît la fin d'[*Un Jour en France* de Noir Désir][clip-un-jour-en-france], mais qui connaît bien la référence qui va avec ? Adorablement *akward*, mi-litant mi-gnon, on ne s'en lasse pas.
+Tout le monde connaît la fin d'[*Un Jour en France* de Noir Désir][clip-un-jour-en-france], mais qui connaît bien la référence qui va avec&nbsp;? 
+Adorablement *akward*, mi-litant mi-gnon, on ne s'en lasse pas.
 
 > De temps en temps, on peut bien rire entre voisins  
 > Voisins de terre
 
-Quoi de plus rafraîchissant que ces douces paroles ? Surtout en ces temps difficile, [à bon entendeur, je ne fais pas de politique][merci-le-foot-a-bon-entendeur], etc.
+Quoi de plus rafraîchissant que ces douces paroles&nbsp;? Surtout en ces temps difficile, 
+[à bon entendeur, je ne fais pas de politique][merci-le-foot-a-bon-entendeur], etc.
 
 ### Jagwar Ma
 
@@ -78,14 +84,16 @@ Quoi de plus rafraîchissant que ces douces paroles ? Surtout en ces temps diffi
 
 ### Orouni
 
-Je n'ai plus aucun souvenir de comment j'ai découvert ça, ni pourquoi je l'ai mis dans une playlist en début d'année. Mais l'essentiel est que je suis retombé dessus et que c'est drôlement chouette.
+Je n'ai plus aucun souvenir de comment j'ai découvert ça, ni pourquoi je l'ai mis dans une playlist en début d'année. 
+Mais l'essentiel est que je suis retombé dessus et que c'est drôlement chouette.
 
 ### Interpol, The Fresh & Onlys, Beck, The Notwist & cie
 
 > Car toi, tu ne changes pas,  
 > [Tu es comme le prix des alumettes][stone-et-charden-prix-des-alumettes].
 
-Interpol a sorti un album de très honorable facture, les autres aussi. Ce ne sont plus les artistes et groupes excitants de leur début, mais ils déçoivent peu. C'est tout à leur honneur.
+Interpol a sorti un album de très honorable facture, les autres aussi. Ce ne sont plus les artistes et groupes 
+excitants de leur début, mais ils déçoivent peu. C'est tout à leur honneur.
 
 [top-2011]: http://www.deadrooster.org/Top-Musique-2011
 [magicrpm]: http://www.magicrpm.com
