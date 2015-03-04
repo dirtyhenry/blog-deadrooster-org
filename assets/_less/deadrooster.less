@@ -1,9 +1,6 @@
 //@navbar-margin-bottom: 0; <-- Uncomment to remove the little appearing background between navbar and content 
 
-@import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700);
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic);
-
-@headings-font-family: 'Source Sans Pro', sans-serif;
+@headings-font-family: "ff-dax-compact-web-pro", sans-serif;
 
 // Dead Rooster's Color Palette
 @mybrown: #873D35;
@@ -17,10 +14,18 @@
 
 body {
   background-color: #F2F2F2;
-  font-size: 1.8em;    // Butterick's reco: 15-25 pixels, here we aim 18 pixels.
+  font-size: 1.6em;    // Butterick's reco: 15-25 pixels, here we aim 18 pixels.
   line-height: 1.4em;  // 120-145%, here we aim 140%.
-  font-family: 'Alegreya', serif;
+  font-family: "freight-text-pro", serif;
   color: #444;
+}
+
+li {
+  font-size: inherit;
+}
+
+h2, h3, h4, h5 {
+  margin-top: 1em;
 }
 
 h3 {
@@ -30,9 +35,11 @@ h3 {
 
 blockquote {
   font-style: italic;
+  font-size: 1em;
 }
 
 img {
+  margin: auto;
   max-width: 100%;
 }
 
@@ -46,7 +53,7 @@ img {
 }
 
 .post {
-  padding: 1em;
+  padding: 0 1em;
 }
 
 footer {
@@ -72,5 +79,29 @@ footer {
     }
     padding-top: 5px; // Leave space for the brand icon to fit without overflow
     padding-bottom: 5px; // Leave space for the brand icon to fit without overflow
+  }
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { 
+  body {
+    font-size: 1.8em;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { 
+  body {
+    font-size: 2.0em;
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+  body {
+    font-size: 2.2em;
   }
 }
