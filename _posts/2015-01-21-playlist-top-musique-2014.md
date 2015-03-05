@@ -47,8 +47,8 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 
 ### Neutral Milk Hotel
 
-OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au Trianon fut de loin le meilleur depuis des lustres. J'en parlerai plus en détail 
-très vite.
+OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au Trianon fut de loin le meilleur depuis des 
+lustres. J'en parle plus en détail [ici][neutral-milk-hotel-une-introduction].
 
 Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album *In The Aeroplane Over The Sea* mais son écoute intégrale, comme celle de 
 son prédécesseur, *On Avery Island*, sont vivement recommandées.
@@ -104,3 +104,4 @@ excitants de leur début, mais ils déçoivent peu. C'est tout à leur honneur.
 [clip-un-jour-en-france]: http://youtu.be/J8Z549GKkeM?t=3m29s
 [merci-le-foot-a-bon-entendeur]: http://www.dailymotion.com/video/x6gron_merci-le-foot-part-1_fun?start=577
 [stone-et-charden-prix-des-alumettes]: https://www.youtube.com/watch?v=n8x1T_-XfMY
+[neutral-milk-hotel-une-introduction]: {% post_url 2015-02-26-neutral-milk-hotel %}
