@@ -4,9 +4,12 @@ title:  "Neutral Milk Hotel, une Introduction"
 date:   2015-02-26 10:00:00
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
 cover: /assets/images/neutral-milk-hotel-introduction.png
+description: >
+  Présentation du groupe Neutral Milk Hotel à l'occasion d'une chronique de leur dernier concert parisien
+  au Trianon, le 25 mai 2014.
 ---
 
-![Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?](/assets/images/neutral-milk-hotel-introduction.png)
+![Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?]({{ page.cover }})
 
 Le Trianon, Paris, 25 mai 2014. [Lætitia Sadier](http://fr.wikipedia.org/wiki/Lætitia_Sadier) sort de scène. 
 C'est l'avant-dernière fois que la chanteuse de Stereolab ouvre pour la tête d'affiche de la soirée, 
@@ -112,3 +115,10 @@ Pis, quand même une playlist pour finir&nbsp;:
 - quelques titres des autres groupes d'Elephant 6
 - des inspirations de Jeff&nbsp;: Minutemen, Soft Machine, Charlie Haden et Daniel Johnston
 - je vous ai épargné un morceau de musique folklorique bulgare qui est le kiff actuel de Mangum
+
+<div class="microdata" itemprop="performer" itemscope="" itemtype="http://schema.org/MusicGroup">
+  <link itemprop="sameAs" href="http://fr.wikipedia.org/wiki/Neutral_Milk_Hotela" />
+  <div>
+    <span itemprop="name">Neutral Milk Hotel</span></a>
+  </div>
+</div>

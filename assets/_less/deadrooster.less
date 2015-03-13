@@ -50,6 +50,14 @@ img {
 .post-content { 
   margin: auto; // Center the text...
   max-width: 32em; // ... and limit to a reasonable width of 45-90 characters
+  
+  .post-list {
+    list-style-type: none; // No bullet on the home page
+    padding: 0;
+    li {
+      padding: 1em 0;
+    }
+  }
 }
 
 //.post {
@@ -81,6 +89,10 @@ footer {
     padding-top: 5px; // Leave space for the brand icon to fit without overflow
     padding-bottom: 5px; // Leave space for the brand icon to fit without overflow
   }
+}
+
+.microdata {
+  display: none;
 }
 
 /* Extra small devices (phones, less than 768px) */

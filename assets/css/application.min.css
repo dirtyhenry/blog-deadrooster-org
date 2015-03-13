@@ -6564,6 +6564,13 @@ img {
   margin: auto;
   max-width: 32em;
 }
+.post-content .post-list {
+  list-style-type: none;
+  padding: 0;
+}
+.post-content .post-list li {
+  padding: 1em 0;
+}
 footer {
   color: #999;
   margin-top: 3em;
@@ -6584,6 +6591,9 @@ footer {
 }
 .navbar .navbar-brand img {
   max-height: 50px;
+}
+.microdata {
+  display: none;
 }
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */

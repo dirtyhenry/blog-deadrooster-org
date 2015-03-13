@@ -2,20 +2,24 @@
 layout: default
 ---
 
-<div class="home">
+<!-- <div id="first-page-background"></div> -->
 
+<div class="home">
   <div class="post-content">
     <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
+        <h1>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h1>
+        <div class="excerpt">
+          {{ post.excerpt }}
+        </div>
       </li>
     {% endfor %}
   </ul>
+  
+  <p>Lire les articles précédents sur <a href="http://deadrooster.org">l'ancienne version du site</a>.</p>
 
   <p class="rss-subscribe">S'abonner <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
