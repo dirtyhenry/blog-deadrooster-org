@@ -16,3 +16,6 @@ markdown: kramdown
 
 permalink:  /:title.html
 exclude: [ 'bower_components', 'node_modules', 'bower.json', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb']
+
+gems:
+  - jekyll-sitemap
