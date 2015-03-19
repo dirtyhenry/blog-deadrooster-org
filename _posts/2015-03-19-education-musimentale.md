@@ -50,18 +50,18 @@ instants d'égarements.
 
 Les seuls moments où tout est un peu remis en cause, c'est quand il faut assister à un enterrement. Mais, comme on a la 
 trentaine, ce ne sont pas encore des figures trop proches : [le lointain tonton qu'on voyait rarement][bashung] ou 
-[l'ami d'enfance de papa][lou-reed]). Malgré tout, on a quand même perdu [quelques proches][elliott-smith]. On se dit 
+[l'ami d'enfance de papa][lou-reed]. Malgré tout, on a quand même perdu [quelques proches][elliott-smith]. On se dit 
 que la vie est moche, qu'ils étaient formidables. Mais finalement, quand on voit ce que certaines 
 [personnes *formidables*][kings-of-leon-1] sont [devenues][kings-of-leon-2], c'est peut-être mieux ainsi.
 
 Arrive désormais cette période où le décor est fixé. On est serein, rien ne vient plus perturber nos convictions. 
 [Les enfants de la famille sont sympas][fresh-and-onlys], mais on en reste un peu distants. On en est pas encore au stade 
-de mamie qui confond [Stéphane][grizzly-bear] et [Olivier][band-of-horses]). Cependant, parfois, on ne peut s'empêcher 
+de mamie qui confond [Stéphane][grizzly-bear] et [Olivier][band-of-horses]. Cependant, parfois, on ne peut s'empêcher 
 de ressentir [un air de déjà vu][real-estate].
 
 Et vient alors ce sentiment étrange qu'on prend de la bouteille. Des choses nous rassurent : on peut trouver qu'on 
 vieillit mieux que [nos amis][strokes] ou que notre petite amie nous offre une seconde jeunesse en nous présentant 
-[tous ses potes][television-personalities]). Mais le constat est là. De plus en plus, on pense qu'on aurait voulu vivre 
+[tous ses potes][television-personalities]. Mais le constat est là. De plus en plus, on pense qu'on aurait voulu vivre 
 à l'époque où notre père et ses potes avaient la vingtaine. Pour voir ces potes autrement que comme 
 [des bedonnants sympas mais grisonnants][neil-young]. Ou pour connaître 
 [le grand-père qui est mort avant notre naissance][brassens].
