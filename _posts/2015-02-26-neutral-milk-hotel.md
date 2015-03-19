@@ -106,7 +106,10 @@ des sous à Air France.
 
 ## La Playlist
 
-<div id='neutralmilkhotel-playlist' class="dr-playlist" dr-spotify-id="3mAghZ3fbBetCZs2HFqLm1">
+<div id='neutralmilkhotel-playlist' 
+     class="dr-playlist" 
+     dr-spotify-id="3mAghZ3fbBetCZs2HFqLm1"
+     dr-spotify-user="dirtyhenry">
 </div>
 
 Pis, quand même une playlist pour finir&nbsp;:

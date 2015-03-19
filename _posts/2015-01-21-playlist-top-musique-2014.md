@@ -21,7 +21,10 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 
 ## La Playlist
 
-<div id='top2014-playlist' class="dr-playlist" dr-spotify-id="5s5lKWpzKsfK7T7IWRtjnR">
+<div id='top2014-playlist' 
+     class="dr-playlist" 
+     dr-spotify-id="5s5lKWpzKsfK7T7IWRtjnR"
+     dr-spotify-user="dirtyhenry">
 </div>
 
 ### Face A

@@ -5,12 +5,14 @@ jQuery ->
     $('.dr-playlist').each(() ->
         # Create the button
         button = $(document.createElement('button')).addClass('btn').addClass('btn-success').addClass('btn-lg')
-        button.attr('dr-spotify-id', $(this).attr('dr-spotify-id')).attr('dr-id-target', $(this).attr('id'))
+        button.attr('dr-spotify-id', $(this).attr('dr-spotify-id'))
+        button.attr('dr-spotify-user', $(this).attr('dr-spotify-user'))
+        button.attr('dr-id-target', $(this).attr('id'))
         button.html "Charger le player Spotify"        
 
         # Create the link
         link = $(document.createElement('a'))
-        link.attr("href", "http://open.spotify.com/user/dirtyhenry/playlist/" + $(this).attr('dr-spotify-id'))
+        link.attr("href", "http://open.spotify.com/user/" + $(this).attr('dr-spotify-user') + "/playlist/" + $(this).attr('dr-spotify-id'))
         link.html "écouter sur Spotify"
 
         # Create the span
@@ -20,15 +22,25 @@ jQuery ->
         
         $(this).empty().append(button).append(span)
     )
+    
+    $('a').each(() ->
+        title = $(this).attr("title")
+        prefix = "Tooltip "
+        if title && (title.indexOf(prefix) == 0)
+            newTitle = title.substring(prefix.length)
+            $(this).attr("data-toggle", "tooltip").attr("data-placement", "top").attr("title", newTitle)
+            $(this).tooltip()
+    )
 
     # On clicks on buttons with an attribute "dr-spotify-id", replace the content of the element identified
     # by "dr-id-target" with a Spotify iframe
     $(document).on('click', 'button[dr-spotify-id]', () ->
         spotifyId = $(this).attr("dr-spotify-id")
+        spotifyUser = $(this).attr("dr-spotify-user")
         ga('send', 'event', 'spotify-button', 'click-load-iframe', spotifyId);
         
         spotifyIframe = $(document.createElement('iframe'))
-        spotifyIframe.attr('src', 'https://embed.spotify.com/?uri=spotify:user:dirtyhenry:playlist:' + spotifyId)
+        spotifyIframe.attr('src', 'https://embed.spotify.com/?uri=spotify:user:' + spotifyUser + ':playlist:' + spotifyId)
         spotifyIframe.attr('width', 300).attr('height', 380).attr('frameborder', 0).attr('allowtransparency', "true")
         
         target = $("#" + $(this).attr("dr-id-target"))
