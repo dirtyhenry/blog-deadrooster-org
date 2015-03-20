@@ -2,6 +2,7 @@
 layout: page
 title: Joe Gantdelaine
 permalink: /joe_gantdelaine/
+category: author
 ---
 
 <ul class="post-list">

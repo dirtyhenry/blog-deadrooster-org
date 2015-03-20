@@ -2,6 +2,7 @@
 layout: page
 title: Dirty Henry
 permalink: /dirty_henry/
+category: author
 ---
 
 <ul class="post-list">
