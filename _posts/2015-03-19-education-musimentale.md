@@ -2,6 +2,8 @@
 layout: post
 title:  "L'Éducation Musimentale"
 date:   2015-03-19 10:00:00
+authors: 
+  - Joe Gantdelaine
 tags: musique 
 cover: /assets/images/education-musimentale.png
 description: >

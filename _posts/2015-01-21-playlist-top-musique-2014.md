@@ -2,6 +2,8 @@
 layout: post
 title:  "La Playlist du Top Musique 2014"
 date:   2015-01-21 10:00:00
+authors: 
+  - Dirty Henry
 tags: musique top
 cover: /assets/images/top-musique-2014.png
 description: >

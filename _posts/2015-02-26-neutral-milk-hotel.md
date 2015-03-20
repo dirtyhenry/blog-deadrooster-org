@@ -2,6 +2,8 @@
 layout: post
 title:  "Neutral Milk Hotel, une Introduction"
 date:   2015-02-26 10:00:00
+authors: 
+  - Dirty Henry
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
 cover: /assets/images/neutral-milk-hotel-introduction.png
 description: >
