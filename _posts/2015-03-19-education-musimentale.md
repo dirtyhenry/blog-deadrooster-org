@@ -23,14 +23,14 @@ ou à Ménélik ! Non, c'était des cadeaux...), pour évoquer directement la ca
 alors on vit avec eux tout le temps, en boucle. Sauf qu'on se rendra compte plus tard qu'on avait plein de choses en 
 commun à cette époque, mais qu'en fait, on aurait plus grand chose à se dire 20 ans après. C'est l'époque où on est 
 fier d'avoir [des copains rebelles][NOFX] parce qu'on n'est pas vraiment rebelle soi-même. La période où on est content 
-d'avoir [des copains plus vieux, différents de tous les autres copains rappeurs de nos potes][kent]. Celle où on s'en 
+d'avoir [des copains plus vieux][kent], différents de tous les autres copains rappeurs de nos potes. Celle où on s'en 
 fiche si [un camarade n'a pas fini de muer][smashing-pumpkins]. Et où quand même, des fois, 
 on avoue, sans trop le dire, que nos parents sont [pas si cons que ça][souchon].
 
 Progressivement, on a de plus en plus d'[amis dont on est fier][grandaddy]. On côtoie toujours notre famille bien sûr. 
-Mais comme dans toutes les familles, on sait bien que les relations évoluent : le cousin un peu débile qui nous faisait 
+Mais comme dans toutes les familles, on sait bien que les relations évoluent : [le cousin un peu débile][oasis] qui nous faisait 
 marrer quand on était jeune, on continue à bien l'aimer, là n'est pas la question. Mais quand même, petit à petit, on s'en 
-éloigne, on évite d'[en parler en société][oasis]. Pareil pour [le frère de maman][renaud] : on en est fan quand on avait
+éloigne, on évite d'en parler en société. Pareil pour [le frère de maman][renaud] : on en est fan quand on avait
 15 ans, il est quasiment un dieu vivant mais, les années passant, on aimera toujours le voir, mais on le trouvera au plus 
 attachant.
 
@@ -45,17 +45,17 @@ seul. Alors, évidemment, de cette époque, comme quand on était petit, comme �
 Mais enfin, progressivement, les choses se mettent en place, le cercle d'amis se stabilise. Et avec la stabilité, 
 le confort. On a moins envie, car moins besoin, de faire de nouvelles rencontres. Bien sûr, épisodiquement, on est content 
 de rencontrer [quelqu'un de nouveau][islands]. Mais le plus souvent, on se fait des soirées avec [ses potes][falkner],
-les vrais, [ceux sur lesquels on pourra toujours compter et à qui on pardonne toujours tout][eels], car tout le monde a des 
-instants d'égarements.
+les vrais, ceux sur lesquels on pourra toujours compter et à qui on pardonne toujours tout, car tout le monde a 
+[des instants d'égarements][eels].
 
 Les seuls moments où tout est un peu remis en cause, c'est quand il faut assister à un enterrement. Mais, comme on a la 
-trentaine, ce ne sont pas encore des figures trop proches : [le lointain tonton qu'on voyait rarement][bashung] ou 
+trentaine, ce ne sont pas encore des figures trop proches : [le lointain tonton][bashung] qu'on voyait rarement ou 
 [l'ami d'enfance de papa][lou-reed]. Malgré tout, on a quand même perdu [quelques proches][elliott-smith]. On se dit 
 que la vie est moche, qu'ils étaient formidables. Mais finalement, quand on voit ce que certaines 
 [personnes *formidables*][kings-of-leon-1] sont [devenues][kings-of-leon-2], c'est peut-être mieux ainsi.
 
 Arrive désormais cette période où le décor est fixé. On est serein, rien ne vient plus perturber nos convictions. 
-[Les enfants de la famille sont sympas][fresh-and-onlys], mais on en reste un peu distants. On en est pas encore au stade 
+[Les enfants de la famille][fresh-and-onlys] sont sympas, mais on en reste un peu distants. On en est pas encore au stade 
 de mamie qui confond [Stéphane][grizzly-bear] et [Olivier][band-of-horses]. Cependant, parfois, on ne peut s'empêcher 
 de ressentir [un air de déjà vu][real-estate].
 
@@ -64,7 +64,7 @@ vieillit mieux que [nos amis][strokes] ou que notre petite amie nous offre une s
 [tous ses potes][television-personalities]. Mais le constat est là. De plus en plus, on pense qu'on aurait voulu vivre 
 à l'époque où notre père et ses potes avaient la vingtaine. Pour voir ces potes autrement que comme 
 [des bedonnants sympas mais grisonnants][neil-young]. Ou pour connaître 
-[le grand-père qui est mort avant notre naissance][brassens].
+[le grand-père][brassens] qui est mort avant notre naissance.
 
 ## La Playlist
 
