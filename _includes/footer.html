@@ -1,18 +1,77 @@
 <footer>
-  <div class="row">
-    <div class="col-md-3">
-      {{ site.title }}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <section>
+          <h2>{{ site.title }}</h2>
+          <a href="{{ site.baseurl }}/">
+            <img alt="{{ site.title }}" src="{{ site.brand_logo }}">
+          </a>
+          <p class="text">{{ site.description }}</p>
+        </section>
+      </div>
+      <div class="col-md-2">
+        <section>
+          <h2>Plus d'informations</h2>
+          <div class="social-networks">
+            <ul>
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}">
+                  <i class="fa fa-twitter fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://www.facebook.com/{{ site.facebook_pagename }}">
+                  <i class="fa fa-facebook fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+              <li>
+                <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                  <i class="fa fa-rss fa-2x"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <p>Réalisé par <a href="http://bootstragram.com">Bootstragram</a>.</p>
+            <p><a href="{{ site.github_url }}">Code source disponible sur GitHub</a>.</p>
+          </div>
+        </section>
+      </div>
+      <div class="col-md-6">
+        <section>
+          <h2>Nos Créations</h2>
+          <p>car on ne fait pas que donner notre avis...</p>
+          <ul>
+            <li>
+              <a href="http://thelivingstonesipresume.com">The Livingstones I Presume</a>
+              <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thelivingstonesipresume.com/album/the-stanley-ep">The Stanley EP by The Livingstones I Presume</a></iframe>
+            </li>
+          </ul>
+        </section>
+      </div>
     </div>
-    <div class="col-md-3">
-      {% if site.twitter_username %}
-      <a href="https://twitter.com/{{ site.twitter_username }}">
-        <i class="fa fa-twitter"></i>
-        <span class="username">{{ site.twitter_username }}</span>
-      </a>
-      {% endif %}
-    </div>
-    <div class="col-md-6">
-      <p class="text">{{ site.description }}</p>
+    <div class="row">
+      <div class="col-md-11">
+          <p>
+            <small>
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+              </a>
+              <br>
+              Ce(tte) œuvre est mise à disposition selon les termes de la 
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  
+                Partage dans les Mêmes Conditions 4.0 International
+              </a>.
+            </small>
+          </p>
+      </div>
+      <div class="col-md-1">
+      </div>
     </div>
   </div>
 </footer>

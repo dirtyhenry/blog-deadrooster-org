@@ -64,6 +64,7 @@ grunt.loadNpmTasks('grunt-contrib-copy');
 grunt.loadNpmTasks('grunt-contrib-coffee');
 grunt.loadNpmTasks('grunt-exec');
 
+grunt.registerTask('javascript', [ 'coffee', 'uglify' ])
 grunt.registerTask('default', [ 'less', 'coffee', 'uglify', 'copy', 'exec:build' ]);
 grunt.registerTask('deploy', [ 'default', 'exec:deploy' ]);
 

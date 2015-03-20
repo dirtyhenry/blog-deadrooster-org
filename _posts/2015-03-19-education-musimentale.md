@@ -7,7 +7,8 @@ authors:
 tags: musique 
 cover: /assets/images/education-musimentale.png
 description: >
-  L'éducation musicale d'un jeune homme né en 1981.
+  Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et honteux parfois.
+uuid: 1C593071-26EC-4900-A6BB-D06FEE5D8D7F
 ---
 
 ![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})

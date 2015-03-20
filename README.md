@@ -7,6 +7,10 @@ The Dead Rooster Blog
     npm install   # Install Grunt and Bower
     bower install # Install JS and CSS dependencies
 
+## Writing a new post
+
+    uuidgen -hdr # Generate a new GUID
+
 ## Deployment
 
 This site is deployed via GitHub Pages facility. From your developer environment, create 2 clones of this 

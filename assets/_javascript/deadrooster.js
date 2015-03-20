@@ -25,7 +25,7 @@
         return $(this).tooltip();
       }
     });
-    return $(document).on('click', 'button[dr-spotify-id]', function() {
+    $(document).on('click', 'button[dr-spotify-id]', function() {
       var spotifyId, spotifyIframe, spotifyUser, target;
       spotifyId = $(this).attr("dr-spotify-id");
       spotifyUser = $(this).attr("dr-spotify-user");
@@ -35,6 +35,10 @@
       spotifyIframe.attr('width', 300).attr('height', 380).attr('frameborder', 0).attr('allowtransparency', "true");
       target = $("#" + $(this).attr("dr-id-target"));
       return target.empty().append(spotifyIframe);
+    });
+    return $(document).on('click', '#disqus-on', function() {
+      $('#disqus-comments').css('display', 'block');
+      return $('#disqus-on').remove();
     });
   });
 

@@ -7,7 +7,8 @@ authors:
 tags: musique top
 cover: /assets/images/top-musique-2014.png
 description: >
-  Le Top 2014 musical de Dead Rooster et la playlist qui l'accompagne
+  Dead Rooster donne ses médailles à l'occasion d'un comeback complètement 2.0 !
+uuid: 874D93B2-537C-44CA-8C50-5A1911AE08B7
 ---
 
 ![Le podium, celui des champions]({{ page.cover }})

@@ -11,10 +11,9 @@
 
     {{ content }}
 
-    {% include footer.html %}
-
   </div>
 
+  {% include footer.html %}
 
   <script src="/assets/js/jquery.min.js"></script>
   <script src="/assets/js/bootstrap.min.js"></script>
@@ -28,6 +27,24 @@
     ga('create', 'UA-8271681-13', 'auto');
     ga('send', 'pageview');
   </script>
+    
+  {% if page.uuid %}
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES * * */
+      var disqus_shortname = "deadrooster";
+      var disqus_identifier = "{{ page.uuid }}";
+      var disqus_title = "{{ page.title }}";
+      var disqus_url = "{{ page.url }}";
+      
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  {% endif %}
 </body>
 
 </html>

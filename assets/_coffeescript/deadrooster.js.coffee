@@ -47,6 +47,11 @@ jQuery ->
         target.empty().append(spotifyIframe)
     )
     
+    $(document).on('click', '#disqus-on', () ->
+        $('#disqus-comments').css('display', 'block')
+        $('#disqus-on').remove()
+    )
+    
     # console.log "MICK"
     # $('#first-page-background').css("position", "absolute")
     # $('#first-page-background').css("top", 54)

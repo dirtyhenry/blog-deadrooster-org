@@ -6571,10 +6571,38 @@ img {
 .post-content .post-list li {
   padding: 1em 0;
 }
+#disqus-comments {
+  display: none;
+}
 footer {
-  color: #999;
+  padding: 1em;
+  background-color: #873d35;
+  color: #f1e568;
   margin-top: 3em;
-  border-top: thin solid #999;
+  border: none;
+  font-family: "ff-dax-compact-web-pro", sans-serif;
+  font-size: 0.6em;
+  line-height: 1.4em;
+}
+footer h2 {
+  font-size: 1.2em;
+}
+footer img {
+  max-width: 4em;
+}
+footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+footer ul li {
+  display: inline;
+  margin-right: 1em;
+}
+footer a {
+  color: inherit;
+}
+footer a:hover {
+  color: white;
 }
 .dr-playlist {
   padding: 1em 0;

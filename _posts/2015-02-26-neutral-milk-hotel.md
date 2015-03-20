@@ -7,8 +7,10 @@ authors:
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
 cover: /assets/images/neutral-milk-hotel-introduction.png
 description: >
-  Présentation du groupe Neutral Milk Hotel à l'occasion d'une chronique de leur dernier concert parisien
-  au Trianon, le 25 mai 2014.
+  Le meilleur concert de 2014 pour certains, le meilleur album des 90s pour d'autres. Neuf mois après le concert, 
+  parce qu'on n'est pas aux pièces, retour sur la performance de Neutral Milk Hotel à Paris en mai dernier. La 
+  dernière, probablement...
+uuid: 3553C21F-0759-44BE-B22D-11E13F335F5E
 ---
 
 ![Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?]({{ page.cover }})

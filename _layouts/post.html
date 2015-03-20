@@ -40,6 +40,14 @@ layout: default
 
   <article class="post-content">
     {{ content }}
-  </article>
 
+    {% if page.uuid %}
+    <button id="disqus-on" class="btn btn-primary btn-lg">Voir les commentaires</button>
+    
+    <section id="disqus-comments" class="comments">
+      <div id="disqus_thread"></div>
+    </section>
+    {% endif %}
+  </article>
+  
 </div>
