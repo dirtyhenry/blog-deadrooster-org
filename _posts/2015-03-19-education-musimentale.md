@@ -69,6 +69,9 @@ vieillit mieux que [nos amis][strokes] ou que notre petite amie nous offre une s
 [des bedonnants sympas mais grisonnants][neil-young]. Ou pour connaître 
 [le grand-père][brassens] qui est mort avant notre naissance.
 
+Mais allez, cessons l'apitoiement ! Nous avons encore [plein de projets][thrills] ! Et qui sait si prochainement, un 
+retour de jeunesse ne nous donnera pas envie de [redevenir les explorateurs que nous avons été][labelpop] ?
+
 ## La Playlist
 
 <div id='educationmusimentale-playlist' 
@@ -107,3 +110,5 @@ vieillit mieux que [nos amis][strokes] ou que notre petite amie nous offre une s
 [television-personalities]: https://www.youtube.com/watch?v=3m28x6aWfYc "Tooltip Television Personalities"
 [neil-young]: https://www.youtube.com/watch?v=k0t0EW6z8a0 "Tooltip Neil Young"
 [brassens]: https://www.youtube.com/watch?v=WJ9ahN4mPHw "Tooltip Georges Brassens"
+[thrills]: https://www.youtube.com/watch?v=A1fGNCvZL_w "Tooltip The Thrills"
+[labelpop]: http://www.francemusique.fr/emission/label-pop "Tooltip Label Pop"
