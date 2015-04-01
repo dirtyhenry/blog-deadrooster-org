@@ -1159,7 +1159,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "ff-dax-compact-web-pro", sans-serif;
+  font-family: "vinyl", sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -6557,6 +6557,9 @@ img {
   margin: auto;
   max-width: 100%;
 }
+button {
+  font-family: "vinyl", sans-serif;
+}
 .lead {
   font-size: 1.17em;
 }
@@ -6580,7 +6583,7 @@ footer {
   color: #f1e568;
   margin-top: 3em;
   border: none;
-  font-family: "ff-dax-compact-web-pro", sans-serif;
+  font-family: "vinyl", sans-serif;
   font-size: 0.6em;
   line-height: 1.4em;
 }
@@ -6611,7 +6614,7 @@ footer a:hover {
   margin-right: 1em;
 }
 .navbar {
-  font-family: "ff-dax-compact-web-pro", sans-serif;
+  font-family: "vinyl", sans-serif;
 }
 .navbar .navbar-brand {
   padding-top: 5px;
