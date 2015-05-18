@@ -15,7 +15,7 @@ github_url: "https://github.com/dirtyhenry/blog-deadrooster-org"
 markdown: kramdown
 
 permalink:  /:title.html
-exclude: [ 'bower_components', 'node_modules', 'bower.json', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb']
+exclude: [ 'bower_components', 'node_modules', 'bower.json', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb', 'assets/images/s3']
 
 gems:
   - jekyll-sitemap
