@@ -11,6 +11,7 @@ tags:
 cover: http://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/sardou-chalumeau.jpg
 description: >
   Quelles conclusions tirer de la lecture de Kif, de Laurent Chalumeau, sur notre relation à Michel Sardou ?
+  Dead Rooster a mené l'enquête, bancale et musicale, comme d'habitude.
 uuid: 1CBA2832-A6CF-4F91-B688-18A98B9B9792
 ---
 
