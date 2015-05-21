@@ -48,7 +48,7 @@ Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009, [j'é
 > Quand on gratte un peu plus loin, on trouve quand même quelques casseroles dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad... Hum...
 > Lire un second livre pour préciser son jugement sur Lolo me semble donc à la fois nécessaire et risqué. Nous vous tiendrons informé.
 
-Dont acte. Du coup, je me suis documenté. Et j'ai pas été déçu. Parce qu'en plus d'être un super romancier, Chalumean n'est pas le dernier des sages. Au sujet de Michel, avec qui il a co-écrit les paroles de *C'est pas du Brahms*, [il déclare](https://youtu.be/4OWp0nT9P0Y) : 
+Dont acte. Du coup, je me suis documenté. Et j'ai pas été déçu. Parce qu'en plus d'être un super romancier, Chalumeau n'est pas le dernier des sages. Au sujet de Michel, avec qui il a co-écrit les paroles de *C'est pas du Brahms*, [il déclare](https://youtu.be/4OWp0nT9P0Y) : 
 
 > J'ai passé 2 ans épatants avec Michel Sardou. 
 > Après avoir cessé d'écrire les sketches d'Antoine de Caunes à Canal, je me retrouve à adapter une pièce de Noël Coward pour servir de prétexte aux débuts sur les planches de Michel Sardou, comédien de théâtre.
@@ -67,8 +67,15 @@ Avant de conclure sur la fin de leurs 2 ans d'intimité :
 
 Une dernière [citation de Chalumeau sur les disques](https://youtu.be/Etu2yx_oEsg), opinion sur la magie des faces que je partage à 100% : 
 
-> On ne fait plus d'albums. Avec les baladeurs et la programmation aléatoire, l'album en tant que forme narrative, en tant que construction a reçu le coup de grâce après avoir été déjà bien mis à mal par l'apparition du CD qui avait tué la notion de face et de morceau de fin de face. 
-> Y'avait des sous-genres. Y'avait des morceaux de fin de face A, qui appelaient un autre sous-genre, c'était le morceau de début de face B avec évidemment le genre suprême, c'était le morceau de fin de face B. On a tous des souvenirs de morceaux qui rentrées dans l'histoire et dans les notres car elles étaient magnifiées par cet emplacement.
+> On ne fait plus d'albums. Avec les baladeurs et la programmation aléatoire, l'album en tant que forme narrative, 
+> en tant que construction a reçu le coup de grâce après avoir été déjà bien mis à mal par l'apparition du CD 
+> qui avait tué la notion de face et de morceau de fin de face.
+> 
+> Y'avait des sous-genres. Y'avait des morceaux de fin de face A, qui appelaient un autre sous-genre, 
+> c'était le morceau de début de face B avec évidemment le genre suprême, c'était le morceau de fin de face B. 
+> On a tous des souvenirs de morceaux qui sont rentrés dans l'histoire et dans les nôtres car ils étaient 
+> magnifiées par cet emplacement.
+> 
 > C'est dommage parce que y'a des gens qui savaient se nourrir de cette contrainte et de ce dispositif, et clairement ça inspirait.
 
 Chalumeau a aussi écrit des chansons pour Bruel et Michèle Torr. Mais je crois que je vais m'arrêter là sur mes enquêtes sur le passé de Chalumeau et seulement me concentrer sur ses bouquins.
