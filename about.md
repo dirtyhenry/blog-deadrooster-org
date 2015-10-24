@@ -13,3 +13,5 @@ que sur un PC.
  
 Nouveauté, le contenu de ce site et son code sont disponibles en open source sur 
 [GitHub]({{ site.github_url }}).
+
+Et pourquoi *Dead Rooster*&nbsp;? En référence à l'excellent court-métrage *Le coq est mort* de Zoltan Spirandelli.
