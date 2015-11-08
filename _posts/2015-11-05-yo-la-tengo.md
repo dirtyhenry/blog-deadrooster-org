@@ -6,7 +6,7 @@ authors:
   - Joe Gantdelaine
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/gunsnroses.jpg
 description: >
-  TODO
+  Récit du concert depuis un fauteuil ultra confortable
 uuid: E9101D76-A753-47E6-9F03-67CCB3FA9B8A
 ---
 
