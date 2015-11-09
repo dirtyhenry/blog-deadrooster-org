@@ -6536,6 +6536,10 @@ body {
   font-family: "freight-text-pro", serif;
   color: #444;
 }
+.embed-responsive {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 li {
   font-size: inherit;
 }
