@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kurt Vile"
-date:   2015-12-16 10:00:00
+title:  "Vite, Lumière d’Automne"
+date:   2015-12-18 12:00:00
 authors: 
   - Joe Gantdelaine
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/kurt-vile.jpg
