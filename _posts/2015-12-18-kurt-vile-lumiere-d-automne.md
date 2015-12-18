@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vite, Lumière d’Automne"
+title:  "Vile, Lumière d’Automne"
 date:   2015-12-18 12:00:00
 authors: 
   - Joe Gantdelaine
