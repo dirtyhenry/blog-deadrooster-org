@@ -6,7 +6,7 @@ authors:
   - Joe Gantdelaine
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/TODO.jpg
 description: >
-  TODO
+  Il aura fallu du temps pour ce nouvel article de l'Encyclopédie Approximative du Rock and Roll. La faute à l'illustration : un lion dans son milieu naturel ? Trop facile ! Un gros plan d'un fromage frais de Provence ? Bof ! Après des mois de labeur,  la voila, la seule, l'unique photo où Bruce lit.
 uuid: DA8D5662-2AAE-484A-9A44-C53233B1EA60
 ---
 
