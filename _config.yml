@@ -7,7 +7,7 @@ brand_logo: /assets/images/logo-dead-rooster-120.png
 url: "http://blog.deadrooster.org" # the base hostname & protocol for your site
 twitter_username: dead__rooster
 facebook_pagename: DeadRoosterBlog
-destination: ../blog-deadrooster-org-gh-pages
+destination: ~/Developer/build/blog-deadrooster-org-gh-pages
 postatic_url: "http://deadrooster.postatic.com"
 github_url: "https://github.com/dirtyhenry/blog-deadrooster-org"
 
