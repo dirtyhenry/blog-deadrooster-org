@@ -8,8 +8,10 @@ url: "http://blog.deadrooster.org" # the base hostname & protocol for your site
 twitter_username: dead__rooster
 facebook_pagename: DeadRoosterBlog
 destination: ~/Developer/build/blog-deadrooster-org-gh-pages
-postatic_url: "http://deadrooster.postatic.com"
 github_url: "https://github.com/dirtyhenry/blog-deadrooster-org"
+
+# The postatic link has been disabled as it wasn't really used by anyone.
+# postatic_url: "http://deadrooster.postatic.com"
 
 # Build settings
 markdown: kramdown
