@@ -33,14 +33,14 @@ Will Cullen Hart dans lequel joue notre pote Jeff, qui enregistre aussi des chan
 de Neutral Milk Hotel.
 
 En 1996, le premier album *On Every Island* est un joli coup d'essai. Les copains ont dépanné lors de
-l'enregistrement (Jeff bourlingue pas mal&nbsp;: Seatlle, Denver, New York) mais après la sortie du disque,
+l'enregistrement (Jeff bourlingue pas mal&nbsp;: Seattle, Denver, New York) mais après la sortie du disque,
 la composition du groupe se stabilise. Julian Koster (qui joue un peu de tout mais notamment du banjo et de
 la scie musicale), Scott Spillane (cuivres) et Jeremy Barnes (batterie) sont désormais des membres à part
 entière.
 
 ![Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel](assets/images/neutral-milk-hotel-lineup-90s.jpg)
 
-En 1998, le second *In An Aeroplane Over The Sea*, avec Schneider à la production, est un chef d'œuvre.
+En 1998, le second *In An Aeroplane Over The Sea*, avec Schneider à la production, est un chef-d'œuvre.
 À sa sortie, les critiques sont emballés et si les ventes restent confidentielles, leur niveau ne s'affaisse
 pas, jamais. Il finit même 6ème vinyle le plus vendu de l'année...
 [en 2008](http://www.rollingstone.com/music/news/radiohead-neutral-milk-hotel-help-vinyl-sales-almost-double-in-2008-20090108).
