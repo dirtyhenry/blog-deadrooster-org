@@ -92,7 +92,7 @@ L'occasion est donc idéale pour fournir une compile spéciale morceaux de fin d
 8. The Zombies - *Time of the Season*
 9. Arcade Fire - *In The Backseat*
 10. The Clash - *Train In Vain*
-7. The Beatles - *A Day in the Life* (absent sur Spotify)
+7. The Beatles - *A Day in the Life*
 
 
 <div id='finfaceb-playlist'
