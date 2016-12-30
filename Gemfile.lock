@@ -71,3 +71,9 @@ DEPENDENCIES
   jekyll (~> 2.5)
   jekyll-sitemap
   kramdown
+
+RUBY VERSION
+   ruby 2.2.5p319
+
+BUNDLED WITH
+   1.13.6
