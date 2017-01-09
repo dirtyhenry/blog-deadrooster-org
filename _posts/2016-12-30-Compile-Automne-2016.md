@@ -47,11 +47,11 @@ ne sera modifiée que par la patine du temps.
 
 Playlist et compile, chacune a ses mérites. Il n'est pas question de dire que
 l'une est meilleure que l'autre, mais la lente disparition des compiles nous
-chagrinaient. Il fallait agir.
+chagrinait. Il fallait agir.
 
 ## Découverte, prospection et patrimoine
 
-En octobre 2016, un extrait du pitch de la compil des 30 ans des Inrocks, nous
+En octobre 2016, un extrait du pitch de la compile des 30 ans des Inrocks, nous
 piquait au cœur :
 
 > En 1988, Les Inrockuptibles sortaient leur première compilation, Un Automne
