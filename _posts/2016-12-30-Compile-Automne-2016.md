@@ -9,7 +9,10 @@ tags:
   - compile
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/un-automne-2016.jpg
 description: >
-  La compile Automne 2016
+  Parce que les playlists c'est bien mais que les compiles c'est peut-être mieux.
+  Parce que les Inrocks ne font plus le boulot correctement.
+  Parce que nos valeurs sont découverte, prospection, patrimoine et frites.
+  Dead Rooster présente... Un Automne 2016.
 uuid: 9D311812-5275-4204-8E6B-17813076EEF2
 ---
 
@@ -19,29 +22,28 @@ uuid: 9D311812-5275-4204-8E6B-17813076EEF2
 
 [Il y a déjà plusieurs années][compilations], Dirty Henry fabriquait des
 compilations saisonnières, influencé par le calendrier appliqué par les Inrocks.
-Compile automne 2008, compile automne 2005, c'était lui.
+[Compile automne 2008][automne-2008], [compile été 2005][ete-2005], c'était lui.
 
 Joe Gantdelaine, lui, ce sont plutôt des moments de la semaine qui
-l'intéressaient. La compile du lundi matin, les deux volumes de la compile du
-samedi soir… On s'en souvient tous.
+l'intéressaient. [La compile du lundi matin][lundi-matin], [la compile du
+samedi soir volume 1][samedi-soir-1], [le volume 2][samedi-soir-2]… On s'en souvient tous.
 
 Petit à petit, ils sont devenus fainéants. Ils ont arrêté. Et les compiles,
-vestiges d'un temps jadis, ont commencé à laisser place aux playlists.
-Quelle différence ? Elles n'ont strictement rien à voir et, putain, il faut
-donc tout expliquer.
+vestiges d'un temps jadis, ont commencé à laisser place aux playlists. Quelle
+différence ? Elles n'ont strictement rien à voir et, putain, il faut donc tout
+expliquer.
 
 ## Playlist et compile : sémantique comparée
 
-Une **playlist**, c'est un flux. Elle peut durer 10 heures, 3 chansons, être jouée
-en aléatoire. Elle peut être générée par un robot. Elle tourne en boucle à
+Une **playlist**, c'est un flux. Elle peut durer 10 heures, 3 chansons, être
+jouée en aléatoire. Elle peut être générée par un robot. Elle tourne en boucle à
 l'occasion d'une St-Sylvestre, d'un mariage, d'une pendaison de crémaillère.
 Elle est mouvante. Les morceaux s'y ajoutent et s'en retirent.
 
-La **compile** — oui, avec un *e* à la fin — est un album dont on
-n'aurait pas écrit les chansons
-soi-même. On a choisi ses contraintes, sa durée, ses enchaînements. Elle a un
-début et une fin. Une fois signée de ses auteurs, elle ne sera modifiée que par
-la patine du temps.
+La **compile** — oui, avec un *e* à la fin — est un album dont on n'aurait pas
+écrit les chansons soi-même. On a choisi ses contraintes, sa durée, ses
+enchaînements. Elle a un début et une fin. Une fois signée de ses auteurs, elle
+ne sera modifiée que par la patine du temps.
 
 Playlist et compile, chacune a ses mérites. Il n'est pas question de dire que
 l'une est meilleure que l'autre, mais la lente disparition des compiles nous
@@ -50,19 +52,20 @@ chagrinaient. Il fallait agir.
 ## Découverte, prospection et patrimoine
 
 En octobre 2016, un extrait du pitch de la compil des 30 ans des Inrocks, nous
-piquait au coeur :
+piquait au cœur :
 
 > En 1988, Les Inrockuptibles sortaient leur première compilation, Un Automne
-> 88. Son but était de mélanger des coups de coeur de la rédaction, des
+> 88. Son but était de mélanger des coups de cœur de la rédaction, des
 > inconnus auxquels nous croyions et des illustres héros de la rédaction. Un
 > mélange de découverte, de prospection et de patrimoine que chaque compilation
 > créée par le magazine revendiquera ensuite.
 
-Découverte, prospection, patrimoine. Seules manquent les frites dans ce *manifeste*
-dans lequel Dirty & Joe se sont reconnus. Ils relancent donc les compiles Dead Rooster, en mode saisonnier et à 4 mains.
+Découverte, prospection, patrimoine. Seules manquent les frites dans ce
+*manifeste* dans lequel Dirty & Joe se sont reconnus. Ils relancent donc les
+compiles Dead Rooster, en mode saisonnier et à 4 mains.
 
-Mesdames et messieurs, sans vous faire attendre davantage, voici donc
-*Un Automne 2016*.
+Mesdames et messieurs, sans vous faire attendre davantage, voici donc *Un
+Automne 2016*.
 
 <div id='automne-2016-playlist'
      class="dr-playlist"
@@ -92,3 +95,8 @@ Mesdames et messieurs, sans vous faire attendre davantage, voici donc
 1. Jeremy & The Harlequins - *Into the Night*
 
 [compilations]: http://www.deadrooster.org/-Les-compiles-
+[automne-2008]: http://www.deadrooster.org/Compile-automne-2008
+[ete-2005]: http://www.deadrooster.org/Compile-ete-2005
+[lundi-matin]: http://www.deadrooster.org/La-compile-du-lundi-matin
+[samedi-soir-1]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-1
+[samedi-soir-2]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-2
