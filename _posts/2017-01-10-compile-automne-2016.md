@@ -94,9 +94,12 @@ Automne 2016*.
 1. Nick Cave & The Bad Seeds - *Rings of Saturn*
 1. Jeremy & The Harlequins - *Into the Night*
 
+[Illustration par @christhebarker][cover]
+
 [compilations]: http://www.deadrooster.org/-Les-compiles-
 [automne-2008]: http://www.deadrooster.org/Compile-automne-2008
 [ete-2005]: http://www.deadrooster.org/Compile-ete-2005
 [lundi-matin]: http://www.deadrooster.org/La-compile-du-lundi-matin
 [samedi-soir-1]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-1
 [samedi-soir-2]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-2
+[cover]: https://twitter.com/christhebarker/status/815342375354662912
