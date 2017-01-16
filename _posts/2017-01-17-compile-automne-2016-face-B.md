@@ -57,7 +57,7 @@ titres dans la liste de l'autre, liste d'une quarantaine de titres pour chacun.
 Autant te dire qu'*Un Automne 2016*, c'est vraiment le top du sommet de la crème
 écoutée au cours des 3 derniers mois. Et pour ta gouverne, sache donc que Dirty
 et Joe ont été quand même un peu frustrés de voir que l'autre
-<strike>con</strike> compère n'avait pas choisi le morceau de pop folk trop bien
+~~con~~ compère n'avait pas choisi le morceau de pop folk trop bien
 et hyper cool là ! Du coup, paf ! Face B !
 
 ## Mais c'est moins bien que la face A, non ?
