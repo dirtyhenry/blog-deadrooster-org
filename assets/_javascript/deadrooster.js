@@ -36,10 +36,11 @@
       target = $("#" + $(this).attr("dr-id-target"));
       return target.empty().append(spotifyIframe);
     });
-    return $(document).on('click', '#disqus-on', function() {
+    $(document).on('click', '#disqus-on', function() {
       $('#disqus-comments').css('display', 'block');
       return $('#disqus-on').remove();
     });
+    return $.bigfoot();
   });
 
 }).call(this);

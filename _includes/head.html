@@ -8,19 +8,20 @@
   {% for author in page.authors %}
   <meta name="author" content="{{ author }}">
   {% endfor %}
-  
+
   {% if site.title %}<meta property="og:site_name" content="{{ site.title }}">{% endif %}
   {% if page.title %}<meta property="og:title" content="{{ page.title }}">{% endif %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
   <meta property="og:type" content="article">
-  <meta property="og:locale" content="fr_FR"> 
+  <meta property="og:locale" content="fr_FR">
   {% if page.cover %}<meta property="og:image" content="{{ page.cover }}">{% endif %}
   <meta property="fb:app_id" content="1596358550653612">
   <meta property="article:publisher" content="https://www.facebook.com/DeadRoosterBlog">
-  
+
   <link rel="stylesheet" href="{{ "/assets/css/application.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/bigfoot-default.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 

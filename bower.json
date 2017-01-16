@@ -3,7 +3,8 @@
   "dependencies": {
     "bootstrap": "~3.3.1",
     "jquery": "~2.0.3",
-    "components-font-awesome": "~4.2.0"
+    "components-font-awesome": "~4.2.0",
+    "bigfoot": "^2.1.4"
   },
   "ignore": [
     "**/.*",

@@ -39,8 +39,8 @@ partager.
 
 Or, un jour, Dirty dit à Joe : "et si chacun de nous sélectionnait pendant 3
 mois ses morceaux favoris, entendus chaque semaine dans sa playlist, et les
-faisait écouter à l'autre ?". Et Joe de rétorquer : "t'es un génie Dirty !". Et
-de coup de génie en coup de génie, l'idée vint aux deux larrons de piocher dans
+faisait écouter à l'autre ?". Et Joe de rétorquer : "t'es un génie Dirty !"[^1].
+Et de coup de génie en coup de génie, l'idée vint aux deux larrons de piocher dans
 les choix de l'autre pour en tirer la substantifique moelle et vous l'offrir sur
 un plateau d'argent. *Un Automne 2016*, c'est ça : 10 titres choisis par Mick
 dans les morceaux de Joe et vice-versa.
@@ -72,5 +72,39 @@ pour une nouvelle grosse heure de musique estampillée Dead Rooster.
 
 En revanche, inutile d'espérer une face C. Mick et Joe ont déjà tourné leurs
 oreilles vers *Un Printemps 2017* !
+
+<div id='automne-2016-playlist'
+     class="dr-playlist"
+     dr-spotify-id="7jfYizYX4G9qTR76PspPFh"
+     dr-spotify-user="guiguilele">
+</div>
+
+### Face Joe
+
+1. J Fernandez - *Read My Mind*
+1. The Smoking Trees - *Home in the Morning*
+1. Meatbodies - *Valley Girl*
+1. Billy Bragg, Wilco - *Way Over Yonder In The Minor Key*
+1. Emitt Rhodes - *With My Face On The Floor*
+1. Atlas Sound - *Lightworks*
+1. Tracy Bryant - *Subterranean*
+1. Angry Angles - *Things are moving (unreleased version)*
+1. Cotton Jones Basket Ride - *The Spinning Wheel*
+1. Froth - *Afternoon*
+
+### Face Dirty
+
+1. Nada Surf - *New Bird*
+1. James - *Sit Down*
+1. Another Sunny Day - *You Should All Be Murdered*
+1. Amber Arcades - *Come With Me*
+1. Beat Happening - *Indian Summer*
+1. Josefin Öhrn + The Liberation - *The State (I'm In)*
+1. Caribou - *Bees*
+1. Death in Vegas - *Girls*
+1. Black Grape - *Reverend Black Grape*
+1. The O'Jays - *Love Train*
+
+[^1]: et là, Dirty aurait répliqué : "En fait, on a qu'à dire qu'on peut aussi y mettre des chansons découvertes ou redécouvertes ailleurs. Spotify ne sera qu'un canal parmi d'autres". Mais Joe n'a pas retenu ça, et lui, il n'a pris que des morceaux de la playlist hebdomadaire. 😀
 
 [chiant]: https://www.youtube.com/watch?v=SbZL91_Kvi0e

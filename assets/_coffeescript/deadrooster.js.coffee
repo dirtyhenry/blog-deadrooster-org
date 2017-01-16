@@ -8,7 +8,7 @@ jQuery ->
         button.attr('dr-spotify-id', $(this).attr('dr-spotify-id'))
         button.attr('dr-spotify-user', $(this).attr('dr-spotify-user'))
         button.attr('dr-id-target', $(this).attr('id'))
-        button.html "Charger le player Spotify"        
+        button.html "Charger le player Spotify"
 
         # Create the link
         link = $(document.createElement('a'))
@@ -19,10 +19,10 @@ jQuery ->
         span = $(document.createElement('span'))
         span.append "&nbsp;ou&nbsp;"
         span.append link
-        
+
         $(this).empty().append(button).append(span)
     )
-    
+
     $('a').each(() ->
         title = $(this).attr("title")
         prefix = "Tooltip "
@@ -38,20 +38,22 @@ jQuery ->
         spotifyId = $(this).attr("dr-spotify-id")
         spotifyUser = $(this).attr("dr-spotify-user")
         ga('send', 'event', 'spotify-button', 'click-load-iframe', spotifyId);
-        
+
         spotifyIframe = $(document.createElement('iframe'))
         spotifyIframe.attr('src', 'https://embed.spotify.com/?uri=spotify:user:' + spotifyUser + ':playlist:' + spotifyId)
         spotifyIframe.attr('width', 300).attr('height', 380).attr('frameborder', 0).attr('allowtransparency', "true")
-        
+
         target = $("#" + $(this).attr("dr-id-target"))
         target.empty().append(spotifyIframe)
     )
-    
+
     $(document).on('click', '#disqus-on', () ->
         $('#disqus-comments').css('display', 'block')
         $('#disqus-on').remove()
     )
-    
+
+    $.bigfoot()
+
     # console.log "MICK"
     # $('#first-page-background').css("position", "absolute")
     # $('#first-page-background').css("top", 54)

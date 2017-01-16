@@ -39,6 +39,12 @@ grunt.initConfig({
         {expand: true, cwd: 'bower_components/components-font-awesome/css/', src: ['font-awesome.min.css'], dest: 'assets/css/'},
         {expand: true, cwd: 'bower_components/components-font-awesome/fonts/', src: ['*'], dest: 'assets/fonts/'}
       ]
+    },
+    bigfoot: {
+      files: [
+        {expand: true, cwd: 'bower_components/bigfoot/dist/', src: ['bigfoot.min.js'], dest: 'assets/js/'},
+        {expand: true, cwd: 'bower_components/bigfoot/dist/', src: ['bigfoot-default.css'], dest: 'assets/css/'},        
+      ]
     }
   },
   coffee: {
