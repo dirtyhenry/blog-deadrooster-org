@@ -1,10 +1,13 @@
 # Site settings
+environment: development
+
 title: Dead Rooster
 description: > # this means to ignore newlines until "baseurl:"
-  Le fantastique nouveau blog 2.0. Les anciens posts sont toujours disponibles sur <a href='http://deadrooster.org'>deadrooster.org</a>.
+  Le fantastique nouveau blog 2.0. Les anciens posts sont toujours disponibles
+  sur <a href='http://deadrooster.org'>deadrooster.org</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 brand_logo: /assets/images/logo-dead-rooster-120.png
-url: "http://blog.deadrooster.org" # the base hostname & protocol for your site
+url: "http://blog-deadrooster-org.dev" # the base hostname & protocol for your site
 twitter_username: dead__rooster
 facebook_pagename: DeadRoosterBlog
 destination: ~/Developer/build/blog-deadrooster-org-gh-pages

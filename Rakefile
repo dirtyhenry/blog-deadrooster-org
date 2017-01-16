@@ -1,18 +1,18 @@
 namespace :dead_rooster do
-  # desc "Production Build"
-  # task :build_prod do
-  #   sh "jekyll build --config _config.yml,_config_production.yml"
-  # end
+  desc "Production Build"
+  task :build_prod do
+    sh "jekyll build --config _config.yml,_config_production.yml"
+  end
 
   # desc "Staging Build"
   # task :build_staging do
   #   sh "jekyll build --config _config.yml,_config_staging.yml"
   # end
 
-  # desc "Development Build"
-  # task :build_dev do
-  #   sh "jekyll build --config _config.yml"
-  # end
+  desc "Development Build"
+  task :build_dev do
+    sh "jekyll build --config _config.yml"
+  end
 
   desc "Create directories"
   task :create_dir do

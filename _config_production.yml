@@ -1,0 +1,4 @@
+# Site settings
+environment: production
+
+url: "http://blog.deadrooster.org" # the base hostname & protocol for your site
