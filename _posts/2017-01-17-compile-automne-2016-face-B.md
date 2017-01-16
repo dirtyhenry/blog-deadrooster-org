@@ -42,7 +42,7 @@ mois ses morceaux favoris, entendus chaque semaine dans sa playlist, et les
 faisait écouter à l'autre ?". Et Joe de rétorquer : "t'es un génie Dirty !"[^1].
 Et de coup de génie en coup de génie, l'idée vint aux deux larrons de piocher dans
 les choix de l'autre pour en tirer la substantifique moelle et vous l'offrir sur
-un plateau d'argent. *Un Automne 2016*, c'est ça : 10 titres choisis par Mick
+un plateau d'argent. *Un Automne 2016*, c'est ça : 10 titres choisis par Dirty
 dans les morceaux de Joe et vice-versa.
 
 ## Et ça se dit explorateur des temps modernes ?
@@ -63,14 +63,14 @@ et hyper cool là ! Du coup, paf ! Face B !
 ## Mais c'est moins bien que la face A, non ?
 
 Mieux ou moins bien, on ne sait pas, et de toute façon, on n'est pas là pour
-faire un Top des compiles. Pour concevoir la face B, Mick et Joe ont dû
+faire un Top des compiles. Pour concevoir la face B, Dirty et Joe ont dû
 vaillamment sauver des eaux 10 titres de leur liste personnelle qui, sans eux,
 seraient définitivement tombés dans les tréfonds du monde numérique. Ne les
 remerciez pas, quand on peut aider, c'est tout naturel. Ces morceaux, ils les
 aiment tout autant que ceux de la face A. Ce qui fait que vous voila bien parés
 pour une nouvelle grosse heure de musique estampillée Dead Rooster.
 
-En revanche, inutile d'espérer une face C. Mick et Joe ont déjà tourné leurs
+En revanche, inutile d'espérer une face C. Dirty et Joe ont déjà tourné leurs
 oreilles vers *Un Printemps 2017* !
 
 <div id='automne-2016-playlist'
