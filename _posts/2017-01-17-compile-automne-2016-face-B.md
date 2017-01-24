@@ -23,7 +23,7 @@ vieille histoire, commencée tout gosse. Alors quand on parle de compile, faut
 longtemps. Ou bien qu'on aime, là, maintenant, au moment où on la fait. Mais
 attendez, [ce paragraphe est chiant !][chiant]
 
-Bref, vous avez eu la chance de découvrir *Un Automne 2016*, première compile
+Bref, vous avez eu la chance de découvrir [*Un Automne 2016*][faceA], première compile
 Dead Rooster depuis… pfiou, tout ça au moins. Ça nous rajeunit pas. Et donc,
 pour fêter ce retour, on vous offre aujourd'hui 20 titres de plus, gratos,
 cadeau, bonus !
@@ -31,7 +31,7 @@ cadeau, bonus !
 ## Mais, pourquoi ?
 
 Alors là, vous êtes bien indiscrets. Mais comme vous m'êtes sympathiques, je
-m'en vais vous révéler quelques secrets de fabrication d'*Un Automne 2016*. Tout
+m'en vais vous révéler quelques secrets de fabrication d'[*Un Automne 2016*][faceA]. Tout
 commença avec la constatation que Spotify, par le biais de ses playlists
 hebdomadaires, nous fait découvrir ou redécouvrir pas mal de p'tites pépites
 qu'il est bien dommage de voir disparaître la semaine suivante sans avoir pu les
@@ -42,7 +42,7 @@ mois ses morceaux favoris, entendus chaque semaine dans sa playlist, et les
 faisait écouter à l'autre ?". Et Joe de rétorquer : "t'es un génie Dirty !"[^1].
 Et de coup de génie en coup de génie, l'idée vint aux deux larrons de piocher dans
 les choix de l'autre pour en tirer la substantifique moelle et vous l'offrir sur
-un plateau d'argent. *Un Automne 2016*, c'est ça : 10 titres choisis par Dirty
+un plateau d'argent. [*Un Automne 2016*][faceA], c'est ça : 10 titres choisis par Dirty
 dans les morceaux de Joe et vice-versa.
 
 ## Et ça se dit explorateur des temps modernes ?
@@ -54,7 +54,7 @@ objet de faire découvrir les choses brûlantes du moment. Pour ça, va sur
 Pitchfork, Stereogum, que sais-je encore. D'autre part, chacun a choisi 10
 titres dans la liste de l'autre, liste d'une quarantaine de titres pour chacun.
 
-Autant te dire qu'*Un Automne 2016*, c'est vraiment le top du sommet de la crème
+Autant te dire qu'[*Un Automne 2016*][faceA], c'est vraiment le top du sommet de la crème
 écoutée au cours des 3 derniers mois. Et pour ta gouverne, sache donc que Dirty
 et Joe ont été quand même un peu frustrés de voir que l'autre
 ~~con~~ compère n'avait pas choisi le morceau de pop folk trop bien
@@ -107,4 +107,5 @@ oreilles vers *Un Printemps 2017* !
 
 [^1]: et là, Dirty aurait répliqué : "En fait, on a qu'à dire qu'on peut aussi y mettre des chansons découvertes ou redécouvertes ailleurs. Spotify ne sera qu'un canal parmi d'autres". Mais Joe n'a pas retenu ça, et lui, il n'a pris que des morceaux de la playlist hebdomadaire. 😀
 
-[chiant]: https://www.youtube.com/watch?v=SbZL91_Kvi0e
+[chiant]: https://youtu.be/SbZL91_Kvi0
+[faceA]: {% post_url 2017-01-10-compile-automne-2016 %}
