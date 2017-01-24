@@ -19,7 +19,7 @@ importe. Deep Purple peut s'enorgueillir d'être considéré, au même
 titre que Metallica, comme des précurseurs du hard rock. Et, en tout
 cas, Deep Purple est une source d'inspiration pour bon nombre
 d'artistes. Ainsi de Motörhead dont le nom fait directement référence au
-titre d'un album de 1973. Ainsi de [Prince][prince] qui décida de refaire toute sa garde
+titre d'un album de 1972. Ainsi de [Prince][prince] qui décida de refaire toute sa garde
 robe après un concert du groupe à Minneapolis.
 
 Parmi ses membres marquants, Dany Glover, Joe Satriani et Ritchie
