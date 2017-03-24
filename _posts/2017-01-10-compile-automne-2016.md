@@ -54,8 +54,8 @@ chagrinait. Il fallait agir.
 En octobre 2016, un extrait du pitch de la compile des 30 ans des Inrocks, nous
 piquait au cœur :
 
-> En 1988, Les Inrockuptibles sortaient leur première compilation, Un Automne
-> 88. Son but était de mélanger des coups de cœur de la rédaction, des
+> En 1988, Les Inrockuptibles sortaient leur première compilation, Un Automne 88.
+> Son but était de mélanger des coups de cœur de la rédaction, des
 > inconnus auxquels nous croyions et des illustres héros de la rédaction. Un
 > mélange de découverte, de prospection et de patrimoine que chaque compilation
 > créée par le magazine revendiquera ensuite.
@@ -94,6 +94,8 @@ Automne 2016*.
 1. Nick Cave & The Bad Seeds - *Rings of Saturn*
 1. Jeremy & The Harlequins - *Into the Night*
 
+Par ici pour la [face B][faceB].
+
 [Illustration par @christhebarker][cover]
 
 [compilations]: http://www.deadrooster.org/-Les-compiles-
@@ -103,3 +105,4 @@ Automne 2016*.
 [samedi-soir-1]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-1
 [samedi-soir-2]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-2
 [cover]: https://twitter.com/christhebarker/status/815342375354662912
+[faceB]: {% post_url 2017-01-17-compile-automne-2016-face-B %}

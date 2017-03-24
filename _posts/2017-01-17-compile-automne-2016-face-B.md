@@ -67,7 +67,7 @@ faire un Top des compiles. Pour concevoir la face B, Dirty et Joe ont dû
 vaillamment sauver des eaux 10 titres de leur liste personnelle qui, sans eux,
 seraient définitivement tombés dans les tréfonds du monde numérique. Ne les
 remerciez pas, quand on peut aider, c'est tout naturel. Ces morceaux, ils les
-aiment tout autant que ceux de la face A. Ce qui fait que vous voila bien parés
+aiment tout autant que ceux de la face A. Ce qui fait que vous voilà bien parés
 pour une nouvelle grosse heure de musique estampillée Dead Rooster.
 
 En revanche, inutile d'espérer une face C. Dirty et Joe ont déjà tourné leurs
