@@ -71,7 +71,7 @@ aiment tout autant que ceux de la face A. Ce qui fait que vous voilà bien paré
 pour une nouvelle grosse heure de musique estampillée Dead Rooster.
 
 En revanche, inutile d'espérer une face C. Dirty et Joe ont déjà tourné leurs
-oreilles vers *Un Printemps 2017* !
+oreilles vers [*Un Hiver 2017*][hiver-2017] !
 
 <div id='automne-2016-playlist'
      class="dr-playlist"
@@ -109,3 +109,4 @@ oreilles vers *Un Printemps 2017* !
 
 [chiant]: https://youtu.be/SbZL91_Kvi0
 [faceA]: {% post_url 2017-01-10-compile-automne-2016 %}
+[hiver-2017]: {% post_url 2017-04-03-compile-hiver-2017 %}
