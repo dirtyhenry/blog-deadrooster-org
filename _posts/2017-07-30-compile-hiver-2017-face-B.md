@@ -27,15 +27,15 @@ En 1987, y'avait des guerres et des dictatures un peu partout. Y'avait de la cor
 
 Bref, quand tu regardes ce qu'il se pasait en 1987, ça puait du cul grave.
 
-Pourtant, de mon côté, ça allait. Astérix, Gaston et ses bons vieux Boule et Bill me faisaient trop marrer. [Eudes mettait des coups de poing sur le nez d'Agnan et Clotaire allait devenir premier de la classe grâce à sa nouvelle paire de lunettes][petit-nicolas]. Je commençais déjà à développer un mépris profond à l'égard de Michael Jackson et Madonna. Je leur préfèrais Jean-Jacques Goldman, U2 et Sabrina, dont je ne pouvais me lasser du [clip de *Boys Boys Boys*][sabrina]. Le [clip de *Hunting High & Low*][a-ha] me donnait des cauchemars, [le générique de *Manimal*][https://www.youtube.com/watch?v=GM9VL4Bc_Ds] aussi, mais je les aimais bien quand même. Les Rita Mitsouko et Serge Gainsbourg aussi me faisaient très peur. Peut-être pas autant que [les pubs pour Spontex][spontex].
+Pourtant, de mon côté, ça allait. Astérix, Gaston et ses bons vieux Boule et Bill me faisaient trop marrer. [Eudes mettait des coups de poing sur le nez d'Agnan et Clotaire allait devenir premier de la classe grâce à sa nouvelle paire de lunettes][petit-nicolas]. Je commençais déjà à développer un mépris profond à l'égard de Michael Jackson et Madonna. Je leur préfèrais Jean-Jacques Goldman, U2 et Sabrina, dont je ne pouvais me lasser du [clip de *Boys Boys Boys*][sabrina]. Le [clip de *Hunting High & Low*][a-ha] me donnait des cauchemars, [le générique de *Manimal*][manimal] aussi, mais je les aimais bien quand même. Les Rita Mitsouko et Serge Gainsbourg aussi me faisaient très peur. Peut-être pas autant que [les pubs pour Spontex][spontex].
 
-1987, ça puait du coup mais je trouvais ça kiffant.
+1987, ça puait du cul mais je trouvais ça kiffant.
 
 ## 1987-2017 : le duel
 
 Aujourd'hui, on est en 2017.
 
-Les hologrammes, je trouve ça un peu ringard. Gulli a remplacé Dorothée. Enfin je crois, je ne regarde plus la télé, c'est trop ringard. Chuck Berry est mort, Tapie est sûrement au tribunal. Y'a des guerres, des dictatures et des attentats au camion piégé. Ça pue encore pas mal du cul.
+Les hologrammes, je trouve ça un peu ringard. Gulli a remplacé Dorothée. Enfin je crois, je ne regarde plus la télé, je regarde Internet. Chuck Berry est mort, Tapie est sûrement au tribunal. Y'a des guerres, des dictatures et des attentats au camion piégé. Ça pue encore pas mal du cul.
 
 Mais aussi, y'a [Chalumeau qui aligne les chefs d'œuvre][vip], [*Zaï Zaï Zaï Zaï*][zai] qui est le truc le plus drôle depuis piouf, des mecs qui arrivent à se montrer brillant [en parlant d'un chien qui fait du sport][airbud], y'a un nouvel album d'Arcade Fire, y'a [*Master of None*][masterofnone], y'a [un bouquin sur le chez soi][chezsoi] à lire d'urgence, y'a [*The Lost City of Z*][lostcityofz], y'a Messi, Griezmann et Matuidi. Y'a la famille, les potes et les enfants.
 
