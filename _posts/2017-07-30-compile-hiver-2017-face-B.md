@@ -37,7 +37,7 @@ Aujourd'hui, on est en 2017.
 
 Les hologrammes, je trouve ça un peu ringard. Gulli a remplacé Dorothée. Enfin je crois, je ne regarde plus la télé, je regarde Internet. Chuck Berry est mort, Tapie est sûrement au tribunal. Y'a des guerres, des dictatures et des attentats au camion piégé. Ça pue encore pas mal du cul.
 
-Mais aussi, y'a [Chalumeau qui aligne les chefs d'œuvre][vip], [*Zaï Zaï Zaï Zaï*][zai] qui est le truc le plus drôle depuis piouf, des mecs qui arrivent à se montrer brillant [en parlant d'un chien qui fait du sport][airbud], y'a un nouvel album d'Arcade Fire, y'a [*Master of None*][masterofnone], y'a [un bouquin sur le chez soi][chezsoi] à lire d'urgence, y'a [*The Lost City of Z*][lostcityofz], y'a Messi, Griezmann et Matuidi. Y'a la famille, les potes et les enfants.
+Mais aussi, y'a [Chalumeau qui aligne les chefs d'œuvre][vip], [*Zaï Zaï Zaï Zaï*][zai] qui est le truc le plus drôle depuis piouf, des mecs qui arrivent à se montrer brillant [en parlant d'un chien qui fait du sport][airbud], y'a un nouvel album d'Arcade Fire, y'a [*Master of None*][masterofnone], y'a [un bouquin sur le chez soi][chezsoi] à lire d'urgence, y'a [*The Lost City of Z*][lostcityofz], y'a Griezmann, M'Bappé et Matuidi. Y'a la famille, les potes et les enfants.
 
 Y'a la face B de notre compile Hiver 2017.
 
