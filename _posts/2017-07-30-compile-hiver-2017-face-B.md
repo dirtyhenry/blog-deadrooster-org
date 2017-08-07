@@ -25,9 +25,9 @@ Cette même année, Chuck Berry, [il avait collé des mandales dans la gueule d�
 
 En 1987, y'avait des guerres et des dictatures un peu partout. Y'avait de la corruption dans tous les sens. Des histoires de trafic d'armes. Des attentats au camion piégé. Y'avait Thatcher, l'URSS, Pinochet, l'IRA et la mort de Dalida.
 
-Bref, quand tu regardes ce qu'il se pasait en 1987, ça puait du cul grave.
+Bref, quand tu regardes, 1987, ça puait du cul grave.
 
-Pourtant, de mon côté, ça allait. Astérix, Gaston et ses bons vieux Boule et Bill me faisaient trop marrer. [Eudes mettait des coups de poing sur le nez d'Agnan et Clotaire allait devenir premier de la classe grâce à sa nouvelle paire de lunettes][petit-nicolas]. Je commençais déjà à développer un mépris profond à l'égard de Michael Jackson et Madonna. Je leur préfèrais Jean-Jacques Goldman, U2 et Sabrina, dont je ne pouvais me lasser du [clip de *Boys Boys Boys*][sabrina]. Le [clip de *Hunting High & Low*][a-ha] me donnait des cauchemars, [le générique de *Manimal*][manimal] aussi, mais je les aimais bien quand même. Les Rita Mitsouko et Serge Gainsbourg aussi me faisaient très peur. Peut-être pas autant que [les pubs pour Spontex][spontex].
+Pourtant, de mon côté, ça allait. Astérix, Gaston et ses bons vieux Boule et Bill me faisaient trop marrer. [Eudes mettait des coups de poing sur le nez d'Agnan et Clotaire allait devenir premier de la classe grâce à sa nouvelle paire de lunettes][petit-nicolas]. Je commençais déjà à développer un mépris profond à l'égard de Michael Jackson et Madonna. Je leur préférais Jean-Jacques Goldman, U2 et Sabrina, dont je ne pouvais me lasser du [clip de *Boys Boys Boys*][sabrina]. Le [clip de *Hunting High & Low*][a-ha] me donnait des cauchemars, [le générique de *Manimal*][manimal] aussi, mais je les aimais bien quand même. Les Rita Mitsouko et Serge Gainsbourg aussi me faisaient très peur. Peut-être pas autant que [les pubs pour Spontex][spontex]. Mais si fallait passer par ça pour tomber sur [la pub Banga][banga], alors ça valait le coup.
 
 1987, ça puait du cul mais je trouvais ça kiffant.
 
@@ -35,7 +35,7 @@ Pourtant, de mon côté, ça allait. Astérix, Gaston et ses bons vieux Boule et
 
 Aujourd'hui, on est en 2017.
 
-Les hologrammes, je trouve ça un peu ringard. Gulli a remplacé Dorothée. Enfin je crois, je ne regarde plus la télé, je regarde Internet. Chuck Berry est mort, Tapie est sûrement au tribunal. Y'a des guerres, des dictatures et des attentats au camion piégé. Ça pue encore pas mal du cul.
+Les hologrammes, je trouve ça un peu ringard. Gulli a remplacé Dorothée. Enfin je crois, je ne regarde plus la télé, je regarde Internet. Chuck Berry est mort, Tapie est sûrement au tribunal. Y'a des guerres, des dictatures et des attentats au camion piégé. 2017, ça pue encore pas mal du cul.
 
 Mais aussi, y'a [Chalumeau qui aligne les chefs d'œuvre][vip], [*Zaï Zaï Zaï Zaï*][zai] qui est le truc le plus drôle depuis piouf, des mecs qui arrivent à se montrer brillant [en parlant d'un chien qui fait du sport][airbud], y'a un nouvel album d'Arcade Fire, y'a [*Master of None*][masterofnone], y'a [un bouquin sur le chez soi][chezsoi] à lire d'urgence, y'a [*The Lost City of Z*][lostcityofz], y'a Griezmann, M'Bappé et Matuidi. Y'a la famille, les potes et les enfants.
 
@@ -91,3 +91,4 @@ Y'a la face B de notre compile Hiver 2017.
 [masterofnone]: https://fr.wikipedia.org/wiki/Master_of_None
 [chezsoi]: http://next.liberation.fr/vous/2015/04/14/mona-chollet-pour-une-revolution-domestique_1233018
 [lostcityofz]: http://www.allocine.fr/film/fichefilm_gen_cfilm=223754.html
+[banga]: http://www.dailymotion.com/video/x9tm8y
