@@ -82,7 +82,7 @@ Y'a la face B de notre compile Hiver 2017.
 [chuck]: http://www.nytimes.com/2003/02/23/us/sweet-tunes-fast-beats-and-a-hard-edge.html?pagewanted=5
 [petit-nicolas]: https://fr.wikipedia.org/wiki/Le_Petit_Nicolas
 [sabrina]: https://www.youtube.com/watch?v=e2whTQgYHOs
-[a-ha]: https://www.youtube.com/watch?v=e2whTQgYHOs
+[a-ha]: https://www.youtube.com/watch?v=mPAzwUhXnzs
 [manimal]: https://www.youtube.com/watch?v=GM9VL4Bc_Ds
 [spontex]: http://www.ina.fr/video/PUB3784059111
 [vip]: http://www.rtl.fr/culture/arts-spectacles/vip-de-laurent-chalumeau-l-un-des-meilleurs-polars-du-moment-7788124645
