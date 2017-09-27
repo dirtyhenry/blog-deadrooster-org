@@ -115,8 +115,6 @@ Prends ça dans ta gueule Marcel Proust !
 1. Fugazi - *I'm So Tired*
 1. William Tyler - *I’m Gonna Live Forever (If It Kills Me)*
 
-[Photo par TODO](https://todo).
-
 [bipbip]: https://open.spotify.com/track/2HW2IhcFUXYkX8a3zm6io0
 [lyrics-ma]: https://genius.com/Joe-dassin-bip-bip-lyrics
 [lyrics-la]: https://www.paroles.net/joe-dassin/paroles-bip-bip
