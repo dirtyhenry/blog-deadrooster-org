@@ -8,8 +8,7 @@ tags:
   - compile
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Été+2017-face+B.jpg
 description: >
-  Bon les gars, on arrête les conneries, la vie est trop courte pour écouter du Solange.
-  Il vaut mieux écouter du Sinéad et manger du jambon.
+  Où je suis un vieux con qui arrête les conneries pour de bon. La vie est trop courte pour écouter Solange ou Vianney. Il vaut mieux ré-écouter du Sinéad ou se délecter d'un bon vieux jambon beurre.
 uuid: 956E6C97-E2FA-4EFE-AA65-158F0721D047
 ---
 
