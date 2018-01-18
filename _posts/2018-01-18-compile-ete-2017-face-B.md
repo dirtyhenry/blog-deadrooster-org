@@ -14,7 +14,7 @@ uuid: 956E6C97-E2FA-4EFE-AA65-158F0721D047
 
 ![Un Été 2017, face B]({{ page.cover }})
 
-Janvier 2017. Ma résolution ? Frustré de tous ces lineups de festival sans nom évocateur, je décidai d'écouter davantage de musique contemporaine et d'utiliser le passé simple de temps en temps. Je cèderai ainsi aux tops de fin d'année et me plongerai dans ces Solange, Frank Ocean ou Change the Rapper. Oui, pour me la donner à donf dans les surpat' et que la vie soit bath de ouf, j'écouterai même Vianney, Møme et Petit Biscuit.
+Janvier 2017. Ma résolution ? Frustré de tous ces lineups de festival sans nom évocateur, je décidai d'écouter davantage de musique contemporaine et d'utiliser le passé simple de temps en temps. Je cèderai ainsi aux tops de fin d'année et me plongerai dans ces Solange, Frank Ocean ou Chance the Rapper. Oui, pour me la donner à donf dans les surpat' et que la vie soit bath de ouf, j'écouterai même Vianney, Møme et Petit Biscuit.
 
 Janvier 2018. Le bilan ? Zéro. Nul. Nul à chier même, tiens.
 
@@ -22,7 +22,7 @@ Rien en 2017 ne m'a tapé l'oreille. Tous les radars que j'avais mis en place, l
 
 ## Merci pour les mauvaises graines
 
-Rien en 2017 ne m'a tapé l'oreille ? Non, ce n'est pas ça. Rien **qui soit sorti en 2016 ou 2017** ne m'a tapé l'oreille. Voilà. C'est la bonne formulation. Je me suis envoyé tout le top 50 de Pitchfork. Pour quel résultat ? Le voilà le résultat !
+Rien en 2017 ne m'a tapé l'oreille ? Non, ce n'est pas ça. Rien **qui soit sorti en 2016 ou 2017** ne m'a tapé l'oreille. Voilà. C'est la bonne formulation. Je me suis envoyé tout le top 50 de Pitchfork. Pour quel résultat ? Le voilà le résultat !
 
 ![Mon bilan du Top 50 de Pitchfork de 2016][bilan]
 
@@ -32,19 +32,19 @@ Ma signalétique est claire :
 * Un rond, c'est pas trop mal
 * Un cœur, j'aime bien
 
-Un seul petit cœur, bordel ! **50** albums et **1** petit cœur ! Et encore ! Nick Cave & the Bad Seeds ! Le seul qui a réussi à me faire dessiner un petit cœur son mon petit carnet fêtait, pendant ce temps, ses 60 balais.
+Un seul petit cœur, bordel ! **50** albums et **1** petit cœur ! Et encore ! Nick Cave & the Bad Seeds ! Le seul qui a réussi à me faire dessiner un petit cœur dans mon petit carnet fêtait, pendant ce temps, ses 60 balais.
 
 Quant aux sorties de 2017, quelques disques honorables mais même les artistes de mon panthéon personnel déçoivent : [Arcade Fire qui fait du ABBA][arcade-fire-par-libe], The National, Grizzly Bear, Fleet Foxes... Mouais, vous m'avez déçu les mecs :
 
 <iframe src="https://giphy.com/embed/pVAMI8QYM42n6" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Pourtant, j'ai tenté de persévérer. Là, ce début janvier, le top album 2017 des Inrocks en main, je me relève et retourne affronter les premiers noms de la liste. Kendrick Lamar ? Je renonce au bout de 5 minutes. King Krule ? À peine davantage. Et merde.
+Pourtant, j'ai persévéré. Là, ce début janvier, le top album 2017 des Inrocks en main, je me relève et retourne affronter les premiers noms de la liste. Kendrick Lamar ? Je renonce au bout de 5 minutes. King Krule ? À peine davantage. Et merde.
 
 Mais alors, que faire ? Jeter ses disques ? Brûler son abonnement Spotify et casser l'aiguille du poste une bonne fois pour toute, après l'avoir bien calée sur France Info ?
 
 Heureusement, non.
 
-Plus haut, j'ai pris soin de reformuler car, tout compte fait, plusieurs choses en 2017 m'ont tapé l'oreille. Pas des nouveautés. Pas mêmes des découvertes. Des **redécouvertes**.
+Plus haut, j'ai pris soin de reformuler car, tout compte fait, plusieurs choses en 2017 m'ont tapé l'oreille. Pas des nouveautés. Pas mêmes des découvertes. Non, des **redécouvertes**.
 
 ## Où, sans déconner, j'aime bien Sinéad O'Connor
 
