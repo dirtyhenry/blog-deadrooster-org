@@ -77,6 +77,38 @@ Du jambon de Paris
 Ou bien d'Aoste.  
 Je t'aime ô jambon.  
 
+<div id='ete-2017-face-B-playlist'
+     class="dr-playlist"
+     dr-spotify-id="3Iy02RR8SSSoBhmspNDyAF"
+     dr-spotify-user="guiguilele">
+</div>
+
+### Face Dirty
+
+1. Them - *Baby, Please Don't Go*
+1. Crocodiles - *U Sexy Thing*
+1. The Lemon Twigs - *Night Song*
+1. Aretha Franklin - *The Weight*
+1. Pavo Pavo - *Ran Ran Run*
+1. The Velvet Underground - *Sweet Jane - Full Length 2015 Remastered*
+1. Alvvays - *In Undertow*
+1. Them - *It's All Over Now, Baby Blue*
+1. Supergrass - *Coffee In The Pot*
+1. Sharon Van Etten - *We Are Fine*
+
+### Face Joe
+
+1. Benjamin Gibbard - *Something’s Rattling (Cowpoke)*
+1. Beyond The Wizards Sleeve - *Door To Tomorrow*
+1. The Gun Club - *Mother of Earth*
+1. Reigning Sound - *Stormy Weather*
+1. Ty Segall - *Black Magick*
+1. King Khan and the Shrines - *Luckiest Man*
+1. Frank Black - *(I Want to Live on An) Abstract Plain*
+1. Birdie - *Let Her Go*
+1. Big Thief - *Shark Smile*
+1. The Clash - *Charlie Don't Surf*
+
 [^1]: OK, je sais que l'originale est de The Family et qu'elle a été écrite par Prince. Alors, tu te calmes !
 [^2]: J'ai fait les maths : il paraît qu'il y a 50 000 000 d'albums qui ont été publiés et j'ai évalué mes écoutes à 200 albums par an depuis mes 11 ans. Les plus forts en règle de 3 d'entre vous connaissent mon âge désormais, à la règle des *intervalles ou poteaux* près.
 [bilan]: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/pitchfork-top-50-2016.png

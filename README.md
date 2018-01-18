@@ -21,7 +21,7 @@ repository:
 
 To deploy:
 
-1. From the Jekyll clone:
+1. From the `master` clone:
 
         grunt
         rake dead_rooster:build_prod
