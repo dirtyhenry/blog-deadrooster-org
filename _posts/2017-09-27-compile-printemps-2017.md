@@ -23,11 +23,10 @@ Pour se faire, nous allons discuter de la chanson [*Bip-Bip*][bipbip] de Joe Das
 tu vas me faire le plaisir d'aller écouter vite fait si tu la connais pas, et
 avec [les paroles][lyrics-ma] sous les yeux encore.
 
-On
-est là dans le registre du récit initiatique : notre protagoniste est au volant
-de son automobile et découvre que le rythme effréné de la vie parisienne, ainsi
-que le dérèglement climatique, peuvent être des obstacles au bon développement de sa
-vie amoureuse et son ambition professionnelle.
+On est là dans le registre du récit initiatique : notre protagoniste est au
+volant de son automobile et découvre que le rythme effréné de la vie parisienne,
+ainsi que le dérèglement climatique, peuvent être des obstacles au bon
+développement de sa vie amoureuse et de son ambition professionnelle.
 
 ## 7h30 ou 19h30 ?
 

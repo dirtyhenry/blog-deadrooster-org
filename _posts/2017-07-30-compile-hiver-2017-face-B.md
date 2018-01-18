@@ -19,9 +19,9 @@ uuid: 9D311812-5275-4204-8E6B-17813076EEF2
 
 Y’a 30 ans, c’était 1987.
 
-En 1987, des fois, je regardais [*Jem et les Hologrammes*][jem]. J’aimais bien la guitariste aux cheveux bleus. J’étais un peu amoureux d'elle, même si je préférais [Tam, de *Cat’s Eyes*][tam]. Un hologramme, c’était cool, c'était le futur. Je ne m'en souvenais pas mais l'intrigue parlait pognon, parts de boîtes et lutte à mort pour arriver au sommet. Merci le Club Dorothée. C’était les années Tapie. Petites pépés et bolides de luxe, et inversement.
+En 1987, des fois, je regardais [*Jem et les Hologrammes*][jem]. J’aimais bien la guitariste aux cheveux bleus. J’étais un peu amoureux d'elle, même si je préférais [Tam, de *Cat’s Eyes*][tam]. Un hologramme, c’était cool, c'était le futur. Je ne m'en souvenais pas mais l'intrigue parlait pognon, parts de boîtes et lutte à mort pour arriver au sommet. Merci le Club Dorothée.
 
-Cette même année, Chuck Berry, [il avait collé des mandales dans la gueule d’une nana][chuck]. 250 $ d’amende. Je dis ça mais les années qui suivirent, ça n'allait pas m'empêcher d'aduler JPP et d'écouter *Johnny B. Goode* et *Roll Over Beethoven* en boucle.
+C’était les années Tapie. Petites pépés et bolides de luxe, et inversement. Cette même année, Chuck Berry, [il avait collé des mandales dans la gueule d’une nana][chuck]. 250 $ d’amende. Je dis ça mais les années qui suivirent, ça n'allait pas m'empêcher d'aduler JPP et d'écouter *Johnny B. Goode* et *Roll Over Beethoven* en boucle.
 
 En 1987, y'avait des guerres et des dictatures un peu partout. Y'avait de la corruption dans tous les sens. Des histoires de trafic d'armes. Des attentats au camion piégé. Y'avait Thatcher, l'URSS, Pinochet, l'IRA et la mort de Dalida.
 

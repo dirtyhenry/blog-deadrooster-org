@@ -8,7 +8,7 @@ tags:
   - compile
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Été+2017-face+B.jpg
 description: >
-  Où je suis un vieux con qui arrête les conneries pour de bon. La vie est trop courte pour écouter Solange ou Vianney. Il vaut mieux ré-écouter du Sinéad ou se délecter d'un bon vieux jambon beurre.
+  Où je suis un vieux con qui arrête les conneries pour de bon. La vie est trop courte pour écouter Solange ou Vianney. Il vaut mieux ré-écouter du Sinéad ou se délecter d'un bon vieux jambon-beurre.
 uuid: 956E6C97-E2FA-4EFE-AA65-158F0721D047
 ---
 
@@ -62,7 +62,7 @@ Quelques jours plus tard, j'ai oublié le contexte : rebelote.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4z2DtNW79sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-J'avais toujours aimé *Streets of Philadelphia*, c'est pas ça la question. Mais comme on aime le jambon beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
+J'avais toujours aimé *Streets of Philadelphia*, c'est pas ça la question. Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
 
 ## Épisode IV. A New Hope.
 
