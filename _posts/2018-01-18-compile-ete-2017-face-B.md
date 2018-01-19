@@ -42,7 +42,7 @@ Quant aux sorties de 2017, quelques disques honorables mais même les artistes d
 
 Pourtant, j'ai persévéré. Là, ce début janvier, le top album 2017 des Inrocks en main, je me relève et retourne affronter les premiers noms de la liste. Kendrick Lamar ? Je renonce au bout de 5 minutes. King Krule ? À peine davantage. Et merde.
 
-Mais alors, que faire ? Jeter ses disques ? Brûler son abonnement Spotify et casser l'aiguille du poste une bonne fois pour toute, après l'avoir bien calée sur France Info ?
+Mais alors, que faire ? Jeter ses disques ? Brûler son abonnement Spotify et casser l'aiguille du poste une bonne fois pour toutes, après l'avoir bien calée sur France Info ?
 
 Heureusement, non.
 
