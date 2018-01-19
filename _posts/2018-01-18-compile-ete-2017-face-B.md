@@ -36,7 +36,9 @@ Un seul petit cœur, bordel ! **50** albums et **1** petit cœur ! Et encore ! N
 
 Quant aux sorties de 2017, quelques disques honorables mais même les artistes de mon panthéon personnel déçoivent : [Arcade Fire qui fait du ABBA][arcade-fire-par-libe], The National, Grizzly Bear, Fleet Foxes... Mouais, vous m'avez déçu les mecs :
 
-<iframe src="https://giphy.com/embed/pVAMI8QYM42n6" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://giphy.com/embed/pVAMI8QYM42n6"></iframe>
+</div>
 
 Pourtant, j'ai persévéré. Là, ce début janvier, le top album 2017 des Inrocks en main, je me relève et retourne affronter les premiers noms de la liste. Kendrick Lamar ? Je renonce au bout de 5 minutes. King Krule ? À peine davantage. Et merde.
 
@@ -52,7 +54,9 @@ Novembre 2017. Vacances à Boston. Un coffee shop pas spécialement chébran, ma
 
 Bien consciencieusement, je retourne écouter Sinéad pour apprécier le travail d'adaptation de Freedom Fry, puisque le groupe de la cover a bien un nom.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0-EF60neguk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0-EF60neguk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 5'08" plus tard, le choc est terrible. Merde, j'aime en fait beaucoup l'originale. Trop, probablement. Mes certitudes chancèlent. Est-ce que je commence à développer un goût de chiottes ? Serai-je la risée de tous le jour où on découvrira que j'ai écouté le titre en boucle pendant plusieurs jours ?
 
@@ -60,13 +64,15 @@ Bien consciencieusement, je retourne écouter Sinéad pour apprécier le travail
 
 Quelques jours plus tard, j'ai oublié le contexte : rebelote.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4z2DtNW79sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4z2DtNW79sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 J'avais toujours aimé *Streets of Philadelphia*, c'est pas ça la question. Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
 
 ## Épisode IV. A New Hope.
 
-Là voilà la solution ! J'ai dû écouter 0,0001%[^2] de la musique enregistrée à ce jour. Alors je vais arrêter de ma casser le bide à goûter et regoûter du putain de hip-hop, cette saloperie de musique électronique ou de la merde de pop-rnb de mes couilles et je vais me concentrer sur le jambon.
+Là voilà la solution ! J'ai dû écouter 0,0001%[^2] de la musique enregistrée à ce jour. Alors je vais arrêter de me casser le bide à goûter et regoûter du putain de hip-hop, cette saloperie de musique électronique ou de la merde de pop-rnb de mes couilles et je vais me concentrer sur le jambon.
 
 Du jambon cru.  
 Du jambon de Parme,  
