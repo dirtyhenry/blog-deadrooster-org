@@ -1,4 +1,5 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+@import url('https://fonts.googleapis.com/css?family=Lora|Oswald');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -1159,7 +1160,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "vinyl", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -6533,7 +6534,7 @@ body {
   background-color: #F2F2F2;
   font-size: 1.6em;
   line-height: 1.4em;
-  font-family: "freight-text-pro", serif;
+  font-family: "Lora", serif;
   color: #444;
 }
 .embed-responsive {
@@ -6562,7 +6563,7 @@ img {
   max-width: 100%;
 }
 button {
-  font-family: "vinyl", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 .lead {
   font-size: 1.17em;
@@ -6587,7 +6588,7 @@ footer {
   color: #F1E568;
   margin-top: 3em;
   border: none;
-  font-family: "vinyl", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 0.6em;
   line-height: 1.4em;
 }
@@ -6618,7 +6619,7 @@ footer a:hover {
   margin-right: 1em;
 }
 .navbar {
-  font-family: "vinyl", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 .navbar .navbar-brand {
   padding-top: 5px;

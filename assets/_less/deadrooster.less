@@ -1,6 +1,12 @@
-//@navbar-margin-bottom: 0; <-- Uncomment to remove the little appearing background between navbar and content 
+//@navbar-margin-bottom: 0; <-- Uncomment to remove the little appearing background between navbar and content
 
-@headings-font-family: "vinyl", sans-serif;
+// Original fonts were
+// * Vinyl for headers: https://www.fonts.com/font/t-26/vinyl
+// * Freight text pro for the body: https://www.fonts.com/font/garagefonts/freight-text
+@import url('https://fonts.googleapis.com/css?family=Lora|Oswald');
+@body-font-family: "Lora", serif;
+@headings-font-family: "Oswald", sans-serif;
+
 
 // Dead Rooster's Color Palette
 @mybrown: #873D35;
@@ -16,7 +22,7 @@ body {
   background-color: #F2F2F2;
   font-size: 1.6em;    // Butterick's reco: 15-25 pixels, here we aim 18 pixels.
   line-height: 1.4em;  // 120-145%, here we aim 140%.
-  font-family: "freight-text-pro", serif;
+  font-family: @body-font-family;
   color: #444;
 }
 
@@ -54,7 +60,7 @@ img {
   max-width: 100%;
 }
 
-button { 
+button {
   font-family: @headings-font-family;
 }
 
@@ -62,10 +68,10 @@ button {
   font-size: 1.17em; // Bootstrap sets only 16px for mobile so we want this to be more responsive
 }
 
-.post-content { 
+.post-content {
   margin: auto; // Center the text...
   max-width: 32em; // ... and limit to a reasonable width of 45-90 characters
-  
+
   .post-list {
     list-style-type: none; // No bullet on the home page
     padding: 0;
@@ -96,25 +102,25 @@ footer {
   font-family: @headings-font-family;
   font-size: 0.6em;
   line-height: 1.4em;
-  
+
   img {
     max-width: 4em;
   }
-  
+
   ul {
     list-style-type: none; // No bullet
     padding: 0;
-    
+
     li {
       display: inline;
       margin-right: 1em;
     }
   }
-  
+
   a {
     color: inherit;
   }
-  
+
   a:hover {
     color: white;
   }
@@ -130,7 +136,7 @@ footer {
 
 .navbar {
   font-family: @headings-font-family;
-  
+
   .navbar-brand {
     img {
       max-height: 50px;
@@ -148,14 +154,14 @@ footer {
 /* No media query since this is the default in Bootstrap */
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { 
+@media (min-width: @screen-sm-min) {
   body {
     font-size: 1.8em;
   }
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { 
+@media (min-width: @screen-md-min) {
   body {
     font-size: 2.0em;
   }
