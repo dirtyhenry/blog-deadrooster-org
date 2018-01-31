@@ -68,7 +68,7 @@ Quelques jours plus tard, j'ai oublié le contexte : rebelote.
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4z2DtNW79sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-J'avais toujours aimé *Streets of Philadelphia*, c'est pas ça la question. Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
+J'avais toujours aimé *Streets of Philadelphia*, c'est pas ça la question. Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
 
 ## Épisode IV. A New Hope.
 
