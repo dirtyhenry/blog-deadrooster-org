@@ -16,14 +16,13 @@ This site is deployed via GitHub Pages facility. From your developer environment
 repository:
 
 - one for the Jekyll content
-- one called `blog-deadrooster-org-gh-pages` that should be at the same level than the first one
+- one called `blog-deadrooster-org-gh-pages` (setup the destination from `_config_production.yml`)
 
 To deploy:
 
 1. From the `master` clone:
 
-        grunt
-        rake dead_rooster:build_prod
+        make build-prod
 
 2. From the `gh-pages` clone, commit and push modifications
 
