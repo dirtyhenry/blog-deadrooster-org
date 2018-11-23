@@ -19,7 +19,7 @@ github_url: "https://github.com/dirtyhenry/blog-deadrooster-org"
 markdown: kramdown
 
 permalink:  /:title.html
-exclude: [ 'node_modules', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'package-lock.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb', 'assets/images/s3', 'Rakefile' ]
+exclude: [ 'node_modules', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'package-lock.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb', 'assets/images/s3', 'Rakefile', 'Makefile', 'yarn.lock' ]
 
 plugins:
   - jekyll-sitemap
