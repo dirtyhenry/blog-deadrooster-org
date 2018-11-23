@@ -2,5 +2,4 @@ _site/
 .sass-cache/
 assets/images/s3/
 
-bower_components
 node_modules

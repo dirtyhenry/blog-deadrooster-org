@@ -36,4 +36,4 @@ To deploy:
 ## Acknowledgements
 
 - This site runs with [Jekyll](http://jekyllrb.com/)
-- The Grunt/Bower setup was inspired by [this post](http://www.pletscher.org/blog/2013/05/27/website.html)
+- The Grunt setup was inspired by [this post](http://www.pletscher.org/blog/2013/05/27/website.html)
