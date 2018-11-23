@@ -52,7 +52,10 @@ jQuery ->
         $('#disqus-on').remove()
     )
 
-    $.bigfoot()
+    require(['assets/js/littlefoot.min'], (littlefoot) ->
+      fn = littlefoot.default
+      fn()
+    )
 
     # console.log "MICK"
     # $('#first-page-background').css("position", "absolute")

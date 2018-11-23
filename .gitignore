@@ -1,3 +1,5 @@
 _site/
 .sass-cache/
 assets/images/s3/
+
+node_modules
