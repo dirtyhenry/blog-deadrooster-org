@@ -1,0 +1,31 @@
+//@navbar-margin-bottom: 0; <-- Uncomment to remove the little appearing background between navbar and content
+
+// Original fonts were
+// * Vinyl for headers: https://www.fonts.com/font/t-26/vinyl
+// * Freight text pro for the body: https://www.fonts.com/font/garagefonts/freight-text
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro');
+
+$body-font-family: 'Source Serif Pro', serif;
+$headings-font-family: 'Source Sans Pro', sans-serif;
+
+html {
+  font-size: 125%;
+}
+
+body {
+  font-family: $body-font-family;
+}
+
+div, p, h1, h2, h3, h4, h5, h6 {
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headings-font-family;
+}
+
+button {
+  font-family: $headings-font-family;
+}

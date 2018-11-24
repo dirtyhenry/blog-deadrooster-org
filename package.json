@@ -9,16 +9,12 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.3",
     "grunt": "^0.4.1",
     "grunt-cli": "^1.3.2",
     "grunt-contrib-coffee": "*",
     "grunt-contrib-copy": "*",
-    "grunt-contrib-less": "*",
     "grunt-contrib-uglify": "*",
-    "grunt-exec": "*",
-    "jquery": "^2.2.4",
-    "littlefoot": "^1.0.7",
-    "requirejs": "^2.3.6"
+    "jquery": "^2.2.4"
   }
 }

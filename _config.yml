@@ -11,6 +11,8 @@ url: "http://blog-deadrooster-org.dev" # the base hostname & protocol for your s
 twitter_username: dead__rooster
 facebook_pagename: DeadRoosterBlog
 github_url: "https://github.com/dirtyhenry/blog-deadrooster-org"
+sass:
+  style: compressed
 
 # The postatic link has been disabled as it wasn't really used by anyone.
 # postatic_url: "http://deadrooster.postatic.com"

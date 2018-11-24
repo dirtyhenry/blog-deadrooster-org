@@ -1,0 +1,112 @@
+---
+---
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import 'typography';
+@import 'palette';
+
+body {
+  background-color: #EEE;
+  color: #444;
+}
+
+.embed-responsive {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+li {
+  font-size: inherit;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1em;
+}
+
+img {
+  margin: auto;
+  max-width: 100%;
+}
+
+.lead {
+  font-size: 1.17em; // Bootstrap sets only 16px for mobile so we want this to be more responsive
+}
+
+.post-content {
+  margin: auto; // Center the text...
+  max-width: 40em; // ... and limit to a reasonable width of 45-90 characters
+
+  .post-list {
+    list-style-type: none; // No bullet on the home page
+    padding: 0;
+    li {
+      padding: 1em 0;
+    }
+  }
+}
+
+#disqus-comments {
+  display: none;
+}
+
+footer {
+  h2 {
+    font-size: 1.2em;
+  }
+  padding: 1em;
+  background-color: $mybrown;
+  color: $myyellow;
+  margin-top: 3em;
+  border: none;
+  font-family: $headings-font-family;
+  font-size: 0.6em;
+  line-height: 1.4em;
+
+  img {
+    max-width: 4em;
+  }
+
+  ul {
+    list-style-type: none; // No bullet
+    padding: 0;
+
+    li {
+      display: inline;
+      margin-right: 1em;
+    }
+  }
+
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: white;
+  }
+}
+
+.dr-playlist {
+  padding: 1em 0; // Leave space around the playlist button...
+}
+
+.dr-playlist button {
+  margin-right: 1em;
+}
+
+.navbar {
+  font-family: $headings-font-family;
+
+  .navbar-brand {
+    img {
+      max-height: 50px;
+    }
+    padding-top: 5px; // Leave space for the brand icon to fit without overflow
+    padding-bottom: 5px; // Leave space for the brand icon to fit without overflow
+  }
+}
+
+.microdata {
+  display: none;
+}

@@ -43,14 +43,9 @@
       target = $("#" + $(this).attr("dr-id-target"));
       return target.empty().append(spotifyIframe);
     });
-    $(document).on('click', '#disqus-on', function() {
+    return $(document).on('click', '#disqus-on', function() {
       $('#disqus-comments').css('display', 'block');
       return $('#disqus-on').remove();
-    });
-    return require(['assets/js/littlefoot.min'], function(littlefoot) {
-      var fn;
-      fn = littlefoot.default;
-      return fn();
     });
   });
 
