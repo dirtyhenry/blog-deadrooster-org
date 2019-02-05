@@ -20,7 +20,7 @@ sass:
 # Build settings
 markdown: kramdown
 
-permalink:  /:title.html
+permalink:  /:slug.html
 exclude: [ 'node_modules', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'package-lock.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb', 'assets/images/s3', 'Rakefile', 'Makefile', 'yarn.lock' ]
 
 plugins:
