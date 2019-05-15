@@ -1,0 +1,19 @@
+language: ruby
+rvm:
+  - 2.5.1
+
+install:
+  - make install
+
+script:
+  - make lint
+  - make build-prod
+
+deploy:
+  provider: pages
+  local-dir: _site
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  fqdn: blog.deadrooster.org
+  on:
+    branch: master

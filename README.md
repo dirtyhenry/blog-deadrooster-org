@@ -12,19 +12,7 @@ The Dead Rooster Blog
 
 ## Deployment
 
-This site is deployed via GitHub Pages facility. From your developer environment, create 2 clones of this
-repository:
-
-- one for the Jekyll content
-- one called `blog-deadrooster-org-gh-pages` (setup the destination from `_config_production.yml`)
-
-To deploy:
-
-1. From the `master` clone:
-
-        make build-prod
-
-2. From the `gh-pages` clone, commit and push modifications
+This site is deployed by Travis CI to GitHub Pages with any push to `master`.
 
 ## Resources
 
