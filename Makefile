@@ -14,7 +14,7 @@ run:
 	bundle exec jekyll serve
 
 clean:
-	rm -rf node_modules
+	git clean -dfX
 
 lint:
 	bundle exec rubocop
