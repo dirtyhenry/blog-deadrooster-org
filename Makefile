@@ -15,3 +15,6 @@ run:
 
 clean:
 	rm -rf node_modules
+
+lint:
+	bundle exec rubocop
