@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Les disques d'octobre 2011
+description: Petit résumé des albums qui ont tourné sur les platines de par chez Dirty
+  Henry en octobre 2011. Dum Dum Girls, Neutral Milk Hotel, Veronica Falls et Hanni
+  El Khatib sont les vainqueurs du mois.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -24,7 +28,7 @@ comments:
 ---
 <h2>Les 5 étoiles </h2>
 
-On en a déjà parlé [ici->936], Dum Dum Girls est incontestablement le disque du mois. Quant à Neutral Milk Hotel (évoqué [ici->680] et [ici->687]), ils sont sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses sbires, {In the Aeroplane, Over the Sea} est à se procurer en priorité. Deux belles découvertes complètent la liste des meilleurs disques du mois : Veronica Falls et Hanni El Khatib dont on reparlera très bientôt.
+On en a déjà parlé [ici->936], Dum Dum Girls est incontestablement le disque du mois. Quant à Neutral Milk Hotel (évoqué [ici->680] et [ici->687]), ils sont sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses sbires, *In the Aeroplane, Over the Sea* est à se procurer en priorité. Deux belles découvertes complètent la liste des meilleurs disques du mois : Veronica Falls et Hanni El Khatib dont on reparlera très bientôt.
 
 <h2>Les 4 étoiles</h2>
 

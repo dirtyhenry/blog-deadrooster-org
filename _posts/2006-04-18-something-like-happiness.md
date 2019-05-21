@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Something like happiness
 author:
   display_name: Dirty Henry

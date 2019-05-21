@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Guards - Coming True
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/W5VKz2a5f5c" frameborder="0" allowfullscreen></iframe>
 
-Le premier album de Guards, {In Guards We Trust}, sortira en février.
+Le premier album de Guards, *In Guards We Trust*, sortira en février.

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Comet Gain - The Fists In The Pocket
 author:
   display_name: Joe Gantdelaine

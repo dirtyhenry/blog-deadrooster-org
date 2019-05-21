@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: 'Concert Burger Party #6'
 author:
   display_name: Dirty Henry

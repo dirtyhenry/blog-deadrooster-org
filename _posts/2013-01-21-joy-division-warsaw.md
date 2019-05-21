@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Joy Division - Warsaw
 author:
   display_name: Dirty Henry

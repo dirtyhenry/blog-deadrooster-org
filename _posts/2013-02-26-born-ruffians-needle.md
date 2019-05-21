@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Born Ruffians - Needle
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-Après [{With Her Shadow}->1155], Born Ruffians propose un nouvel extrait de leur album à paraître en 2013.
+Après [*With Her Shadow*->1155], Born Ruffians propose un nouvel extrait de leur album à paraître en 2013.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F79258774"></iframe>
 

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Influences coxoniennes
 author:
   display_name: Dirty Henry
@@ -16,7 +17,7 @@ tags:
 - Graham Coxon
 comments: []
 ---
-A l'occasion de la sortie de son album {Love travels at illegal speed}, Graham Coxon a donné une liste d'influences sur lesquelles, je pense, il doit valoir le coup de se pencher :
+A l'occasion de la sortie de son album *Love travels at illegal speed*, Graham Coxon a donné une liste d'influences sur lesquelles, je pense, il doit valoir le coup de se pencher :
 
 - the Creation, 
 - the Electric Prunes, 

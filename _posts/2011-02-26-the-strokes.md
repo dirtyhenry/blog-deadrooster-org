@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: The Strokes
+description: L'encyclopédie approximative vous offre aujourd'hui son plus mauvais
+  article.
 author:
   display_name: Joe Gantdelaine
   login: guiguilele

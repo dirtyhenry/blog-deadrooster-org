@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Le sudoku killer déteste les moustaches chiantes
+description: 'Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille
+  moustachu, détesté, entouré de photos chiantes, et on attend l''arrivée du sudoku-killer'
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -38,7 +41,7 @@ Le webcomic [XKCD->http://xkcd.com/780/] nous donne une piste pour cela.
 
 <img399>
 
-Katerine applique la consigne et part bien pour devenir l'artiste le plus détesté du monde grâce à son titre [{Musique d'Ordinateur}->http://www.deezer.com/listen-7045903].
+Katerine applique la consigne et part bien pour devenir l'artiste le plus détesté du monde grâce à son titre [*Musique d'Ordinateur*->http://www.deezer.com/listen-7045903].
 
 (via [xkcd->http://xkcd.com], sous licence Creative Commons)
 
@@ -52,7 +55,7 @@ CollegeHumor nous présente [une nouvelle extension à Photoshop : le PhotoBomb 
 
 <h2>4. Comment revisiter l'histoire du foot en étant fun ?</h2>
 
-Les émissions de débat sur le foot sont ce qu'il y a de plus fun à la radio depuis que {La Panique au Mangin Palace} n'est plus. Je recommande chaudement {On Refait Le Match} !
+Les émissions de débat sur le foot sont ce qu'il y a de plus fun à la radio depuis que *La Panique au Mangin Palace* n'est plus. Je recommande chaudement *On Refait Le Match* !
 
 Mais les émissions de ce genre sont légions alors il est naturel de les parodier.
 

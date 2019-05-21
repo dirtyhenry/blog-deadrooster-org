@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The National - Don't Swallow The Cap
 author:
   display_name: Dirty Henry
@@ -14,10 +15,10 @@ categories: []
 tags: []
 comments: []
 ---
-Second extrait de {Trouble Will Find Me} : la sortie approche !
+Second extrait de *Trouble Will Find Me* : la sortie approche !
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/bFnA-8H-5lo" frameborder="0" allowfullscreen></iframe>
 
-[Réécouter {Demons}.->1215]. Se souvenir de [{High Violet}->696].
+[Réécouter *Demons*.->1215]. Se souvenir de [*High Violet*->696].
 
 via [Stereogum->http://stereogum.com/1318302/the-national-dont-swallow-the-cap/mp3/]

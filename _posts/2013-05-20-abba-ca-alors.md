@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: ABBA ça alors !
 author:
   display_name: Dirty Henry
@@ -14,4 +15,4 @@ categories: []
 tags: []
 comments: []
 ---
-Le best-of d'ABBA [vient de dépasser->http://feedproxy.google.com/~r/nmecom/rss/newsxml/~3/gDblc5NYa2M/story01.htm] le {Sgt. Pepper's Lonely Hearts Club Band} des Beatles pour prendre la 2nde place au classement des albums les plus vendus de l'histoire au Royaume-Uni. Le monde va mal !
+Le best-of d'ABBA [vient de dépasser->http://feedproxy.google.com/~r/nmecom/rss/newsxml/~3/gDblc5NYa2M/story01.htm] le *Sgt. Pepper's Lonely Hearts Club Band* des Beatles pour prendre la 2nde place au classement des albums les plus vendus de l'histoire au Royaume-Uni. Le monde va mal !

@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Libération générale
+description: 'Le vendredi, le fun est de bon aloi. Cette semaine : tout le monde se
+  libère !'
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -27,7 +30,7 @@ La preuve :
 
 <h2>2. La France est libérée</h2>
 
-[{Le Retour à la Terre}->http://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre], c'est marrant. [{De Gaulle} par Ferri->http://www.amazon.fr/Gaulle-%C3%A0-plage-Jean-Yves-Ferri/dp/2205059661], c'est marrant. [Le mélange des deux->http://www.manularcenet.com/blog/articles/4016/piratage], c'est donc marrant aussi.
+[*Le Retour à la Terre*->http://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre], c'est marrant. [*De Gaulle* par Ferri->http://www.amazon.fr/Gaulle-%C3%A0-plage-Jean-Yves-Ferri/dp/2205059661], c'est marrant. [Le mélange des deux->http://www.manularcenet.com/blog/articles/4016/piratage], c'est donc marrant aussi.
 
 <h2>3. Les urbanistes de Floride sont libérés</h2>
 

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Pamphlet anti-chanson cachée.
 author:
   display_name: Dirty Henry
@@ -16,8 +17,8 @@ tags:
 - Albums
 comments: []
 ---
-Myths of the Near Future, l'album des londoniens <a href="http://myspace.com/klaxons">{{Klaxons}}</a> est très bien, c'est pas ça la question.
-Leur électro-post-glam-punk hystérique teinté de proto-rave-funk de tout premier ordre, atteint même parfois des sommets comme sur {Totem on the Timeline}, par exemple.
+Myths of the Near Future, l'album des londoniens <a href="http://myspace.com/klaxons">__Klaxons__</a> est très bien, c'est pas ça la question.
+Leur électro-post-glam-punk hystérique teinté de proto-rave-funk de tout premier ordre, atteint même parfois des sommets comme sur *Totem on the Timeline*, par exemple.
 Pourtant, ce premier opus a un défaut de taille, il contient la pire arme de l'arsenal de l'industrie du disque, la diabolique et terroriste chanson cachée, ou hidden track comme on dit outre-manche.
 
 Mais que diable, quel est l'intérêt artistique d'une chanson cachée ?

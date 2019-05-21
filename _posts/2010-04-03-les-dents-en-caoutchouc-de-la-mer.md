@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Les dents en caoutchouc de la mer
+description: Un samedi sur deux, Allociné propose l'émission {{Faux Raccord}} qui
+  met cette semaine en évidence les faux raccords du film de Spielberg {Les Dents
+  de la Mer}.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,9 +20,9 @@ tags:
 - Cinéma
 comments: []
 ---
-Depuis une dizaine de semaines, Allociné propose une émission bien marrante : [{{Faux Raccord}}->http://www.allocine.fr/video/faux-raccords/].
+Depuis une dizaine de semaines, Allociné propose une émission bien marrante : [__Faux Raccord__->http://www.allocine.fr/video/faux-raccords/].
 
-Chaque samedi, cette émission met en lumière les faux raccords de films célèbres : {Gladiator}, la trilogie Jason Bourne, {Pirates des Caraïbes}, etc. Au menu cette semaine, Les Dents de la Mer qui, bizarrement, me fout nettement moins les jetons qu'il y a 20 ans... Par contre, malheur, l'émission devient bihebdomadaire.
+Chaque samedi, cette émission met en lumière les faux raccords de films célèbres : *Gladiator*, la trilogie Jason Bourne, *Pirates des Caraïbes*, etc. Au menu cette semaine, Les Dents de la Mer qui, bizarrement, me fout nettement moins les jetons qu'il y a 20 ans... Par contre, malheur, l'émission devient bihebdomadaire.
 
 [Jonathan Lambert avait bien essayé de dénoncer les faux raccords en son temps->http://www.youtube.com/watch?v=uMrs-ZL60Rw], mais, images à l'appui, c'est quand même bien plus efficace.
 

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Et I'm from Barcelona à la Maroquinerie, c'était comment ? vol.2 (à la Cigale)
 author:
   display_name: Joe Gantdelaine
@@ -18,7 +19,7 @@ comments: []
 ---
 Cher journal,
 
-ce soir, j'ai vu un très bon concert ! Le groupe s'appelle {{I'm from Barcelona}}, mais en fait, ils sont suédois.
+ce soir, j'ai vu un très bon concert ! Le groupe s'appelle __I'm from Barcelona__, mais en fait, ils sont suédois.
 
 Le groupe comporte officiellement 29 membres, mais ce soir, ils n'étaient "que" 17 ou 18 (j'ai pas eu le temps de les compter, j'avais autre chose à faire !).
 

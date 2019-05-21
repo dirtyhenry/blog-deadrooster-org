@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: I Love Color Blindness
 author:
   display_name: Dirty Henry

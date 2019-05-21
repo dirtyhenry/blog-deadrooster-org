@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Où manger après le spectacle ?
 author:
   display_name: Dirty Henry
@@ -16,7 +17,7 @@ tags:
 - Sorties
 comments: []
 ---
-La {{fête de la musique}} approche mais que faire pour cette soirée ?
+La __fête de la musique__ approche mais que faire pour cette soirée ?
 
 Malheureusement pour les fans, les <a href="http://hoorayhenrys.free.fr">Hooray Henrys</a> ne joueront toujours pas cette année et maintenant que le 1er choix est passé, que préférer dans le programme copieux que propose Paris ? Groupes pros ? Groupes amateurs ? Et dans ces groupes amateurs préférer les groupes à compositions ou les groupes à reprise ?
 

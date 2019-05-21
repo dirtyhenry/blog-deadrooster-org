@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Hotel Yorba Cover
 author:
   display_name: Groovy Henry
@@ -17,7 +18,7 @@ tags:
 - Hooray Henrys
 comments: []
 ---
-The new song is born... We are proud to introduce the second production of Dead Rooster Reccords : a White Stripes cover, {Hotel Yorba} by the HH.
+The new song is born... We are proud to introduce the second production of Dead Rooster Reccords : a White Stripes cover, *Hotel Yorba* by the HH.
 
 The birth was hard but the mum is fine thank you !
 You can download it [here->http://cdn.deadrooster.org/hoorayhenrys-hotelyorba.mp3].

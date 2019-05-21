@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Chute des ventes de disques
 author:
   display_name: Dirty Henry

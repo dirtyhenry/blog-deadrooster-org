@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Printemps de Bourges 2006
 author:
   display_name: Dirty Henry

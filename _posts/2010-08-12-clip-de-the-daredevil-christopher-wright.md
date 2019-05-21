@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Clip de The Daredevil Christopher Wright
+description: Clip et titre de The Daredevil Christopher Wright, bientôt de passage
+  à Paris.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -18,7 +21,7 @@ comments: []
 ---
 The Daredevil Christopher Wright est un groupe du Wisconsin qui sera de passage en France à la rentrée pour plusieurs date dont le 18 septembre à Paris. J'y serai.
 
-Pourquoi ? La Blogothèque avait passé un titre en juillet ([le gaiement nommé mais excellent {A Conversation About Cancer}->http://www.blogotheque.net/In-Deference]) et nous a récemment diffusé le clip ci-dessous, très beau, et que je rediffuse à mon tour. On se voit le 18 !
+Pourquoi ? La Blogothèque avait passé un titre en juillet ([le gaiement nommé mais excellent *A Conversation About Cancer*->http://www.blogotheque.net/In-Deference]) et nous a récemment diffusé le clip ci-dessous, très beau, et que je rediffuse à mon tour. On se voit le 18 !
 
 [edit : ah merde, en fait le concert du 18 est un [happening événementiel->http://7ciel.net/concerts/] et pour avoir des places, il faudra les gagner sur [ce site->http://www.popnews.com/] à partir du 28 août...]
 

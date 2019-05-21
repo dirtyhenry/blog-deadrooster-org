@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The Trashmen - Surfin Bird
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/9ilMummJNTE" frameborder="0" allowfullscreen></iframe>
 
-(Cette chanson est inspirée du {Papa-Oom-Mow-Mow} des Rivingstons)
+(Cette chanson est inspirée du *Papa-Oom-Mow-Mow* des Rivingstons)

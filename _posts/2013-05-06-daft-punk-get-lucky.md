@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Daft Punk - Get Lucky
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-Ça ne vous avait sûrement pas échappé : Daft Punk est de retour avec {Get Lucky}. C'est pas le core business de Dead Rooster, mais le fun l'est un peu plus. D'où ces 2 vidéos pour vous égayer la journée.
+Ça ne vous avait sûrement pas échappé : Daft Punk est de retour avec *Get Lucky*. C'est pas le core business de Dead Rooster, mais le fun l'est un peu plus. D'où ces 2 vidéos pour vous égayer la journée.
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/iqsMRspYQEY" frameborder="0" allowfullscreen></iframe>
 

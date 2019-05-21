@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: EELS - I'm Your Brave Little Soldier
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F76073904"></iframe>
 
-{Wonderful, Glorious Eels} sort le 5 février.
+*Wonderful, Glorious Eels* sort le 5 février.

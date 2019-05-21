@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: '"Our Earthly Pleasures" - 2nd Maxïmo Park'
 author:
   display_name: Dirty Henry
@@ -14,6 +15,6 @@ categories: []
 tags: []
 comments: []
 ---
-Paul Smith et ses compères sortiront leur 2nd album {Our Earthly Pleasures} le 2 avril prochain. 
+Paul Smith et ses compères sortiront leur 2nd album *Our Earthly Pleasures* le 2 avril prochain. 
 
-Le successeur de {A certain Trigger} sera précédé du 1er single extrait du disque {Our Velocity}, dans les bacs le 26 mars
+Le successeur de *A certain Trigger* sera précédé du 1er single extrait du disque *Our Velocity*, dans les bacs le 26 mars

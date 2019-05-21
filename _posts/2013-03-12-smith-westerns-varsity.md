@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Smith Westerns - Varsity
 author:
   display_name: Joe Gantdelaine
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-Le groupe de Chicago annonce leur prochain LP, {Soft Will}, qui sortira le 11 juin.
+Le groupe de Chicago annonce leur prochain LP, *Soft Will*, qui sortira le 11 juin.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F81799360"></iframe>
 

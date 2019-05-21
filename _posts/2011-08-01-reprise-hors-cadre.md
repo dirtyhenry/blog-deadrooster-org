@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Reprise hors cadre
 author:
   display_name: Dirty Henry
@@ -19,4 +20,4 @@ comments:
   title: Reprise hors cadre
   content: Quand se décidera-t-on à pendre haut et court le créateur du vocodeur ?
 ---
-[Les Morning Benders ont décidé de massacrer le {Last Nite} des Strokes->http://youtu.be/HcaEM0GErQk]. On avait rarement vu pire depuis [la reprise de {Yesterday} en reggae->http://www.youtube.com/watch?v=zoFzMrpS7nw]. Le monde va mal !
+[Les Morning Benders ont décidé de massacrer le *Last Nite* des Strokes->http://youtu.be/HcaEM0GErQk]. On avait rarement vu pire depuis [la reprise de *Yesterday* en reggae->http://www.youtube.com/watch?v=zoFzMrpS7nw]. Le monde va mal !

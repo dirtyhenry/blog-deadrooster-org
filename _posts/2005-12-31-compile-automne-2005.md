@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Compile automne 2005
 author:
   display_name: Dirty Henry

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Kurt Vile - Wakin On A Pretty Day
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-Le prochain LP de Kurt Vile, {Wakin on a Pretty Daze}, sortira le 9 avril. Le précédent, {Smoke Ring For My Halo}, [avait été un de nos chouchous->992] et vous pouvez réécouter Jesus Fever [ici->822].
+Le prochain LP de Kurt Vile, *Wakin on a Pretty Daze*, sortira le 9 avril. Le précédent, *Smoke Ring For My Halo*, [avait été un de nos chouchous->992] et vous pouvez réécouter Jesus Fever [ici->822].
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/bd0K76H7sU8" frameborder="0" allowfullscreen></iframe>
 

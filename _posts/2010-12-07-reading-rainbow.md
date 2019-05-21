@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Reading Rainbow
+description: Reading Rainbow a déjà été à l'honneur dans deux compiles du lundi et
+  vient de réaliser un clip. Allons-les voir de plus près.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -25,17 +28,17 @@ comments:
   title: Reading Rainbow
   content: 'La review de leur disque sur Pitchfork : http://pitchfork.com/reviews/albums/14905-prism-eyes/'
 ---
-{{Reading Rainbow}} a déjà été à l'honneur dans deux compiles du lundi et vient de réaliser un clip. Allons-les voir de plus près.
+{*Reading Rainbow*} a déjà été à l'honneur dans deux compiles du lundi et vient de réaliser un clip. Allons-les voir de plus près.
 
-Reading Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton et Rob Garcia, ils ont déjà eu l'honneur de figurer dans 2 compiles du lundi avec [{Wasting Time} sur la 5->712] et [{Always On My Mind} sur la 10->725].
+Reading Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton et Rob Garcia, ils ont déjà eu l'honneur de figurer dans 2 compiles du lundi avec [*Wasting Time* sur la 5->712] et [*Always On My Mind* sur la 10->725].
 
 Un clip existe d'ailleurs pour ce dernier titre, réalisé par Amanda Finn, de Family Trees :
 
 <iframe src="http://player.vimeo.com/video/17145194" width="500" height="331" frameborder="0"></iframe><p><a href="http://vimeo.com/17145194">READING RAINBOW always on my mind</a> from <a href="http://vimeo.com/user4160526">amanda finn</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 Le groupe est déjà auteur de deux albums : 
-- {Mystical Participation} est paru en 2009 mais est apparemment introuvable en support physique mais reste disponible en téléchargement sur Amazon
-- Son successeur, {Prism Eyes} vient de sortir, espérons qu'il sera distribué en France.
+- *Mystical Participation* est paru en 2009 mais est apparemment introuvable en support physique mais reste disponible en téléchargement sur Amazon
+- Son successeur, *Prism Eyes* vient de sortir, espérons qu'il sera distribué en France.
 
 Quelques liens pour écouter tout ça :
 - [le site de Reading Rainbow->http://rreadingrrainbow.blogspot.com/]

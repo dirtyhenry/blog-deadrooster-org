@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The List of the End of Year
 author:
   display_name: Groovy Henry
@@ -36,11 +37,11 @@ Just to do as every body in the rock'n'roll press, here are two lists.
 
 First the list of the 5 (yes, I'm a poor boy and I have not enough money to bye a lot of albums) best rock album of the year and secondly the 5 best gigs.
 
--# {Funerals}, Arcade Fire
--# {Get behind me Satan}, The White Stripes<
--# {Silent Alarm}, Bloc Party
--# {Robots après tout}, Katerine
--# {You could have it so much better}, Franz Ferdinand
+-# *Funerals*, Arcade Fire
+-# *Get behind me Satan*, The White Stripes<
+-# *Silent Alarm*, Bloc Party
+-# *Robots après tout*, Katerine
+-# *You could have it so much better*, Franz Ferdinand
 
 I don't forget Dionysos but 5 is 5.
 

@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Sous le vent
+description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
+  {Sous le vent} de Garou (featuring... Céline Dion).
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,7 +19,7 @@ tags:
 - Concours Katerine
 comments: []
 ---
-La reprise de la semaine de {{Katerine, Francis et ses peintres}} est [{Sous le vent}->http://www.katerinefrancisetsespeintres.com/27.html], de Garou et Céline Dion.
+La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Sous le vent*->http://www.katerinefrancisetsespeintres.com/27.html], de Garou et Céline Dion.
 
 Le choix de l'originale est discutable, hein, mais bon, c'est la tradition, la voilà jouée chez Drucker :
 

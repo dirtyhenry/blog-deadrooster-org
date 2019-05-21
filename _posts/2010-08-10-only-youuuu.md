@@ -1,6 +1,8 @@
 ---
-
+status: publie
+published: false
 title: Only youuuu !
+description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
 author:
   display_name: Joe Gantdelaine
   login: guiguilele
@@ -14,9 +16,9 @@ categories: []
 tags: []
 comments: []
 ---
-Rien à voir avec [la version->http://www.youtube.com/watch?v=9r2pEdc1_lI] des {{Platters}} !
+Rien à voir avec [la version->http://www.youtube.com/watch?v=9r2pEdc1_lI] des __Platters__ !
 <br>
-Extraite de la B.O. du film {The Informers}, cette chanson de {{Jason Falkner}}, un artiste qu'on aime bien [ici->http://www.deadrooster.org/Auteur-inconnu], a bien failli nous échapper !
+Extraite de la B.O. du film *The Informers*, cette chanson de __Jason Falkner__, un artiste qu'on aime bien [ici->http://www.deadrooster.org/Auteur-inconnu], a bien failli nous échapper !
 <br>
 Fort heureusement, et malgré 6 mois de décalage, elle nous parvient enfin aux oreilles ! Joie !
 

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Triptides - Tropical Dreams
 author:
   display_name: Dirty Henry

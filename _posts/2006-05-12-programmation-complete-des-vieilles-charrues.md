@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Programmation complète des Vieilles Charrues
 author:
   display_name: Dirty Henry
@@ -16,6 +17,6 @@ tags:
 - Concert
 comments: []
 ---
--* {{Vendredi}} : Rhésus, Deus, Yann Tiersen, Shout Out Louds, !!!
--* {{Samedi}} : Madness, Jamel, Editors, Hushpuppies, Cali
--* {{Dimanche}} : Pixies, Dionysos, Infadels, Soulwax/2 Many DJ's, Julien Clerc
+-* __Vendredi__ : Rhésus, Deus, Yann Tiersen, Shout Out Louds, !!!
+-* __Samedi__ : Madness, Jamel, Editors, Hushpuppies, Cali
+-* __Dimanche__ : Pixies, Dionysos, Infadels, Soulwax/2 Many DJ's, Julien Clerc

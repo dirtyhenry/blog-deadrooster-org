@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Concerts "Un Temps Pour Tous"
 author:
   display_name: Dirty Henry
@@ -21,7 +22,7 @@ L'occasion pour eux de jouer deux concerts :
 - le mardi 11 août, pour un concert long, en ouverture de la soirée "Pop/Rock/Dub" conclue par Tribal Tive Sound.
 
 Les autres groupes à l'affiche étaient :
-- [Tribal Tive Sound->http://www.myspace.com/tribaltivesound], dont on vous recommande le tube {Dub Hop} sur leur MySpace
+- [Tribal Tive Sound->http://www.myspace.com/tribaltivesound], dont on vous recommande le tube *Dub Hop* sur leur MySpace
 - [La Compagnie Cuanol->http://www.myspace.com/lacompagniecuanol83]
 - [Manuel->http://www.festivalcarpediem.info/cariboost1/crbst_35.html]
 - Lenny & Eva, évadés du groupe [Scartapuce->http://www.myspace.com/scartapuce] le temps de 6 reprises guitare sèche/voix très convaincantes 

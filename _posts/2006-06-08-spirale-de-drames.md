@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Spirale de drames
 author:
   display_name: Dirty Henry

@@ -1,6 +1,11 @@
 ---
-
+status: publie
+published: false
 title: Qui es-tu Nolwenn Leroy ?
+description: Vous connaissez sûrement, au moins de vue, {{Nolwenn Leroy}}. Gentille
+  fifille, vainqueur de la seconde édition de la {Star Academy} de TF1 en 2002, fricottant
+  musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic fille, bien sous
+  tout rapport. Ah oui, vraiment ?
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -92,11 +97,11 @@ comments:
   title: Qui es-tu Nolwenn Leroy ?
   content: Toi au moins tu me comprends. Merci ton pote.
 ---
-Vous connaissez sûrement, au moins de vue, {{Nolwenn Leroy}}. Gentille fifille, vainqueur de la seconde édition de la {Star Academy} de TF1 en 2002, fricottant musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic fille, bien sous tout rapport. Ah oui, vraiment ?
+Vous connaissez sûrement, au moins de vue, __Nolwenn Leroy__. Gentille fifille, vainqueur de la seconde édition de la *Star Academy* de TF1 en 2002, fricottant musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic fille, bien sous tout rapport. Ah oui, vraiment ?
 
-Sauf si vous n'allumez jamais votre poste de télévision, vous n'êtes pas sans savoir que Mlle Leroy a récemment sorti un album de reprises de chansons bretonnes qu'elle a finement intitulé {Bretonne}. Quand un artiste de même pas 30 ans sort un album de reprises, contenant par exemple{ Tri Martolod} et {La Jument de Michao}, on se dit que sa carrière commence certainement à sentir le sapin et qu'elle essaie de faire les fonds de poches de fans irréductibles avant de se retirer de la vie musicale. Mais la cupidité est-elle sa seule et unique motivation ?
+Sauf si vous n'allumez jamais votre poste de télévision, vous n'êtes pas sans savoir que Mlle Leroy a récemment sorti un album de reprises de chansons bretonnes qu'elle a finement intitulé *Bretonne*. Quand un artiste de même pas 30 ans sort un album de reprises, contenant par exemple* Tri Martolod* et *La Jument de Michao*, on se dit que sa carrière commence certainement à sentir le sapin et qu'elle essaie de faire les fonds de poches de fans irréductibles avant de se retirer de la vie musicale. Mais la cupidité est-elle sa seule et unique motivation ?
 
-Là où je veux en venir, c'est que l'oreille avertie remarquera que sur son disque de reprises figure un titre, {Suite Sudarmoricaine}, jadis mis en stade par Alan Stivell :
+Là où je veux en venir, c'est que l'oreille avertie remarquera que sur son disque de reprises figure un titre, *Suite Sudarmoricaine*, jadis mis en stade par Alan Stivell :
 
 <iframe frameborder="0" width="500" height="281" src="http://www.dailymotion.com/embed/video/x8b6na?width=500"></iframe>
 

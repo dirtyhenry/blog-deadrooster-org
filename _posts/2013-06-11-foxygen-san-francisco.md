@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Foxygen - San Francisco
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-On avait vu passer la vidéo de [{No Destruction}->1230], celle-là, on était passé à côté. Dont acte.
+On avait vu passer la vidéo de [*No Destruction*->1230], celle-là, on était passé à côté. Dont acte.
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/KtdWGGpvY1s" frameborder="0" allowfullscreen></iframe>
 

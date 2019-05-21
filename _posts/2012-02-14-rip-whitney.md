@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: RIP Whitney
 author:
   display_name: Dirty Henry

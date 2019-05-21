@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Manel - La Gent Normal
 author:
   display_name: Dirty Henry

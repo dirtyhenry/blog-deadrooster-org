@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Thurston Moore - Benediction
 author:
   display_name: Joe Gantdelaine

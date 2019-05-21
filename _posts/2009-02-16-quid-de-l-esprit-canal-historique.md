@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Quid de l'esprit canal historique ?
 author:
   display_name: Dirty Henry

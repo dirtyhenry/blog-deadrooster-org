@@ -1,6 +1,11 @@
 ---
-
+status: publie
+published: false
 title: The Walkmen reprennent la route des vacances
+description: 'Le site est actuellement assez inactif pour cause de séjour prolongé
+  aux Etats-Unis avec connectivité limitée, mais célébrons dignement le mois de décembre
+  par un cadeau digne des meilleurs calendriers de l''avent : une chanson de Noël
+  !'
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -19,7 +24,7 @@ comments: []
 ---
 Le site est actuellement assez inactif pour cause de séjour prolongé aux Etats-Unis avec connectivité limitée, mais célébrons dignement le mois de décembre par un cadeau digne des meilleurs calendriers de l'avent : une chanson de Noël !
 
-La chanson est une reprise de la chanson {Holiday Road}, signée Lindsey Buckingham ({{le}} guitariste des Fleetwood Mac) par les Walkmen, dans le cadre de l'A.V. Club et de leur {Holiday Undercover}.
+La chanson est une reprise de la chanson *Holiday Road*, signée Lindsey Buckingham (__le__ guitariste des Fleetwood Mac) par les Walkmen, dans le cadre de l'A.V. Club et de leur *Holiday Undercover*.
 
 <iframe frameborder="no" width="480" height="270" scrolling="no" src="http://www.avclub.com/video_embed/?id=48355"></iframe><br /><a href="http://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/" target="_blank" title="The Walkmen cover "Holiday Road"">The Walkmen cover "Holiday Road"</a>
 

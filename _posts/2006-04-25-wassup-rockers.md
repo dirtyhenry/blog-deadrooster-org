@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Wassup Rockers
 author:
   display_name: Dirty Henry

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Dirty's top songs ever
 author:
   display_name: Dirty Henry
@@ -24,27 +25,27 @@ The rules are simple :
 
 Here is the first draft of my list : (that can evolve, of course)
 
--# Autour de Lucie's - {Selon l'humeur}
+-# Autour de Lucie's - *Selon l'humeur*
 -# The Strokes - Last nite
--# Franz Ferdinand - {Take me out}
--# Pixies - {Caribou}
--# Pulp - {Common people}
--# The Beach Boys - {God only knows}
--# The Kinks - {Milk cow blues}
--# Nada Surf - {Hi-speed soul}
--# M - {Nostalgic du cool}
--# The Clash - {Clash city rockers}
--# David Bowie - {Space oddity}
--# Blondie - {Atomic}
--# Oasis - {Fade away} (the version from a War Child compilation)
--# Deep Purple - {Highway star}
--# Led Zeppelin - {Rock and roll}
--# Björk - {Bachelorette}
--# The Libertines - {Vertigo}
--# Hot Hot Heat - {No, not now}
--# The Velvet Underground - {I'll be your mirror}
--# Roger Glover and Butterfly Balls - {Love is all}
--# Blur - {Song 2}
--# Sleeper - {Twisted}
+-# Franz Ferdinand - *Take me out*
+-# Pixies - *Caribou*
+-# Pulp - *Common people*
+-# The Beach Boys - *God only knows*
+-# The Kinks - *Milk cow blues*
+-# Nada Surf - *Hi-speed soul*
+-# M - *Nostalgic du cool*
+-# The Clash - *Clash city rockers*
+-# David Bowie - *Space oddity*
+-# Blondie - *Atomic*
+-# Oasis - *Fade away* (the version from a War Child compilation)
+-# Deep Purple - *Highway star*
+-# Led Zeppelin - *Rock and roll*
+-# Björk - *Bachelorette*
+-# The Libertines - *Vertigo*
+-# Hot Hot Heat - *No, not now*
+-# The Velvet Underground - *I'll be your mirror*
+-# Roger Glover and Butterfly Balls - *Love is all*
+-# Blur - *Song 2*
+-# Sleeper - *Twisted*
 
 Up to you to build your own list.

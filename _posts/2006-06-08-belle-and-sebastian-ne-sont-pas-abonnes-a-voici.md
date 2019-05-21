@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Belle and Sebastian ne sont pas abonnés à Voici
 author:
   display_name: Dirty Henry
@@ -16,6 +17,6 @@ tags:
 - Belle and Sebastian
 comments: []
 ---
-Stuart, de {{Belle and Sebastian}} est un marrant. La preuve ? Cette anecdote, qu'il raconte [sur le site du groupe->http://www.belleandsebastian.com/bandbios.php?MemberName=Stuart] : 
+Stuart, de __Belle and Sebastian__ est un marrant. La preuve ? Cette anecdote, qu'il raconte [sur le site du groupe->http://www.belleandsebastian.com/bandbios.php?MemberName=Stuart] : 
 
-<quote>J'ai demandé à Chrissie Hynde si elle savait si Ray Davies avait déjà entendu la version des Pretenders de {Stop Your Sobbing}. "Je pense bien," répondit Chrissie. "J'étais marriée avec lui."</quote>
+<quote>J'ai demandé à Chrissie Hynde si elle savait si Ray Davies avait déjà entendu la version des Pretenders de *Stop Your Sobbing*. "Je pense bien," répondit Chrissie. "J'étais marriée avec lui."</quote>

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Bloc Party cover contest
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ tags:
 - Dead Rooster Announcement
 comments: []
 ---
-Hooray Henrys announce that they will take part in the game : [V2 France Bloc Party cover contest->http://www.lesinrocks.com/2005/04/14/musique/un-concours-de-reprise-de-bloc-party-11190535/] with a rock'n'roll version of {Helicopter}.
+Hooray Henrys announce that they will take part in the game : [V2 France Bloc Party cover contest->http://www.lesinrocks.com/2005/04/14/musique/un-concours-de-reprise-de-bloc-party-11190535/] with a rock'n'roll version of *Helicopter*.

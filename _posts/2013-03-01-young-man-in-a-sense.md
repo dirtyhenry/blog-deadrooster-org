@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Young Man - In A Sense
 author:
   display_name: Dirty Henry
@@ -14,10 +15,10 @@ categories: []
 tags: []
 comments: []
 ---
-Le 3ème LP de Young Man, {Beyond Was All Around Me}, sort le 9 avril chez [French Kiss->http://www.frenchkissrecords.com/].
+Le 3ème LP de Young Man, *Beyond Was All Around Me*, sort le 9 avril chez [French Kiss->http://www.frenchkissrecords.com/].
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F76892371"></iframe>
 
-Vous pouvez aussi réécouter {Fate} [ici->700]. 
+Vous pouvez aussi réécouter *Fate* [ici->700]. 
 
 (via [IGIF->http://www.iguessimfloating.net/2013/02/listen-young-man-in-a-sense.html])

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The Strokes - You Only Live Once
 author:
   display_name: Joe Gantdelaine

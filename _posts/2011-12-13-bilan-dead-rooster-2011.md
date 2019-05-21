@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Bilan Dead Rooster 2011
+description: C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour
+  Dead Rooster.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -40,7 +43,7 @@ Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site 
 
 -# [Concombre tueur->850] : Dead Rooster a fait du chiffre sur la peur des Français et n'en est pas fier...
 -# [Qui es-tu Nolwenn Leroy ?->789] : qui est aussi notre article le plus commenté et aura attiré des âmes sensibles à la facétie et au second degré : «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs», «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la merde», «fait honte à la presse française» (putain, Dead Rooster fait partie de la presse française ? Champagne les potes !)
--# [Keren Ann - {101}->814] (bien derrière au niveau des chiffres)
+-# [Keren Ann - *101*->814] (bien derrière au niveau des chiffres)
 -# [Top Musique 2010->747]
 -# [Yes->884]
 -# [Keren Ann au Havre->235] (l'un des tous premiers posts du site)
@@ -53,32 +56,32 @@ Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de
 
 <h2>Comment devenir un Ninja gratuitement ?</h2>
 
-Enfin, rigolons un peu. En s'inspirant de l'ouvrage [{Comment devenir un Ninja gratuitement}->http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/] et de [l'article que ça a inspiré aux Inrocks->http://www.lesinrocks.com/medias/numerique-article/t/72016/date/2011-10-24/article/coment-devenir-un-ninja-gratuitement/], allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site les plus farfelues
+Enfin, rigolons un peu. En s'inspirant de l'ouvrage [*Comment devenir un Ninja gratuitement*->http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/] et de [l'article que ça a inspiré aux Inrocks->http://www.lesinrocks.com/medias/numerique-article/t/72016/date/2011-10-24/article/coment-devenir-un-ninja-gratuitement/], allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site les plus farfelues
 
-{{Catégorie "on se sent moins seul"}}
+__Catégorie "on se sent moins seul"__
 - beaucoup de monde parle de [guiguite le hamster->444] et veut des nouvelles
-- beaucoup de monde s'indigne de [la censure de la scène avec "petite vieille" dans {Dumb & Dumber}->576]
+- beaucoup de monde s'indigne de [la censure de la scène avec "petite vieille" dans *Dumb & Dumber*->576]
 - beaucoup de monde s'interroge sur [la légende urbaine du sanglier qu'on croyait mort et qu'on a enfermé dans le coffre de la voiture->538]
 - beaucoup de monde [n'aime pas les Doors->774] (exemple : the doors c'est d'la merde)
 
-{{Catégorie "on veut voir des gens tous nus"}}
+__Catégorie "on veut voir des gens tous nus"__
 - un nombre impressionnant de recherches concernant "Juliette je t'aime porno"
 - on a des recherches pour "leslie nu", soit, on pense à la chanteuse mais on a aussi beaucoup de "leslie nielsen nu" et là, ça devient bizarre
 - "dhorasoo nu" est aussi demandé régulièrement
 - des plus classiques "nénés de Katie Perry", "le porno c'est bien ?", etc.
 
-{{Catégorie "on est dépressifs"}}
+__Catégorie "on est dépressifs"__
 - pas mal de "le monde va mal"
 - "rien ne vaut un bon copain"
 - "dégénérescence intellectuelle"
 
-{{Catégorie "on est tous scato"}}
+__Catégorie "on est tous scato"__
 - "enrico lachiasse"
 - "chier dans son jeans"
 - "je fais caca dans mon jean"
 - "le caca le plus caca du monde"
 
-{{Catégories "on se pose beaucoup de questions diverses et on lance des rumeurs, toutes susceptibles de provoquer la panique générale du corps enseignant sur le niveau moyen des Français en orthographe"}}
+__Catégories "on se pose beaucoup de questions diverses et on lance des rumeurs, toutes susceptibles de provoquer la panique générale du corps enseignant sur le niveau moyen des Français en orthographe"__
 - c'est quoi "un jean mi"
 - ce soir jean pierre fait l'appero
 - club de suceurs de pouce
@@ -95,7 +98,7 @@ Enfin, rigolons un peu. En s'inspirant de l'ouvrage [{Comment devenir un Ninja g
 - photo dedicacée bourvil et annie cordy
 - richard ashcroft leader of pulp
 
-{{Enfin, catégorie "on se prend vraiment la tête"}}
+__Enfin, catégorie "on se prend vraiment la tête"__
 - sens symbolique du bébé de nirvana
 
 À la semaine prochaine pour les projets de 2012 !

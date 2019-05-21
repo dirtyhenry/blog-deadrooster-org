@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Deep Six - Stay Right Here
 author:
   display_name: Dirty Henry

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Public bling bling ?
 author:
   display_name: Dirty Henry

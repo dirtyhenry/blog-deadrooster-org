@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: The Stanley EP
+description: "The Livingstones I Presume présentent leur 1er EP, The Stanley EP.\r\n\r\nVous
+  pouvez l'écouter et le télécharger gratuitement sur [la page Bandcamp du groupe->http://thelivingstonesipresume.bandcamp.com/]."
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -22,10 +25,10 @@ Vous pouvez l'écouter et le télécharger gratuitement sur [la page Bandcamp du
 
 Il contient 4 titres :
 
--# {In The Park}
--# {Tell Me}
--# {Lazy}
--# {The Runaway Secret}
+-# *In The Park*
+-# *Tell Me*
+-# *Lazy*
+-# *The Runaway Secret*
 
 <object data="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB//" type="text/html" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="400" height="100"><param name="movie" value="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB//"><param name="quality" value="high"><param name="allowNetworking" value="always"><param name="wmode" value="transparent"><param name="bgcolor" value="#FFFFFF"><param name="allowScriptAccess" value="never"><object data="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB//" type="text/html" width="400" height="100"></object></object>
 

@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Creedence Clearwater Revival
+description: Aujourd'hui, direction le Mississippi ! Creedence Clearwater Revival,
+  c'est l'Amérique, le symbole de la liberté ! (pour peu qu'on approxime un peu leur
+  biographie...)
 author:
   display_name: Joe Gantdelaine
   login: guiguilele
@@ -37,6 +41,6 @@ comments:
 ---
 Véritables enfants du bayou, les frères Fogerty ont parfaitement su restituer les sons de leur enfance dans une version rock'n'roll totalement en phase avec leur époque.
 
-Que ce soit en reprenant Claude François ([{Proud Mary}->765]) ou par le biais de leurs propres compos, comme par exemple {I Heard it to the Grapevine}, les CCR n'ont eu de cesse de rendre hommage à leurs terres natales. Et contrairement aux faux péquenots (voir, au hasard, Kings of Leon), les CCR n'ont jamais fait la tournée des stades.
+Que ce soit en reprenant Claude François ([*Proud Mary*->765]) ou par le biais de leurs propres compos, comme par exemple *I Heard it to the Grapevine*, les CCR n'ont eu de cesse de rendre hommage à leurs terres natales. Et contrairement aux faux péquenots (voir, au hasard, Kings of Leon), les CCR n'ont jamais fait la tournée des stades.
 
-D'autre part, alors que les groupes de la même époque s'engageaient politiquement en faveur de l'arrêt de la guerre du Vietnam, eux s'en désintéressaient, et avaient des considérations beaucoup plus écolo, se souciant beaucoup du climat ({Have you ever seen the rain ?}, {Who'll stop the rain }) et de la nature ({Bad Moon Rising}, {Cotton Fields}).
+D'autre part, alors que les groupes de la même époque s'engageaient politiquement en faveur de l'arrêt de la guerre du Vietnam, eux s'en désintéressaient, et avaient des considérations beaucoup plus écolo, se souciant beaucoup du climat (*Have you ever seen the rain ?*, *Who'll stop the rain *) et de la nature (*Bad Moon Rising*, *Cotton Fields*).

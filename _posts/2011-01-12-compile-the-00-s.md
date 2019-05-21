@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Compile The 00's
 author:
   display_name: Dirty Henry
@@ -18,15 +19,15 @@ tags:
 - The National
 comments: []
 ---
--# The Strokes - {Last Nite}
--# Nada Surf - {Hi-Speed Soul}
--# Hot Hot Heat - {No Not Now}
--# Franz Ferdinand - {Take Me Out}
--# Bloc Party - {Banquet}
--# The Strokes - {Ize Of The World}
--# Interpol - {Pioneers To The Fall}
--# She & Him - {Why Do You Let Me Stay Here?}
--# Phoenix - {Lisztomania}
--# The National - {Terrible Love}
+-# The Strokes - *Last Nite*
+-# Nada Surf - *Hi-Speed Soul*
+-# Hot Hot Heat - *No Not Now*
+-# Franz Ferdinand - *Take Me Out*
+-# Bloc Party - *Banquet*
+-# The Strokes - *Ize Of The World*
+-# Interpol - *Pioneers To The Fall*
+-# She & Him - *Why Do You Let Me Stay Here?*
+-# Phoenix - *Lisztomania*
+-# The National - *Terrible Love*
 
 <iframe width="540" height="304" src="http://www.youtube.com/embed/videoseries?list=PL9409C5AE9E9D68B0&amp;hl=fr_FR" frameborder="0" allowfullscreen></iframe>

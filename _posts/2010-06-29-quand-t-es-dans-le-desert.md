@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Quand t'es dans le désert
+description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
+  {Quand t'es dans le désert} de Jean-Patrick Capdevielle.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,7 +19,7 @@ tags:
 - Concours Katerine
 comments: []
 ---
-La reprise de la semaine de {{Katerine, Francis et ses peintres}} est [{Quand t'es dans le désert}->http://www.katerinefrancisetsespeintres.com/26.html], de Jean-Patrick Capdevielle.
+La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Quand t'es dans le désert*->http://www.katerinefrancisetsespeintres.com/26.html], de Jean-Patrick Capdevielle.
 
 L'originale :
 

@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: 'Concours Katerine : semaines 46 à 49'
+description: Faisons le point sur les 4 dernières semaines. Diam's, Eddy Mitchell,
+  Chantal Goya et Chirstophe Willem ont été honorés.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -27,7 +30,7 @@ Le groupe vient d'annoncer des dates de concert à partir de mars 2011. Paris, P
 
 <h2>Les chansons des 4 dernières semaines</h2>
 
-<h3>46. {DJ} de Diam's</h3>
+<h3>46. *DJ* de Diam's</h3>
 
 [Katerine veut qu'on le laisse kiffer la vibes avec son mec->http://www.katerinefrancisetsespeintres.com/dj.html]. L'originale :
 
@@ -35,7 +38,7 @@ Le groupe vient d'annoncer des dates de concert à partir de mars 2011. Paris, P
 
 &nbsp;
 
-<h3>47. {Le cimetière des éléphants} d'Eddy Mitchell</h3>
+<h3>47. *Le cimetière des éléphants* d'Eddy Mitchell</h3>
 
 Chanson presque inconnue mais [reprise poignante (hum)->http://www.katerinefrancisetsespeintres.com/elephants.html]. Tant pis pour la fille aux yeux menthe à l'eau. Chantée par le maître Eddy : 
 
@@ -43,7 +46,7 @@ Chanson presque inconnue mais [reprise poignante (hum)->http://www.katerinefranc
 
 &nbsp;
 
-<h3>48. {Un lapin} de Chantal Goya</h3>
+<h3>48. *Un lapin* de Chantal Goya</h3>
 
 Ce matin, un lapin a tué un chasseur. [Katerine chante la révolution ici->http://www.katerinefrancisetsespeintres.com/lapin.html]. Fais chauffer le fusil Chantal !
 
@@ -51,9 +54,9 @@ Ce matin, un lapin a tué un chasseur. [Katerine chante la révolution ici->http
 
 &nbsp;
 
-<h3>49. {Double Je} de Christophe Willem</h3>
+<h3>49. *Double Je* de Christophe Willem</h3>
 
-[Une de mes préférées depuis le début de l'année->http://www.katerinefrancisetsespeintres.com/double.html]. A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà mis à l'honneur par Katerine sur {Confidence pour Confidence}. L'originale : 
+[Une de mes préférées depuis le début de l'année->http://www.katerinefrancisetsespeintres.com/double.html]. A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà mis à l'honneur par Katerine sur *Confidence pour Confidence*. L'originale : 
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/Xe8QjHpYE1E?rel=0" frameborder="0"></iframe>
 

@@ -1,6 +1,8 @@
 ---
-
+status: publie
+published: false
 title: Les brunes énervent tout le monde...
+description: 'Quatre semaines de Katerine à rattraper d''un coup... '
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -22,7 +24,7 @@ Quatre semaines de Katerine à rattraper d'un coup...
 
 <h2>Les chansons des 4 dernières semaines</h2>
 
-<h3>42. {Les brunes comptent pas des brunes} de Lio</h3>
+<h3>42. *Les brunes comptent pas des brunes* de Lio</h3>
 
 Alors que tout le monde s'attendait à Banana Split... La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/brunes.html]. Une version VHS un peu pourrie de l'originale :
 
@@ -30,7 +32,7 @@ Alors que tout le monde s'attendait à Banana Split... La reprise de Katerine es
 
 &nbsp;
 
-<h3>43. {Ca m'énerve} d'Helmut Fritz</h3>
+<h3>43. *Ca m'énerve* d'Helmut Fritz</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/enerve.html]. L'originale :
 
@@ -38,7 +40,7 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/ene
 
 &nbsp;
 
-<h3>44. {Tout le monde le fait} d'Ophélie Winter</h3>
+<h3>44. *Tout le monde le fait* d'Ophélie Winter</h3>
 
 Chanson totalement inconnue au bataillon... La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/monde.html]. L'originale :
 
@@ -46,13 +48,13 @@ Chanson totalement inconnue au bataillon... La reprise de Katerine est [ici->htt
 
 &nbsp;
 
-<h3>45. {Toute la pluie tombe sur moi} de Sasha Distel</h3>
+<h3>45. *Toute la pluie tombe sur moi* de Sasha Distel</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/pluie.html]. La version française originale, par le prince Sasha :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/p_GZXN6porg?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/p_GZXN6porg?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
-Notons malgré tout que l'originale est signée Hal David et Burt Bacharach, pour le film {Butch Cassidy et le Kid} :
+Notons malgré tout que l'originale est signée Hal David et Burt Bacharach, pour le film *Butch Cassidy et le Kid* :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/VILWkqlQLWk?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VILWkqlQLWk?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 

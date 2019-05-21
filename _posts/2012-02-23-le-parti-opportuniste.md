@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Le parti opportuniste
+description: En attendant les premiers épisodes de {La Visite du Louvre}, [promis
+  il y a déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet
+  de François Morel sur France Inter.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -14,7 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
-En attendant les premiers épisodes de {La Visite du Louvre}, [promis il y a déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet de François Morel sur France Inter : 
+En attendant les premiers épisodes de *La Visite du Louvre*, [promis il y a déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet de François Morel sur France Inter : 
 
 <iframe width="540" height="304" src="http://www.youtube.com/embed/PBoZBS4t9ks" frameborder="0" allowfullscreen></iframe>
 

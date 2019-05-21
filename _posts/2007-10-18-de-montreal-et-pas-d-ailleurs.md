@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: De Montréal et pas d'ailleurs !
 author:
   display_name: Joe Gantdelaine
@@ -14,4 +15,4 @@ categories: []
 tags: []
 comments: []
 ---
-Grosse tournée mondiale pour les créateurs du formidable {Hissing fauna, are you the destroyer ?} Avec, évidemment, une seule et unique date française, le 14 décembre à Paris. Le monde va mal !
+Grosse tournée mondiale pour les créateurs du formidable *Hissing fauna, are you the destroyer ?* Avec, évidemment, une seule et unique date française, le 14 décembre à Paris. Le monde va mal !

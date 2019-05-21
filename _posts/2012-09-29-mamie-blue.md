@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Mamie Blue
 author:
   display_name: Joe Gantdelaine

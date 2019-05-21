@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: On a parcouru les chemins
 author:
   display_name: Joe Gantdelaine

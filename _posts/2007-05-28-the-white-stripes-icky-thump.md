@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The White Stripes - Icky Thump
 author:
   display_name: Joe Gantdelaine

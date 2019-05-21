@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Mujeres à emporter
+description: "{{Mujeres}} dévoile son rock'n'roll enthousiaste dans un concert à emporter
+  plus réjouissant que d'habitude !"
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,9 +19,9 @@ tags:
 - Single
 comments: []
 ---
-Les concerts à emporter de la [{{Blogothèque}}->http://www.blogotheque.net/] sont désormais souvent assez chiants, maintenant que leur recette est éculée et le plaisir qu'ils procurent émoussé : un groupe ou un artiste solo vient jouer une chanson triste dans un cadre mélancolique tandis que la caméra tourne autour d'eux et s'attarde sur un enfant qui regarde le spectacle, émerveillé. Mouais.
+Les concerts à emporter de la [__Blogothèque__->http://www.blogotheque.net/] sont désormais souvent assez chiants, maintenant que leur recette est éculée et le plaisir qu'ils procurent émoussé : un groupe ou un artiste solo vient jouer une chanson triste dans un cadre mélancolique tandis que la caméra tourne autour d'eux et s'attarde sur un enfant qui regarde le spectacle, émerveillé. Mouais.
 
-Mais récemment, un groupe a passé la 2nde lors de cet exercice de style qui m'a de nouveau séduit. Il s'agit des Barcelonais de {{Mujeres}}, dont la prestation se trouve ci-dessous. 
+Mais récemment, un groupe a passé la 2nde lors de cet exercice de style qui m'a de nouveau séduit. Il s'agit des Barcelonais de __Mujeres__, dont la prestation se trouve ci-dessous. 
 
 Outre le concert à emporter, le [MySpace->http://www.myspace.com/mujeresdebarcelona] est recommandé : du garage plus qu'honnête qui, sans rien inventer, est plein d'énergie et d'enthousiasme.
 

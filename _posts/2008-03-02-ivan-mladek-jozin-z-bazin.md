@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Ivan Mládek - Jožin z bažin
 author:
   display_name: Dirty Henry

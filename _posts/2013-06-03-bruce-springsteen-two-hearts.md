@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Bruce Springsteen - Two Hearts
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-En cherchant un peu comment explorer le chantier à débroussailler Bruce Springsteen, j'ai trouvé les recommandations de Win Butler, le leader d'Arcade Fire, qui en a fait un top 14, qu'on a compilé sur Spotify. En tête de liste du top 14, on ne retrouve pas le stade toulousain mais {Two Hearts} :
+En cherchant un peu comment explorer le chantier à débroussailler Bruce Springsteen, j'ai trouvé les recommandations de Win Butler, le leader d'Arcade Fire, qui en a fait un top 14, qu'on a compilé sur Spotify. En tête de liste du top 14, on ne retrouve pas le stade toulousain mais *Two Hearts* :
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/g3aqhFjYLWk" frameborder="0" allowfullscreen></iframe>
 

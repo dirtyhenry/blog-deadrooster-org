@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Compile automne 2008
 author:
   display_name: Dirty Henry
@@ -20,21 +21,21 @@ tags:
 - The Raconteurs
 comments: []
 ---
--# The Ronettes - {Be My Baby}[[version live uniquement]]
--# The Coral - {Pass It On}
--# Oasis - {The Shock of the Lightning}
--# The Raconteurs - {Salute Your Solution}
--# Motorhead - {Ace of Spades}
--# Kaiser Chiefs - {Never Miss a Beat}
--# David McWilliams - {Days of Pearly Spencer}
--# She & Him - {I Thought I Saw Your Face Today}
--# Get Well Soon - {Prelude}
--# The Rolling Stones - {I'm Free}[[version live uniquement]]
--# The Kings of Leon - {Sex on Fire}
--# Oasis - {I'm Outta Time}[[version "tribute" uniquement]]
--# Sigur Rós - {Vid Spilum Endalaus}
--# Get Well Soon - {If This Hat Is Missing I Have Gone Hunting}
--# Serge Gainsbourg - {Initials B.B.}
+-# The Ronettes - *Be My Baby*[[version live uniquement]]
+-# The Coral - *Pass It On*
+-# Oasis - *The Shock of the Lightning*
+-# The Raconteurs - *Salute Your Solution*
+-# Motorhead - *Ace of Spades*
+-# Kaiser Chiefs - *Never Miss a Beat*
+-# David McWilliams - *Days of Pearly Spencer*
+-# She & Him - *I Thought I Saw Your Face Today*
+-# Get Well Soon - *Prelude*
+-# The Rolling Stones - *I'm Free*[[version live uniquement]]
+-# The Kings of Leon - *Sex on Fire*
+-# Oasis - *I'm Outta Time*[[version "tribute" uniquement]]
+-# Sigur Rós - *Vid Spilum Endalaus*
+-# Get Well Soon - *If This Hat Is Missing I Have Gone Hunting*
+-# Serge Gainsbourg - *Initials B.B.*
 
 [Ecouter la compile sur Spotify->http://open.spotify.com/user/dirtyhenry/playlist/60Q0MuIcPyaQN70qTgOBax] 
 

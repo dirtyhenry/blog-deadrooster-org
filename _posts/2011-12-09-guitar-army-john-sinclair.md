@@ -1,6 +1,11 @@
 ---
-
+status: publie
+published: false
 title: Guitar Army - John Sinclair
+description: Vous connaissez sûrement {John Sinclair}, cette chanson de John Lennon
+  qui fait «Gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta,
+  gotta, gotta, gotta, gotta, gotta set him free». Il est l'heure de faire plus ample
+  connaissance avec ce fameux John Sinclair.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -14,7 +19,7 @@ categories: []
 tags: []
 comments: []
 ---
-Quand dans {John Sinclair}, John Lennon fait «You gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta set him free», de qui parle-t-il donc bon sang ? Il est l'heure de faire plus ample connaissance avec ce fameux John Sinclair.
+Quand dans *John Sinclair*, John Lennon fait «You gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta set him free», de qui parle-t-il donc bon sang ? Il est l'heure de faire plus ample connaissance avec ce fameux John Sinclair.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/fZJLInCgem8" frameborder="0" allowfullscreen></iframe>
 
@@ -39,7 +44,7 @@ John Sinclair a une devise : «rock and roll, dope, and fucking in the streets»
 -# Libération inconditionnelle de tous les soldats : plus jamais d'armées de conscrits !
 -# Débarrassons le peuple de ses leaders bidons : tout le monde est un leader. La liberté signifie que tout le monde est libre ! Tout le pouvoir au peuple !
 
-Concrètement, Sinclair met en place une communauté à Ann Arbor, dans la banlieue de Detroit, organise des festivals, manage des groupes, etc. Surtout, il écrit dans plusieurs journaux underground (dont {Fifth Estate}, qui existe encore) : le livre {Guitar Army} rassemble certains de ces écrits.
+Concrètement, Sinclair met en place une communauté à Ann Arbor, dans la banlieue de Detroit, organise des festivals, manage des groupes, etc. Surtout, il écrit dans plusieurs journaux underground (dont *Fifth Estate*, qui existe encore) : le livre *Guitar Army* rassemble certains de ces écrits.
 
 <h2>Des bas, des hauts mais aussi des drames ailleurs qu'à Nottingham</h2> 
 

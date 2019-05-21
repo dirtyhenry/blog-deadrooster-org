@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Billy Bob a raison. Pas comme Maman...
+description: Le titre de la semaine est la {Maman a tort}, de Mylène Farmer. Joe et
+  Hervé l'avaient.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,7 +19,7 @@ tags:
 - Concours Katerine
 comments: []
 ---
-Cette semaine, la reprise de {{Katerine, Francis et ses peintres}} est [{Maman a tort}->http://www.katerinefrancisetsespeintres.com/16.html], de Mylène Farmer.
+Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Maman a tort*->http://www.katerinefrancisetsespeintres.com/16.html], de Mylène Farmer.
 
 Devant un public en folie, Mylène Farmer l'interprète dans ce que je soupçonne être un playback dans la vidéo qui suit, une belle page de variéte qui montre de manière assez troublante comme on peut entendre "abominable" quand Jean-Pierre Descombes lance "à vous Mylène" :
 

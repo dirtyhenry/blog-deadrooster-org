@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Sans regret...
+description: "Le titre de la semaine de {{Katerine, Francis et ses peintres}} est
+  {Je ne veux pas rentrer\r\nchez moi seule}, du groupe Regrets."
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,8 +19,8 @@ tags:
 - Concours Katerine
 comments: []
 ---
-Cette semaine, la reprise de {{Katerine, Francis et ses peintres}} est [{Je ne veux pas rentrer
-chez moi seule}->http://www.katerinefrancisetsespeintres.com/18.html], du très connu groupe Regrets.
+Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Je ne veux pas rentrer
+chez moi seule*->http://www.katerinefrancisetsespeintres.com/18.html], du très connu groupe Regrets.
 
 L'originale, elle aussi très connue, est ici :
 

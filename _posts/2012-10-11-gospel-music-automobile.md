@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Gospel Music - Automobile
 author:
   display_name: Dirty Henry

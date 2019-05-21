@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: La compile du lundi matin
 author:
   display_name: Joe Gantdelaine
@@ -19,21 +20,21 @@ tags:
 - Herman Düne
 comments: []
 ---
--# Absentee - {Treacle}
--# Badly Drawn Boy - {Born In The UK}
--# The Zombies - {Care of Cell 44}
--# Herman Düne - {I Wish That I Could See You Soon}
--# The Mamas & The Papas - {California Dreamin'}
--# Mychael Danna - {The Winner Is}*
--# Claude François - {Le Lundi au Soleil}
--# Benjamin Biolay - {La Monotonie}
--# The Kinks - {Mr. Pleasant}
--# I'm From Barcelona - {We're From Barcelona}
--# The Beatles - {Eleanor Rigby}*
--# The Datsuns - {Stuck Here for Days}
--# Oasis - {Morning Glory}*
--# Pierre Lapointe - {Deux par deux rassemblés}
--# Ben Kweller - {War}
+-# Absentee - *Treacle*
+-# Badly Drawn Boy - *Born In The UK*
+-# The Zombies - *Care of Cell 44*
+-# Herman Düne - *I Wish That I Could See You Soon*
+-# The Mamas & The Papas - *California Dreamin'*
+-# Mychael Danna - *The Winner Is**
+-# Claude François - *Le Lundi au Soleil*
+-# Benjamin Biolay - *La Monotonie*
+-# The Kinks - *Mr. Pleasant*
+-# I'm From Barcelona - *We're From Barcelona*
+-# The Beatles - *Eleanor Rigby**
+-# The Datsuns - *Stuck Here for Days*
+-# Oasis - *Morning Glory**
+-# Pierre Lapointe - *Deux par deux rassemblés*
+-# Ben Kweller - *War*
 
 [Ecouter la compile sur Spotify->http://open.spotify.com/user/guiguilele/playlist/5X5on64PjOrizFDr46HF39]
 

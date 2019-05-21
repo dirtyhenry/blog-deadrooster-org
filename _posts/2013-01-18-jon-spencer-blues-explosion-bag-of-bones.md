@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Jon Spencer Blues Explosion - Bag Of Bones
 author:
   display_name: Dirty Henry

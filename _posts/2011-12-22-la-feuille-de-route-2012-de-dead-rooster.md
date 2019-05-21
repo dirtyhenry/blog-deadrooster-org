@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: La feuille de route 2012 de Dead Rooster
+description: La semaine dernière, on fait [le bilan 2011->969], il est temps de passer
+  aux résolutions pour 2012.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -22,7 +25,7 @@ Concrètement, voici le programme en 10 points de Dead Rooster en 2012 :
 -# consolidation du design introduit en 2011, en particulier, apparition de la barre de navigation prévue dans la barre noire située au sommet de cette page. Ça devrait ressembler à ça : <img500>
 -# entamer la sortie du pur mode blog pour avoir des formats plus adaptés à ce qu'on veut faire, pour les critiques de disque notamment
 -# migration des vieux contenus pour qu'ils soient plus facilement accessibles, par la barre de navigation ou la page d'accueil (on réparera aussi les contenus du genre news obsolètes, liens cassés, etc)
--# une création sera lancée en cours d'année (rapidement si tout va bien) : {La visite du Louvre}, une BD-web en mode expérimental : une planche toutes les 2 semaines environ pour accompagner toute l'année 2012. J'ai jamais fait ça mais le scénario est prêt depuis plusieurs années désormais donc il est temps de passer à l'action en mode DIY ! 
+-# une création sera lancée en cours d'année (rapidement si tout va bien) : *La visite du Louvre*, une BD-web en mode expérimental : une planche toutes les 2 semaines environ pour accompagner toute l'année 2012. J'ai jamais fait ça mais le scénario est prêt depuis plusieurs années désormais donc il est temps de passer à l'action en mode DIY ! 
 -# et toujours des posts de blog, des «Le monde va mal» et des «Chansons du jour» de façon épisodique
 -# apprendre à compter jusqu'à 10
 

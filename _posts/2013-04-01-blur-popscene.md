@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Blur - Popscene
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-Aujourd'hui, {Popscene} a 21 ans. Et je ne voulais pas manquer de vous montrer [le GIF animé->http://officialblur.tumblr.com/post/36888150968] que Blur qui célèbre la chose.
+Aujourd'hui, *Popscene* a 21 ans. Et je ne voulais pas manquer de vous montrer [le GIF animé->http://officialblur.tumblr.com/post/36888150968] que Blur qui célèbre la chose.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/XV8CxSO5imQ" frameborder="0" allowfullscreen></iframe>
 

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Scott McKenzie - San Francisco
 author:
   display_name: Dirty Henry

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Live fast, die young
 author:
   display_name: Dirty Henry

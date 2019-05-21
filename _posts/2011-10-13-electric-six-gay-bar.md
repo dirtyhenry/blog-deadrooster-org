@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Electric Six - Gay Bar
 author:
   display_name: Dirty Henry

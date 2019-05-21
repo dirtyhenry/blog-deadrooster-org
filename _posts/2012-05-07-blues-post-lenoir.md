@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Blues post-Lenoir
 author:
   display_name: Dirty Henry

@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Souvenirs de Hank & Tank
+description: "{{Hank & Tank}} : un groupe oublié qu'on retrouve 8 ans après. Soyons
+  pointus et faisons le point sur un obscur groupe indé islandais."
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -27,7 +30,7 @@ Un concert commence toujours par l'attente de l'ouverture des portes. On y crois
 On s'amuse donc d'y trouver un gars qui ressemble à la fois à Eric Cantona et à Benoît Poelvoorde (ce qui n'est pas un mince exploit), un autre qui ressemble à un membre de Ram Jam (pour ceux qui ne connaissent
 pas Ram Jam, sachez que ses membres ressemblent étrangement aux footballeurs de deuxième division allemande des années 70) et une majorité de gens que l'on peut regrouper sous l'appellation de premiers de la classe. Car il faut bien remarquer que le public de Keren Ann ne respire pas le rock'n'roll à plein nez et c'est peut-être le seul point négatif lorsqu'on assiste à un de ses concerts.
 
-L'ouverture des portes a enfin lieu, tout le monde prend place dans la salle intimiste de Barbey où on se retrouve facilement avec les coudes sur la scène et là a lieu la bonne surprise de la soirée : {{Hank & Tank}}, la première partie.
+L'ouverture des portes a enfin lieu, tout le monde prend place dans la salle intimiste de Barbey où on se retrouve facilement avec les coudes sur la scène et là a lieu la bonne surprise de la soirée : __Hank & Tank__, la première partie.
 
 Deux Islandais de deux mètres vingt chacun débarquent sur scène avec leur guitare Yamaha pourrie, des clopes, des bières et des cheveux gras. Les premières minutes du set frôlent l'insupportable : trois minutes entre chaque chanson pour allumer une nouvelle cigarette, décapsuler une bière, et bouger le plus lentement possible leurs pieds enfermés dans des Clarks taille 57.
 

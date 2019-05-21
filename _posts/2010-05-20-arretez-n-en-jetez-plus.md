@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Arrêtez, n'en jetez plus !
+description: "{{Eels}} annonce fièrement la sortie d'un nouvel album, intitulé {Tomorrow
+  Morning}, pour la fin août...Ce n'est que le troisième album en à peine plus de
+  12 mois ! Prince et ses quadruples albums bimensuels n'ont qu'à bien se tenir !"
 author:
   display_name: Joe Gantdelaine
   login: guiguilele
@@ -16,4 +20,4 @@ tags:
 - Nouvel album
 comments: []
 ---
-{{Eels}} annonce fièrement la sortie d'un nouvel album, intitulé {Tomorrow Morning}, pour la fin août...Ce n'est que le troisième disque en à peine plus de 12 mois ! Prince et ses quadruples albums bimensuels n'ont qu'à bien se tenir !
+{*Eels*} annonce fièrement la sortie d'un nouvel album, intitulé *Tomorrow Morning*, pour la fin août...Ce n'est que le troisième disque en à peine plus de 12 mois ! Prince et ses quadruples albums bimensuels n'ont qu'à bien se tenir !

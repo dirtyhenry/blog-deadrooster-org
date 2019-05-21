@@ -1,6 +1,8 @@
 ---
-
+status: publie
+published: false
 title: Grass Widow's Fried Egg
+description: Voici le clip de {Fried Egg} de {{Grass Widow}}.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,7 +18,7 @@ tags:
 - Vidéo Clip
 comments: []
 ---
-Voici le clip de {Fried Egg} de {{Grass Widow}}.
+Voici le clip de *Fried Egg* de __Grass Widow__.
 
 Les Breeders sont toujours une influence majeure apparemment...
 

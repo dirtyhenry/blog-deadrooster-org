@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: No future ? Surtout quand on meurt...
 author:
   display_name: Dirty Henry
@@ -14,4 +15,4 @@ categories: []
 tags: []
 comments: []
 ---
-{{Malcolm McLaren}}, le manager des Sex Pistols, 8 fois champion du monde constructeur de F1, est décédé hier, à 64 ans. Quant à {{Angus Williams-Renault}} (en arrière-plan sur la photo), on n'a toujours pas de preuve formelle qu'il ait vraiment été le manager du Clash, ni même qu'il ait vraiment existé. Le monde va mal !
+{*Malcolm McLaren*}, le manager des Sex Pistols, 8 fois champion du monde constructeur de F1, est décédé hier, à 64 ans. Quant à __Angus Williams-Renault__ (en arrière-plan sur la photo), on n'a toujours pas de preuve formelle qu'il ait vraiment été le manager du Clash, ni même qu'il ait vraiment existé. Le monde va mal !

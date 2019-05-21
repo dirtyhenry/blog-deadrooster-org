@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Ty Segall - The Hill
 author:
   display_name: Dirty Henry

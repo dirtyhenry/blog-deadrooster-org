@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The new super french singermen
 author:
   display_name: Joe Gantdelaine
@@ -14,4 +15,4 @@ categories: []
 tags: []
 comments: []
 ---
-Attention, cela va très mal ! Pascal Obispo annonce qu'il est dorénavant {Captain Samouraï Flower}. Cela fout le tournis quand même ! Imaginons que tout le monde se mette à divaguer : Calogero devenant Lieutenant Kung-fu Moon ! Florent Pagny se reconvertissant en Sergent Sumo Water ! Bénabar en Caporal Savate Stone ! Pep's en...ahhhhh ! Arrêtez les ! Le monde va mal !
+Attention, cela va très mal ! Pascal Obispo annonce qu'il est dorénavant *Captain Samouraï Flower*. Cela fout le tournis quand même ! Imaginons que tout le monde se mette à divaguer : Calogero devenant Lieutenant Kung-fu Moon ! Florent Pagny se reconvertissant en Sergent Sumo Water ! Bénabar en Caporal Savate Stone ! Pep's en...ahhhhh ! Arrêtez les ! Le monde va mal !

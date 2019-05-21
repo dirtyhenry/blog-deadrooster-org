@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Guy Klinsmann ?
 author:
   display_name: Dirty Henry

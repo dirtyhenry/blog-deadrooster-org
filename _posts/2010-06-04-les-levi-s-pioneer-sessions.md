@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Les Levi's Pioneer Sessions
+description: Les Levi's Pioneer Sessions ou où télécharger des reprises interprétées
+  par She & Him, The Shins et The Kills.
 author:
   display_name: Dirty Henry
   login: dirtyhenry

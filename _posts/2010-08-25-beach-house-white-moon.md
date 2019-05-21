@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Beach House - White Moon
+description: Le groupe de Baltimore propose d'écouter un nouveau titre, {White Moon},
+  sur SoundCloud.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -14,7 +17,7 @@ categories: []
 tags: []
 comments: []
 ---
-Le groupe de {{Baltimore}} propose d'écouter un nouveau titre, {White Moon}, sur SoundCloud.
+Le groupe de __Baltimore__ propose d'écouter un nouveau titre, *White Moon*, sur SoundCloud.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F4739950&show_artwork=true"></iframe>
 

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Plaided - Oh My Dog!
 author:
   display_name: Joe Gantdelaine

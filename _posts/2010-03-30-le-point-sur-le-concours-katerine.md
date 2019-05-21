@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Le point sur le concours Katerine
+description: 'Le titre de la semaine est {La Queuleuleu} : Hervé n''est plus le seul
+  à avoir des points au concours !'
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -18,7 +21,7 @@ tags:
 - Katerine
 comments: []
 ---
-Cette semaine, la reprise de {{Katerine, Francis et ses peintres}} est [{La Queuleuleu}->http://www.katerinefrancisetsespeintres.com/13.html], le fameux titre de Bézu et dont l'auteur est... Guy Lux.
+Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*La Queuleuleu*->http://www.katerinefrancisetsespeintres.com/13.html], le fameux titre de Bézu et dont l'auteur est... Guy Lux.
 
 Bravo à Rodrigue dont c'était le 1er choix et qui marque 5 points.
 

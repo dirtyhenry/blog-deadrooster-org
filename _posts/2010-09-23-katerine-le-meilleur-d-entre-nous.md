@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Katerine, le meilleur d'entre nous
+description: Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine.
+  Pour ne rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps
+  de faire le point.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -38,7 +42,7 @@ L'actualité People de Katerine est elle aussi chargée, puisque la Reine d'Angl
 
 Trois semaines se sont écoulées depuis la dernière mise à jour. Pourtant, autant le dire tout de go, personne ne marque de point. On n'est qu'une bande de losers.
 
-<h3>36. {L'idole des jeunes} de Johnny Hallyday</h3>
+<h3>36. *L'idole des jeunes* de Johnny Hallyday</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/idole.html]. L'originale :
 
@@ -46,7 +50,7 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/ido
 
 &nbsp;
 
-<h3>37. {Elle est d'ailleurs} de Pierre Bachelet</h3>
+<h3>37. *Elle est d'ailleurs* de Pierre Bachelet</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/ailleurs.html]. Une version live :
 
@@ -54,9 +58,9 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/ail
 
 &nbsp;
 
-<h3>38. {Il est vraiment phénomènal} de Phenomenal Club (?)</h3>
+<h3>38. *Il est vraiment phénomènal* de Phenomenal Club (?)</h3>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/vraiment.html]. Je ne sais pas vraiment si cette chanson a un auteur officiel, mais en tout cas, cette version live à {40° à l'ombre} par un groupe baptisé Phenomenal Club est de toute beauté :
+La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/vraiment.html]. Je ne sais pas vraiment si cette chanson a un auteur officiel, mais en tout cas, cette version live à *40° à l'ombre* par un groupe baptisé Phenomenal Club est de toute beauté :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/X4cD1w10x_M?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/X4cD1w10x_M?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 

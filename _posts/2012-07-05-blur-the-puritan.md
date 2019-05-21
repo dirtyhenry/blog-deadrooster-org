@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Blur - The Puritan
 author:
   display_name: Dirty Henry

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Dégénérescence intellectuelle
 author:
   display_name: Biboulos

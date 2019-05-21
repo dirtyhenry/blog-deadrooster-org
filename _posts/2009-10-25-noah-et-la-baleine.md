@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Noah et la baleine
+description: Noah & the Whale a sorti son second album, {The Fist Days of Spring}
+  et était de passage à Paris, au café de danse, en septembre. Que penser de ce groupe
+  ? A écouter au casque ? A voir en live ? Les deux ?
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -26,12 +30,12 @@ comments:
     !
 ---
 Il y a plusieurs mois, Noah and the Whale est arrivé un peu partout sur internet et sans même lire les articles ou écouter les chansons qui allaient avec, le groupe m'a séduit immédiatement :
-- une pochette de disque - leur premier, {Peaceful, The World Lays Me Down} - qui reprend la ligne graphique de [{The Life Aquatic}, le film de Wes Anderson->http://www.youtube.com/watch?v=gbPUiaRnQkU] ({ndlr} : si vous cliquez sur ce lien, vous aurez, entre autres, {Ceremony} de Joy Division/New Order en fond sonore)
-- un nom qui me rappelle vaguement quelque chose... "Yannick le tennisman ?" Oui mais aussi autre chose. "Joakim le basketteur ?" Aussi mais tu commences à devenir lourd là. Bon sang mais c'est bien sûr, il est inspiré du film {The Squid and the Whale} de Noah Baumbach (co-scénariste de {The Life Aquatic})
+- une pochette de disque - leur premier, *Peaceful, The World Lays Me Down* - qui reprend la ligne graphique de [*The Life Aquatic*, le film de Wes Anderson->http://www.youtube.com/watch?v=gbPUiaRnQkU] (*ndlr* : si vous cliquez sur ce lien, vous aurez, entre autres, *Ceremony* de Joy Division/New Order en fond sonore)
+- un nom qui me rappelle vaguement quelque chose... "Yannick le tennisman ?" Oui mais aussi autre chose. "Joakim le basketteur ?" Aussi mais tu commences à devenir lourd là. Bon sang mais c'est bien sûr, il est inspiré du film *The Squid and the Whale* de Noah Baumbach (co-scénariste de *The Life Aquatic*)
 
 On a donc affaire à des cinéphiles éclairés... Intéressant !
 
-C'est bien joli tout ça mais ce n'est pas suffisant. Sans quoi, [The Levinsons in the Trees->http://www.myspace.com/levinsonsinthetrees] auraient percé. Donc il faut écouter les chansons et là, nouvelle séduction puisque le premier album du groupe contient deux joyaux, {Shape Of My Heart} et {Five Years Time}.
+C'est bien joli tout ça mais ce n'est pas suffisant. Sans quoi, [The Levinsons in the Trees->http://www.myspace.com/levinsonsinthetrees] auraient percé. Donc il faut écouter les chansons et là, nouvelle séduction puisque le premier album du groupe contient deux joyaux, *Shape Of My Heart* et *Five Years Time*.
 Pour la première, sortez guitares et violons, faites clap-clap dans les mains, rajoutez les choeurs féminins et les trompettes pour les refrains pour fabriquer une musique mexicaine et bucolique, fraîche comme un verre de tropico au mois d'août.
 Pour la seconde, sifflets, glockenspiel et ukulélés entrent en sus, on dit "love" à chaque fin de phrase et on ajoute un son très rigolo qui rappelle les moments où Yoshi se fait dégommer sur Super Mario World (à 3:13). Et moi, excusez-moi mais merde, j'adore ça ! Pour le reste quelques chansons honorables et plusieurs titres anecdotiques mais jamais repoussants. 
 Mais que cachent ces titres "anecdotiques mais jamais repoussants" ?
@@ -52,8 +56,8 @@ Pourtant, une idée reste en tête : "il faudra voir ce que donnent les titres d
 <div><object width="480" height="291"><param name="movie" value="http://www.dailymotion.com/swf/x5baf2"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5baf2" type="application/x-shockwave-flash" width="480" height="291" allowfullscreen="true" allowscriptaccess="always"></object><br /><b><a href="http://www.dailymotion.com/video/x5baf2_913-noah-and-the-whale-episode-3_music">#91.3 Noah and the Whale - Episode 3</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/lablogotheque">lablogotheque</a>. - <a href="http://www.dailymotion.com/fr/channel/music">Regardez la dernière sélection musicale.</a></i></div>
 
 
-La déception est digérée : on a réécouté le premier album ({Shape Of My Heart} et {5 Years Time} sont toujours aussi bien) et revu des vidéos (où le groupe a l'air cool et sympa)... Il est temps de glisser {The First Days Of Spring} sur la platine pour décider de l'attention qu'on apportera au groupe à l'avenir. 
-Tout de suite, les conclusions s'imposent : si j'avais écouté ce deuxième album avant le concert, j'aurais échangé ma place contre ce deuxième album. Noah and the Whale est clairement - et définitivement ? - un groupe dont il faut écouter les disques et fuir les concerts. La richesse des arrangements - ne serait-ce qu'au niveau quantitatif des instruments utilisés - ne peut être restituée sur scène que par une myriade de musiciens qui prendrait trop de place dans le coffre d'un van de tournée et ne rend pas justice aux talents de composition de Charlie Fink. La meilleure illustration à ce problème de rendu live est le titre éponyme qui ouvre ce second album, {The Fist Days of Spring} donc, qui m'avait laissé l'impression, sur scène, d'une berceuse maladroitement conclue par un final électrique brinqueballant et artificiel. Sur disque par contre, le titre est une sorte de morceau de bravoure (six minutes et trent-neuf secondes) au crescendo maîtrisé et saisissant. Tout l'album fourmille de titres bien fichus, mais souvent emplis d'une grandiloquence récurrente et d'une structure trop répétitive pour ne pas souffrir d'un problème de rythme, inexcusable lors du passage sur scène. 
+La déception est digérée : on a réécouté le premier album (*Shape Of My Heart* et *5 Years Time* sont toujours aussi bien) et revu des vidéos (où le groupe a l'air cool et sympa)... Il est temps de glisser *The First Days Of Spring* sur la platine pour décider de l'attention qu'on apportera au groupe à l'avenir. 
+Tout de suite, les conclusions s'imposent : si j'avais écouté ce deuxième album avant le concert, j'aurais échangé ma place contre ce deuxième album. Noah and the Whale est clairement - et définitivement ? - un groupe dont il faut écouter les disques et fuir les concerts. La richesse des arrangements - ne serait-ce qu'au niveau quantitatif des instruments utilisés - ne peut être restituée sur scène que par une myriade de musiciens qui prendrait trop de place dans le coffre d'un van de tournée et ne rend pas justice aux talents de composition de Charlie Fink. La meilleure illustration à ce problème de rendu live est le titre éponyme qui ouvre ce second album, *The Fist Days of Spring* donc, qui m'avait laissé l'impression, sur scène, d'une berceuse maladroitement conclue par un final électrique brinqueballant et artificiel. Sur disque par contre, le titre est une sorte de morceau de bravoure (six minutes et trent-neuf secondes) au crescendo maîtrisé et saisissant. Tout l'album fourmille de titres bien fichus, mais souvent emplis d'une grandiloquence récurrente et d'une structure trop répétitive pour ne pas souffrir d'un problème de rythme, inexcusable lors du passage sur scène. 
 
 (bientôt, l'épilogue...)
 

@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Divinement comique
+description: Le nouvel album de {{Divine Comedy}}, intitulé {Bang Goes The Knightwood},
+  est attendu pour le 31 mai. En attendant, on peut déjà admirer la pochette qui,
+  comme souvent pour ce groupe, allie classe et burlesque !
 author:
   display_name: Joe Gantdelaine
   login: guiguilele
@@ -14,4 +18,4 @@ categories: []
 tags: []
 comments: []
 ---
-Le nouvel album de {{Divine Comedy}}, intitulé {Bang Goes The Knightwood}, est attendu pour le 31 mai. En attendant, on peut déjà admirer la pochette qui, comme souvent pour ce groupe, allie classe et burlesque !
+Le nouvel album de __Divine Comedy__, intitulé *Bang Goes The Knightwood*, est attendu pour le 31 mai. En attendant, on peut déjà admirer la pochette qui, comme souvent pour ce groupe, allie classe et burlesque !

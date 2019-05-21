@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Beck - Sound And Vision
 author:
   display_name: Dirty Henry
@@ -14,9 +15,9 @@ categories: []
 tags: []
 comments: []
 ---
-Beck reprend ici {Sound And Vision}, un titre de David Bowie, entouré de 167 musiciens. Si les 3 premières minutes vous saoulent, c'est sans doute normal, mais celles qui suivent sont top !
+Beck reprend ici *Sound And Vision*, un titre de David Bowie, entouré de 167 musiciens. Si les 3 premières minutes vous saoulent, c'est sans doute normal, mais celles qui suivent sont top !
 
-Si vous aimez les reprises de Beck, vous avez aussi celle de {Sunday Morning} [ici->1178]. Et si vous préférez les originales, {Where It's At}, une des chansons les plus cool de l'histoire, est [là->991].
+Si vous aimez les reprises de Beck, vous avez aussi celle de *Sunday Morning* [ici->1178]. Et si vous préférez les originales, *Where It's At*, une des chansons les plus cool de l'histoire, est [là->991].
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/QnOmrDzRrGQ" frameborder="0" allowfullscreen></iframe>
 

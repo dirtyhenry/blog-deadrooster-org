@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Botibol - We Were Foxes
 author:
   display_name: Joe Gantdelaine

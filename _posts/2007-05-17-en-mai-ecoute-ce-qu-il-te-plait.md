@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: En mai, écoute ce qu'il te plait !
 author:
   display_name: Joe Gantdelaine
@@ -16,6 +17,6 @@ comments: []
 ---
 Les nouveaux disques arrivent ! Hmmm !!! Très, très bon !!!
 
-- [Menu 1->http://www.myspace.com/aprilmarch] : April March - {Attention chérie}
-- [Menu 2->http://www.myspace.com/jasonfalkner] : Jason Falkner - {NYC}
-- [Menu 3->http://www.myspace.com/thegoteam] : The Go ! Team - {Grip like a vice}
+- [Menu 1->http://www.myspace.com/aprilmarch] : April March - *Attention chérie*
+- [Menu 2->http://www.myspace.com/jasonfalkner] : Jason Falkner - *NYC*
+- [Menu 3->http://www.myspace.com/thegoteam] : The Go ! Team - *Grip like a vice*

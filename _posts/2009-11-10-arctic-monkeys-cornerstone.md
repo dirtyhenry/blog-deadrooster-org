@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Arctic Monkeys - Cornerstone
 author:
   display_name: Dirty Henry
@@ -14,6 +15,6 @@ categories: []
 tags: []
 comments: []
 ---
-La crise touche les Arctic Monkeys. Finis les clips bling-bling, ils ont dû claquer tout le pognon en jolies pépés, grosses cylindrées et petits fours pour finir par faire le clip le plus cheap de l’histoire pour {Cornerstone}...
+La crise touche les Arctic Monkeys. Finis les clips bling-bling, ils ont dû claquer tout le pognon en jolies pépés, grosses cylindrées et petits fours pour finir par faire le clip le plus cheap de l’histoire pour *Cornerstone*...
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/LIQz6zZi7R0" frameborder="0" allowfullscreen></iframe>

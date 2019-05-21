@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Mardi investigation
+description: Et si la façon la plus simple de perdre encore plus de temps qu'en regardant
+  simplement des clips sur internet était de chercher à tout prix à créer un lien
+  entre ces vidéos ?
 author:
   display_name: Joe Gantdelaine
   login: guiguilele

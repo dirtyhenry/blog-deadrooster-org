@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Hooray for the Henrys !!!
 author:
   display_name: Groovy Henry
@@ -29,7 +30,7 @@ comments:
   title: Hooray for the Henrys !!!
   content: Salut Marie (on t'a reconnu)
 ---
-The Hooray Henrys are one of the two {{winners of the V2 contest}} !
+The Hooray Henrys are one of the two __winners of the V2 contest__ !
 
 Here is the proof:
 <img517>

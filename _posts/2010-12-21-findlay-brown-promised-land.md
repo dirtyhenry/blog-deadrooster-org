@@ -1,6 +1,8 @@
 ---
-
+status: publie
+published: false
 title: Findlay Brown - Promised Land
+description: Une chanson cool... Un clip sympa... (say no more, say no more)
 author:
   display_name: Dirty Henry
   login: dirtyhenry

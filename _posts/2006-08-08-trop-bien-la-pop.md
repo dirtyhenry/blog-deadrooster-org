@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Trop bien la pop
 author:
   display_name: Dirty Henry
@@ -21,9 +22,9 @@ comments: []
 ---
 En cette période où la pop, bizarrement, me fait davantage kiffer que le rock'n'roll, je soumets plusieurs points :
 
-1. [Le site de {{The (Raymond) Domenek! Strokes' Cans}}->http://mickael.flochlay.free.fr/dsks.html] est ouvert !
+1. [Le site de __The (Raymond) Domenek! Strokes' Cans__->http://mickael.flochlay.free.fr/dsks.html] est ouvert !
 
-2. Apparemment, le meilleur album de {{Teenage Fanclub}} s'appelle {Bandwagonesque}, à découvrir...
+2. Apparemment, le meilleur album de __Teenage Fanclub__ s'appelle *Bandwagonesque*, à découvrir...
 
-3. Les [{{Thrills}}->http://www.myspace.com/thethrillsofficial] annoncent leur 3ème album : 
+3. Les [__Thrills__->http://www.myspace.com/thethrillsofficial] annoncent leur 3ème album : 
 <quote>"I believe this record will be our best work to date. The songs have really risen to the occasion. There's only been one casualty. Maybe she'll turn up on another record. We recorded our first instrumental. Could be a good opener. We're going to go home for a week or so. Get some sleep and perspective, then regroup and mix it."</quote>

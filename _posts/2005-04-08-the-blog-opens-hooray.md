@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The blog opens ! Hooray !
 author:
   display_name: Dirty Henry
@@ -38,11 +39,11 @@ comments:
   title: The blog opens ! Hooray !
   content: It's very good GG
 ---
-{{Hooray Henrys}} are a new band.
+{*Hooray Henrys*} are a new band.
 
 Here is the blog where you will be able to keep an eye over the band's life. Let's celebrate the opening of the blog with the 1st Hooray Henrys' release on the Dead Rooster Records label we have created to record our songs.
 
-The song is a cover of Hot Hot Heat's {No, Not Now}.
+The song is a cover of Hot Hot Heat's *No, Not Now*.
 
 <object type="application/x-shockwave-flash" data="/squelettes/flash/dewplayer.swf?mp3=http://cdn.deadrooster.org/hoorayhenrys-no-not-now.mp3 " width="200" height="20"> 
 <param name="movie" value="dewplayer.swf?mp3=http://cdn.deadrooster.org/hoorayhenrys-no-not-now.mp3" /> 

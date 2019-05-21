@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Cloud Nothings - Nothing's Wrong
 author:
   display_name: Joe Gantdelaine

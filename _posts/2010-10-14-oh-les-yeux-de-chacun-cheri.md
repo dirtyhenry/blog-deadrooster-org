@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Oh ! Les yeux de chacun Chéri !
+description: Déjà trois semaines depuis la dernière mise à jour du concours Katerine.
+  Allez, un petit peu de son actu marrante d'abord, et on parle du concours ensuite.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -33,7 +36,7 @@ et en live et en kilt ça donne...
 
 <h2>Le concours</h2>
 
-<h3>39. {Les yeux de ma mère} d'Arno</h3>
+<h3>39. *Les yeux de ma mère* d'Arno</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/mere.html]. Une version live d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 
@@ -41,7 +44,7 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/mer
 
 &nbsp;
 
-<h3>40. {Chacun fait (c'qui lui plaît)} de Chagrun d'Amour</h3>
+<h3>40. *Chacun fait (c'qui lui plaît)* de Chagrun d'Amour</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/chacun.html]. L'originale :
 
@@ -49,7 +52,7 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/cha
 
 &nbsp;
 
-<h3>41. {Oh Oh Chéri} de Françoise Hary</h3>
+<h3>41. *Oh Oh Chéri* de Françoise Hary</h3>
 
 La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/cheri.html]. L'originale :
 

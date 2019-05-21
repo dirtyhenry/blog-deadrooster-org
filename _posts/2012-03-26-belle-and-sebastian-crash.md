@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Belle and Sebastian - "Crash"
 author:
   display_name: Dirty Henry
@@ -18,6 +19,6 @@ Clip TTM pour cette reprise du tube des Primitives joué par le groupe de Glasgo
 
 <iframe width="540" height="304" src="http://www.youtube.com/embed/rSBVvFU55fg" frameborder="0" allowfullscreen></iframe>
 
-Sinon, n'oublions pas de regarder [{Dumb And Dumber}->http://www.youtube.com/watch?v=Bf92Y4CQ3DA] tous les ans (dans [la version "petite vieille"-included->576] bien sûr).
+Sinon, n'oublions pas de regarder [*Dumb And Dumber*->http://www.youtube.com/watch?v=Bf92Y4CQ3DA] tous les ans (dans [la version "petite vieille"-included->576] bien sûr).
 
 (via [Pitchfork->http://pitchfork.com/news/45899-video-belle-and-sebastian-crash/])

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Le CDV en DVD les copains !
 author:
   display_name: Dirty Henry
@@ -16,9 +17,9 @@ tags:
 - U2
 comments: []
 ---
-<strike>Et oui, on ne l'attendait plus mais je viens d'avoir l'info : les {Centres de Visionnage} d'{{Edouard Baer}} vont sortir en DVD lors du premier semestre 2006.</strike> (edit : en fait c'était un fake)
+<strike>Et oui, on ne l'attendait plus mais je viens d'avoir l'info : les *Centres de Visionnage* d'__Edouard Baer__ vont sortir en DVD lors du premier semestre 2006.</strike> (edit : en fait c'était un fake)
 
-Autre chose, je suis en train de regarder un documentaire sur {{U2}} et plus particulièrement sur leur album {The Joshua Tree} et je dois dire que même si des fois je dis que U2 c'est nul et ben en fait, U2 c'est quand même vachement bien. J'appelle ça le syndrôme {La folie des grandeurs}... 
+Autre chose, je suis en train de regarder un documentaire sur __U2__ et plus particulièrement sur leur album *The Joshua Tree* et je dois dire que même si des fois je dis que U2 c'est nul et ben en fait, U2 c'est quand même vachement bien. J'appelle ça le syndrôme *La folie des grandeurs*... 
 
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/SP6LgtZuBMk?rel=0" frameborder="0" allowfullscreen></iframe>
 

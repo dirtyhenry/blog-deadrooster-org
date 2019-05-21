@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: The Pixies
+description: Cette semaine, l'Encyclopédie Approximative vous propose THE article
+  approximatif !
 author:
   display_name: Joe Gantdelaine
   login: guiguilele
@@ -51,10 +54,10 @@ comments:
   content: Je note que le calembour "groupe de Baston" (dans la meme phrase que "Fight
     Club") a été loupé.
 ---
-Grâce à cet article, faisons en sorte de ne pas oublier que plus d'une décennie avant The Strokes, The White Stripes et ce qu'on a appelé les groupes en "The", dès les années 80, une première vague de ce type a déferlé sur le monde musical : The R.E.M., The U2 ou encore The Radiohead. Et donc, dans le cas qui nous intéresse aujourd'hui : {{The Pixies}}.
+Grâce à cet article, faisons en sorte de ne pas oublier que plus d'une décennie avant The Strokes, The White Stripes et ce qu'on a appelé les groupes en "The", dès les années 80, une première vague de ce type a déferlé sur le monde musical : The R.E.M., The U2 ou encore The Radiohead. Et donc, dans le cas qui nous intéresse aujourd'hui : __The Pixies__.
 
 The Pixies est un groupe de Boston surtout connu du grand public pour avoir composé la BO de Fight Club. Il est constitué de Frank White au chant/guitare, de Kim Gordon à la basse, d'un qui doit s'appeler Sandiego ou quelque chose dans le genre à la guitare lead, et d'un batteur.
 
 En plus d'assurer le chant et la guitare rythmique, Jack White est aussi le principal compositeur du groupe. Mais en dépit de ce quasi-monopole, le groupe fonctionne vraiment grâce à l'alchimie existante entre ses membres. D'ailleurs, une fois The Pixies dissous, chaque membre peinera à retrouver le succès d'antan : Jack Black et ses Catholics aligneront des albums au mieux "fades", Kim parviendra à placer une seule chanson, Champagne Supernova au refrain péchu et entêtant ("Slowly walking down the hall/Faster than a cannonball"), au sommet des charts avec Breeders, le groupe formé avec sa sœur.
 
-Ayant acquis un statut de {groupe culte}, les quatre bougres se réunissent épisodiquement, le temps d'une tournée, principalement pour que chacun puisse payer ses impôts.
+Ayant acquis un statut de *groupe culte*, les quatre bougres se réunissent épisodiquement, le temps d'une tournée, principalement pour que chacun puisse payer ses impôts.

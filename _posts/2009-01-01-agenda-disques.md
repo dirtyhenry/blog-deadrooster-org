@@ -1,6 +1,8 @@
 ---
-
+status: publie
+published: false
 title: Agenda Disques
+description: Agenda des disques LP albums à paraître dans les prochaines semaines.
 author:
   display_name: Dirty Henry
   login: dirtyhenry

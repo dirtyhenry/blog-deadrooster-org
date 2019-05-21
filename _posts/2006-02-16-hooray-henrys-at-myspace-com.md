@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Hooray Henrys at MySpace.com
 author:
   display_name: Dirty Henry

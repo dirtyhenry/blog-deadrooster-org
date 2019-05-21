@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Confidence pour qu'on fit dense
+description: Le titre de la semaine de {{Katerine, Francis et ses peintres}} est {Confidence
+  pour Confidence}, de Jean Schultheis. Loïc marque des points !
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -18,13 +21,13 @@ tags:
 - Katerine
 comments: []
 ---
-Cette semaine, la reprise de {{Katerine, Francis et ses peintres}} est [{Confidence pour Confidence}->http://www.katerinefrancisetsespeintres.com/19.html], de Jean Schultheis.
+Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Confidence pour Confidence*->http://www.katerinefrancisetsespeintres.com/19.html], de Jean Schultheis.
 
 L'originale est ici (ne vous fiez pas à la vidéo, c'est moi qui ai la bonne orthographe de Schultheis, [cf. Wikipedia->http://fr.wikipedia.org/wiki/Jean_Schultheis]) :
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nqAp8B50CeM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nqAp8B50CeM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-A noter que Jean a été l'auteur de nombreux autres tubes imparables, comme le prouve [cette vidéo pas du tout flippante de {Va te faire voir chez les Grecs}->http://www.dailymotion.com/video/x8t56o_jean-schultheis-va-te-faire-voir-ch_music].
+A noter que Jean a été l'auteur de nombreux autres tubes imparables, comme le prouve [cette vidéo pas du tout flippante de *Va te faire voir chez les Grecs*->http://www.dailymotion.com/video/x8t56o_jean-schultheis-va-te-faire-voir-ch_music].
 
 Loïc l'a trouvé en deuz et marque 4 points :
 

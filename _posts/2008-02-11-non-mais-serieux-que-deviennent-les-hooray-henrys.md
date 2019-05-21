@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Non mais sérieux, que deviennent les Hooray Henrys ?
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <strike>Sérieux ? Ils envahissent Youtube !</strike>
 
-{{edit : nous avons supprimé les vidéos de YouTube.}}
+__edit : nous avons supprimé les vidéos de YouTube.__

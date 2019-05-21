@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Get Up Get On Down par Turbo Fruit
+description: Le clip de {Get Up Get On Down} par {{Turbo Fruits}}, des gens visiblement
+  fun du Tennessee.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,7 +19,7 @@ tags:
 - Single
 comments: []
 ---
-{{Turbo Fruits}} est un groupe du Tennessee mené par Jonas Stein, un ancien de Be Your Own Pet. Leur 1er LP, {Echo Kid}, est sorti en septembre de l'année dernière et voici le clip de {Get Up Get On Down} qui en est extrait.
+{*Turbo Fruits*} est un groupe du Tennessee mené par Jonas Stein, un ancien de Be Your Own Pet. Leur 1er LP, *Echo Kid*, est sorti en septembre de l'année dernière et voici le clip de *Get Up Get On Down* qui en est extrait.
 
 Des moustaches au feutre, un plat de cassettes audio et de l'herbe violette sont au programme.
 

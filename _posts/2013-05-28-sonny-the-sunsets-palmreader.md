@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Sonny & The Sunsets - Palmreader
 author:
   display_name: Joe Gantdelaine
@@ -18,6 +19,6 @@ Comme [pour les Smith Westerns->1235], quand on aime, on ne compte pas.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F75240466"></iframe>
 
-Réécouter [leur superbe reprise d'{Imagine}->1195].
+Réécouter [leur superbe reprise d'*Imagine*->1195].
 
 (via [Soundcloud->https://soundcloud.com/polyvinyl-records/03-sonny-the-sunsets])

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Concert d'Arcade Fire
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ tags:
 - Arcade Fire
 comments: []
 ---
-A quelques semaines de la sortie de {Neon Bible}, les Canadiens ont organisé un concert secret dans une église. [On peut le récupérer ici.->http://podmodernisme.blogspot.com/2007/01/pour-ceux-qui-auraient-manqu-ce-fameux.html]
+A quelques semaines de la sortie de *Neon Bible*, les Canadiens ont organisé un concert secret dans une église. [On peut le récupérer ici.->http://podmodernisme.blogspot.com/2007/01/pour-ceux-qui-auraient-manqu-ce-fameux.html]

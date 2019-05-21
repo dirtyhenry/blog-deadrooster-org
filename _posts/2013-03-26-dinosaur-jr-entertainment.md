@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Dinosaur Jr. - Entertainment
 author:
   display_name: Joe Gantdelaine

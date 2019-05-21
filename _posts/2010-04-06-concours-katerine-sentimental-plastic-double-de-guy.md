@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: 'Concours Katerine : sentimental Plastic & doublé de Guy'
+description: Le titre de la semaine est {Sentimental Moi}, de Plastic Bertrand. Encore
+  un titre signé Guy Lux !
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -18,7 +21,7 @@ tags:
 - Katerine
 comments: []
 ---
-Cette semaine, la reprise de {{Katerine, Francis et ses peintres}} est [{Sentimental Moi}->http://www.katerinefrancisetsespeintres.com/14.html], un titre qui prouve que Plastic Bertrand a fait autre chose que {Ça plane pour moi} et qui permet à Guy Lux de signer un doublé après [{La Queuleuleu} de la semaine dernière->583].
+Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Sentimental Moi*->http://www.katerinefrancisetsespeintres.com/14.html], un titre qui prouve que Plastic Bertrand a fait autre chose que *Ça plane pour moi* et qui permet à Guy Lux de signer un doublé après [*La Queuleuleu* de la semaine dernière->583].
 
 Voilà la version originale : 
 

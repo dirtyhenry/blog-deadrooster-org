@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Elvis Presley
+description: Cette semaine, dans l'Encyclopédie Approximative du Rock and Roll, du
+  lourd, du très lourd (du trop lourd ?). Messieurs-dames, Elvis !!!
 author:
   display_name: Joe Gantdelaine
   login: guiguilele
@@ -38,14 +41,14 @@ comments:
     surnom du \"King\" (\"celui-qui-est-sur-la-plus-haute-marche\" en américain).
     \r\n\r\n"
 ---
-Usurpateur de génie, le {Boss} de son surnom, commença sa carrière en piquant le timbre de voix et le déhanché des bluesmen noirs alors en vogue aux États-Unis.
+Usurpateur de génie, le *Boss* de son surnom, commença sa carrière en piquant le timbre de voix et le déhanché des bluesmen noirs alors en vogue aux États-Unis.
 
-Lorsque son manager, le "lieutenant" Parker, lui fait entendre {Blue Suede Shoes} pour la première fois, Elvis tombe sous le charme de cette chanson narrant les aventures d'une {fashion victim} qui n'aime pas trop se faire marcher sur les pieds. Il décide alors de se l'approprier et en fait une reprise qui, avouons-le, dépasse largement l'originale composée par Buddy Holly. C'est d'ailleurs le pierre angulaire de son premier album, dont la pochette {s'inspire} librement de celle de {London Calling} du Clash. Les autres succès de ce premier LP sont {All Shook Up} et {Jealous Rock}.
+Lorsque son manager, le "lieutenant" Parker, lui fait entendre *Blue Suede Shoes* pour la première fois, Elvis tombe sous le charme de cette chanson narrant les aventures d'une *fashion victim* qui n'aime pas trop se faire marcher sur les pieds. Il décide alors de se l'approprier et en fait une reprise qui, avouons-le, dépasse largement l'originale composée par Buddy Holly. C'est d'ailleurs le pierre angulaire de son premier album, dont la pochette *s'inspire* librement de celle de *London Calling* du Clash. Les autres succès de ce premier LP sont *All Shook Up* et *Jealous Rock*.
 
-Malheureusement pour lui, sa carrière fut brève, puisque commencée au milieu des fifties, elle se termine avec la {Mort du Rock and Roll}, terme choisi par les historiens de la musique pour évoquer la période qui suit le retour de service militaire de Johnny Hallyday en 1964.
+Malheureusement pour lui, sa carrière fut brève, puisque commencée au milieu des fifties, elle se termine avec la *Mort du Rock and Roll*, terme choisi par les historiens de la musique pour évoquer la période qui suit le retour de service militaire de Johnny Hallyday en 1964.
 
 Après plusieurs tentatives infructueuses à Hollywood, il se tourne vers le stand-up. Dans un souci d'exhaustivité, citons ici sa blague favorite qui consistait à demander à une complice dissimulée dans le public : "Salut ma belle ! Comment je m'appelle ?", la jeune fille de répondre : "Presley !", et lui de conclure d'un simple "Pouet ! Pouet !" accompagné d'un geste libidineux sur la poitrine de son assistante... ... ... Humoriste visionnaire, trop en avance sur son temps et sur les mœurs d'une société américaine ultra-conservatrice, sa reconversion comique est un échec !
 
-En désespoir de cause, il revient à la chanson, avec son fameux {Aloha From Haïti}. C'est un retour en grâce, caractérisé par un Elvis en forme olympique et d'une grande sobriété vestimentaire.
+En désespoir de cause, il revient à la chanson, avec son fameux *Aloha From Haïti*. C'est un retour en grâce, caractérisé par un Elvis en forme olympique et d'une grande sobriété vestimentaire.
 
-Esseulé dans son ranch de {Neverland}, Elvis décède à la fin des années 70 d'une overdose de beurre de cacahuète, ce qui attriste profondément le monde de la musique. Les fans les plus extrêmes n'ont cependant jamais accepté cette annonce et pensent encore que leur héros n'est pas mort, et que, parmi les sosies qui participent à la multitude de concours organisés à travers le monde, se cache le vrai Elvis (d'ailleurs, pour l'anecdote, au début de sa carrière, Elvis a fini 3ème à un concours d'imitation...d'Elvis !).
+Esseulé dans son ranch de *Neverland*, Elvis décède à la fin des années 70 d'une overdose de beurre de cacahuète, ce qui attriste profondément le monde de la musique. Les fans les plus extrêmes n'ont cependant jamais accepté cette annonce et pensent encore que leur héros n'est pas mort, et que, parmi les sosies qui participent à la multitude de concours organisés à travers le monde, se cache le vrai Elvis (d'ailleurs, pour l'anecdote, au début de sa carrière, Elvis a fini 3ème à un concours d'imitation...d'Elvis !).

@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Barât défend l'indéfendable
+description: L'ex-Libertine et Dirty Pretty Things le clame haut et fort :[ "non,
+  la pochette de mon disque solo n'est pas moche"->http://www.nme.com/news/carl-barat/53280].
+  Le monde va mal !
 author:
   display_name: Dirty Henry
   login: dirtyhenry

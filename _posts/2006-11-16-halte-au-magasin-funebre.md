@@ -1,6 +1,8 @@
 ---
-
+status: publie
+published: false
 title: Halte au magasin funèbre
+description: Pamphlet anti-"marché noir" !
 author:
   display_name: Dirty Henry
   login: dirtyhenry

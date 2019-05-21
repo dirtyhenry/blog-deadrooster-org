@@ -1,6 +1,12 @@
 ---
-
+status: publie
+published: false
 title: Un blaireau décide quel ticket prendre pour Rock en Seine
+description: "Il serait temps de faire un post sur ce blog, ne serait-ce que pour
+  prouver qu'on existe toujours.\r\n\r\nCe post a donc un triple objectif : \r\n-#
+  Avoir un nouveau post car y'en a marre d'avoir la même image en page de garde depuis
+  avril\r\n-# Discuter de la programmation de {{Rock en Seine}}\r\n-# Montrer que
+  {{Sortmash}} peut-être une appli utile aux blaireaux dans mon genre"
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -20,8 +26,8 @@ Il serait temps de faire un post sur ce blog, ne serait-ce que pour prouver qu'o
 
 Ce post a donc un triple objectif : 
 -# Avoir un nouveau post car y'en a marre d'avoir la même image en page de garde depuis avril
--# Discuter de la programmation de {{Rock en Seine}}
--# Montrer que {{Sortmash}} peut-être une appli utile aux blaireaux dans mon genre
+-# Discuter de la programmation de __Rock en Seine__
+-# Montrer que __Sortmash__ peut-être une appli utile aux blaireaux dans mon genre
 
 Je vais donc vous raconter ma problématique : quel billet choisir pour l'édition 2012 de Rock en Seine ? Les têtes d'affiche sont assez bien distribuées entre les 3 jours et je ne sais pas quoi décider car les seconds couteaux ne sont pas de taille à me convaincre de prendre le forfait 3 jours.
 

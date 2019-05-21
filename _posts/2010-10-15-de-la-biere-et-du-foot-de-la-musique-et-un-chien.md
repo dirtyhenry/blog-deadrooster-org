@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: De la bière et du foot, de la musique et un chien
+description: Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du
+  foot, de la musique et un chien. Programme idéal.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -46,7 +49,7 @@ Par ailleurs, en ce qui concerne le biopic de Phil Spector (producteur génial d
 
 <img420>
 
-Aucun titre n'est encore prévu pour le film mais Stereogum propose un concours pour trouver le meilleur. Si j'étais producteur du film, je choisirais l'une de leurs propositions : {If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of Phil Spector}.
+Aucun titre n'est encore prévu pour le film mais Stereogum propose un concours pour trouver le meilleur. Si j'étais producteur du film, je choisirais l'une de leurs propositions : *If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of Phil Spector*.
 
 (via [Stereogum->http://stereogum.com/513961/sacha-baron-cohen-cast-as-freddie-mercury/casting-couch/] et... [Stereogum->http://stereogum.com/540682/name-the-phil-spector-biopic-starring-al-pacin/casting-couch/])
 

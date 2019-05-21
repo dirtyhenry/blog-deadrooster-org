@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Leslie Nielsen n'a jamais parlé de monsieur tout nu
+description: Leslie Nielsen est mort. Il ne pourra plus empêcher les gens de le confondre
+  avec le pilote de {Y a-t-il un pilote dans l'avion ?}. Le monde va mal !
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -16,4 +19,4 @@ tags:
 - Trucs marrants
 comments: []
 ---
-Leslie Nielsen est mort. Il ne pourra plus empêcher les gens de le confondre avec le pilote de {Y a-t-il un pilote dans l'avion ?}. Le monde va mal !
+Leslie Nielsen est mort. Il ne pourra plus empêcher les gens de le confondre avec le pilote de *Y a-t-il un pilote dans l'avion ?*. Le monde va mal !

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Programmation Vieilles Charrues 2007
 author:
   display_name: ''
@@ -17,9 +18,9 @@ comments: []
 Ça y est <a href="http://www.vieillescharrues.asso.fr/festival/index.php">la programmation est tombée</a>.
 
 Les meilleurs moments :
-- {{Jeudi}} : Rita Mitsouko et Katerine
-- {{Vendredi}} : Arcade Fire, LCD Soundsystem, Clap Your Hands Say Yeah, Art Brut
-- {{Samedi}} : Kaiser Chiefs, Emilie Simon, Sean Lennon, Justice, Herman Düne
-- {{Dimanche}} : Klaxons... C'est à peu près tout
+- __Jeudi__ : Rita Mitsouko et Katerine
+- __Vendredi__ : Arcade Fire, LCD Soundsystem, Clap Your Hands Say Yeah, Art Brut
+- __Samedi__ : Kaiser Chiefs, Emilie Simon, Sean Lennon, Justice, Herman Düne
+- __Dimanche__ : Klaxons... C'est à peu près tout
 
 Bref, on zappe le jeudi, on s'éclate sans limite vendredi et samedi parce que le dimanche on pourra faire la sieste pendant Yannick Noah.

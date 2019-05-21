@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: De la décadence de l'espèce humaine
 author:
   display_name: Joe Gantdelaine

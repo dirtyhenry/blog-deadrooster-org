@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: C'est vrai qu'on s'en fout !
 author:
   display_name: Joe Gantdelaine
@@ -22,4 +23,4 @@ comments:
 ---
 «Why did we care if good old Britney wants to shave her head?»
 
-Merci à ces messieurs-dames de {{I'm from Barcelona}} de nous avoir éclairés sur cette affaire par l'intermédiaire de leur nouveau single en écoute [via ici->http://stereogum.com/5565/im_from_barcelona_pen_their_ode_to_britney_spears/news/].
+Merci à ces messieurs-dames de __I'm from Barcelona__ de nous avoir éclairés sur cette affaire par l'intermédiaire de leur nouveau single en écoute [via ici->http://stereogum.com/5565/im_from_barcelona_pen_their_ode_to_britney_spears/news/].

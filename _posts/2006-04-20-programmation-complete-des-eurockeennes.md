@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Programmation complète des Eurockéennes
 author:
   display_name: Dirty Henry

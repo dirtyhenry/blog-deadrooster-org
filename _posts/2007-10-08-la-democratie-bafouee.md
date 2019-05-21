@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: La démocratie bafouée
 author:
   display_name: ''

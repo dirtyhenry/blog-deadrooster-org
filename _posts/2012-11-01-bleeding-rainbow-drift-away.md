@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Bleeding Rainbow - Drift Away
 author:
   display_name: Dirty Henry
@@ -18,4 +19,4 @@ comments: []
 ---
 <iframe width="540" height="405" src="http://www.youtube.com/embed/IPmste-qIsE" frameborder="0" allowfullscreen></iframe>
 
-Les ex-Reading Rainbow sortiront leur nouvel album, {Yeah Right}, début 2013.
+Les ex-Reading Rainbow sortiront leur nouvel album, *Yeah Right*, début 2013.

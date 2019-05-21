@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Unknown Mortal Orchestra - Swim And Sleep (Like a Shark)
 author:
   display_name: Joe Gantdelaine
@@ -18,4 +19,4 @@ On en parlait pas plus tard que [l'autre jour->1186], et voici le clip d'un titr
 
 <iframe src="http://www.youtube.com/embed/E6Niqxw_Yz0" frameborder="0" allowfullscreen></iframe>
 
-Réécouter [{Ffunny Ffrends}->1186].
+Réécouter [*Ffunny Ffrends*->1186].

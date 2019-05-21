@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Epilogue du concours Katerine
+description: C'est bien triste mais voici l'épilogue du concours Katerine, qui nous
+  aura tenu en haleine toute l'année 2010.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -34,7 +37,7 @@ C'est bien triste mais voici l'épilogue du concours Katerine, qui nous aura ten
 
 <h2>Les chansons des 3 dernières semaines</h2>
 
-<h3>50. {Rectangle} de Jacno</h3>
+<h3>50. *Rectangle* de Jacno</h3>
 
 [Katerine reprend le plus grand tube de l'ex-Stinky Toys->http://www.katerinefrancisetsespeintres.com/rectangle.html], décédé l'année dernière, et qui avait servi à une pub Nesquik. L'originale :
 
@@ -42,15 +45,15 @@ C'est bien triste mais voici l'épilogue du concours Katerine, qui nous aura ten
 
 &nbsp;
 
-<h3>51. {Noël Blanc} d'Irving Berlin</h3>
+<h3>51. *Noël Blanc* d'Irving Berlin</h3>
 
-Voici [une reprise de {White Christmas}->http://www.katerinefrancisetsespeintres.com/neige.html], traduite par Francis Blanche. La version du King : 
+Voici [une reprise de *White Christmas*->http://www.katerinefrancisetsespeintres.com/neige.html], traduite par Francis Blanche. La version du King : 
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/G0xUPa_XBDk?rel=0" frameborder="0"></iframe>
 
 &nbsp;
 
-<h3>52. {Ne partons pas fâchés} de Raphaël</h3>
+<h3>52. *Ne partons pas fâchés* de Raphaël</h3>
 
 [Katerine conclut 2010 par une reprise chorale du titre de Raphaël->http://www.katerinefrancisetsespeintres.com/fin.html]. L'originale :
 

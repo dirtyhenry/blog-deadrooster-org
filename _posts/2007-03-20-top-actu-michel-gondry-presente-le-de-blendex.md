@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: 'Top actu : Michel Gondry présente le de-blendex'
 author:
   display_name: Joe Gantdelaine
@@ -18,4 +19,4 @@ comments: []
 ---
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/4ga0W9LXK5M&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4ga0W9LXK5M&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-Joli teaser pour la sortie du DVD de {La Science des Rêves}.
+Joli teaser pour la sortie du DVD de *La Science des Rêves*.

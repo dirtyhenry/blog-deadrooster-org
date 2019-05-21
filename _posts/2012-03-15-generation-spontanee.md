@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Génération spontanée
 author:
   display_name: Joe Gantdelaine

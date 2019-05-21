@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Tu seras terriblement gentille
 author:
   display_name: Dirty Henry
@@ -18,7 +19,7 @@ comments: []
 ---
 {Gentille}, c'est l'histoire du couple Fontaine Leglou/Michel Strogoff, lequel a demandé en mariage la première qui ne sait que répondre. 
 
-Déjà, rien que pour les patronymes des protagonistes, aller voir ce film, cousin éloigné du {Rois et Reine} de Despleschin qui, détail cocasse, était sorti à peu près à la même époque l'année dernière, est essentiel. 
+Déjà, rien que pour les patronymes des protagonistes, aller voir ce film, cousin éloigné du *Rois et Reine* de Despleschin qui, détail cocasse, était sorti à peu près à la même époque l'année dernière, est essentiel. 
 
 Qui est qui ? Le docteur est-il plus sain d'esprit que son patient ? T'habites à combien de kilomètres de Tours ? Autant de questions auquelles le nouveau film de Sophie Fillières répond avec drôlerie, cocasserie, burlesquerie et douleurie.
 

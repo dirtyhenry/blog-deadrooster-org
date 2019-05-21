@@ -1,6 +1,11 @@
 ---
-
+status: publie
+published: false
 title: Update du concours Katerine
+description: Après 10 jours de congés, il est temps de refaire un point sur le concours
+  Katerine. Les 2 dernières reprises de {{Katerine, Francis et ses peintres}} sont
+  {Sympathique} de Pink Martini (aka {Je ne veux pas travailler}) et {Ma Benz} de
+  NTM.
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -18,7 +23,7 @@ tags:
 - Katerine
 comments: []
 ---
-Les reprises des deux dernières semaines de {{Katerine, Francis et ses peintres}} sont [{Sympathique}->http://www.katerinefrancisetsespeintres.com/21.html], de Pink Martini (aka {Je ne veux pas travailler}) et [{Ma Benz}->http://www.katerinefrancisetsespeintres.com/22.html] de NTM..
+Les reprises des deux dernières semaines de __Katerine, Francis et ses peintres__ sont [*Sympathique*->http://www.katerinefrancisetsespeintres.com/21.html], de Pink Martini (aka *Je ne veux pas travailler*) et [*Ma Benz*->http://www.katerinefrancisetsespeintres.com/22.html] de NTM..
 
 Les originales :
 

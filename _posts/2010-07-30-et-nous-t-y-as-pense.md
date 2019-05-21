@@ -1,6 +1,9 @@
 ---
-
+status: publie
+published: false
 title: Et nous, t'y as pensé ?
+description: Larqué quitte TF1. Il nous laisse seuls avec Christian Jeanpierre. On
+  va pas s'faire chier cette saison ! Le monde va mal !
 author:
   display_name: Dirty Henry
   login: dirtyhenry

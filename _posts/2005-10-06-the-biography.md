@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The biography
 author:
   display_name: Dirty Henry
@@ -18,7 +19,7 @@ tags:
 - Hooray Henrys
 comments: []
 ---
-This is the biography we wrote for the {{Réseau Printemps}} contest. Quite sorry for our numerous english-speaking fans but it's in french.
+This is the biography we wrote for the __Réseau Printemps__ contest. Quite sorry for our numerous english-speaking fans but it's in french.
 
 «Gods of rock'n'roll are dead now these evil bastards've killed them !». C'est en ces mots bien choisis et qui seraient probablement restés célèbres que Joe Strummer aurait évoqué le cas Hooray Henrys s'il avait eu la chance de les rencontrer.
 

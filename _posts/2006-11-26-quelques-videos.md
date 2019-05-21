@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Quelques vidéos
 author:
   display_name: Dirty Henry
@@ -22,9 +23,9 @@ comments: []
 
 Quelques exemples :
 
-- [{Je veux des frites}->http://www.grapheine.com/bombaytv/play_fr.php?id=1778726], sur Bombay TV
+- [*Je veux des frites*->http://www.grapheine.com/bombaytv/play_fr.php?id=1778726], sur Bombay TV
 
-- [{L'homme et l'éléphant}->http://www.grapheine.com/bombaytv/play_fr.php?id=1779726], toujours sur Bombay TV
+- [*L'homme et l'éléphant*->http://www.grapheine.com/bombaytv/play_fr.php?id=1779726], toujours sur Bombay TV
 
 <h2>Mozinor</h2>
 
@@ -34,7 +35,7 @@ Quelques exemples :
 
 <iframe frameborder="0" width="540" height="408" src="http://www.dailymotion.com/embed/video/xxkxw?width=540"></iframe><br /><a href="http://www.dailymotion.com/video/xxkxw_007-tu-peux-pas-test_fun" target="_blank">007 tu peux pas test</a> <i>par <a href="http://www.dailymotion.com/mozinor" target="_blank">mozinor</a></i>
 
-<h3>Mozinor refait {Beat It} en {Bite It}</h3>
+<h3>Mozinor refait *Beat It* en *Bite It*</h3>
 
 <iframe frameborder="0" width="540" height="405" src="http://www.dailymotion.com/embed/video/x6jby?width=540"></iframe><br /><a href="http://www.dailymotion.com/video/x6jby_bite-it_news" target="_blank">Bite it</a> <i>par <a href="http://www.dailymotion.com/mozinor" target="_blank">mozinor</a></i>
 

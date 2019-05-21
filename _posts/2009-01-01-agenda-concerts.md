@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Agenda Concerts
 author:
   display_name: Dirty Henry
@@ -22,54 +23,54 @@ UPDATE : désormais, les dates de concert, c'est un peu en chantier, mais c'est 
 
 <h2>Salles de concert à Paris</h2>
 
--* {{La Maroquinerie}} : 
+-* __La Maroquinerie__ : 
 -** [site officiel->http://www.lamaroquinerie.fr]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=5181]
--* {{La Cigale}} : 
+-* __La Cigale__ : 
 -** [site officiel->http://www.lacigale.fr]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=1465]
--* {{Zénith}} : 
+-* __Zénith__ : 
 -** [site officiel->http://www.zenith-paris.com/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=698]
--* {{Le Bataclan}} : 
+-* __Le Bataclan__ : 
 -** [site officiel->http://www.le-bataclan.com/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=305]
--* {{Elysée Montmartre}} : 
+-* __Elysée Montmartre__ : 
 -** [site officiel->http://www.elyseemontmartre.com/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=5235]
--* {{Boule Noire}} : 
+-* __Boule Noire__ : 
 -** [site officiel->http://www.laboule-noire.fr/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=3778]
--* {{Trabendo}} : 
+-* __Trabendo__ : 
 -** [site officiel->http://www.trabendo.fr/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=6247]
--* {{Olympia}} : 
+-* __Olympia__ : 
 -** [site officiel->http://www.olympiahall.com/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=731]
--* {{Café de la Danse}} :
+-* __Café de la Danse__ :
 -** [site officiel->http://www.myspace.com/cafedeladanse]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=715]
--* {{Point Ephémère}} : 
+-* __Point Ephémère__ : 
 -** [site officiel->http://www.pointephemere.org/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=14402]
--* {{Nouveau Casino}} : 
+-* __Nouveau Casino__ : 
 -** [site officiel->http://www.nouveaucasino.net/]
 -** [infoconcert->http://infoconcert.com/html/salle.php?id=9646]
--* {{Flèche d'Or}} : 
+-* __Flèche d'Or__ : 
 -** [site officiel->http://www.flechedor.fr/]
 -** [infoconcert->http://www.infoconcert.com/salle/fleche-dor-2816/concerts.html]
 
 <h2>Sites de concert</h2>
 
-- [{{Info concert}}->http://www.infoconcert.com/]
-- [{{Concert and co}}->http://www.concertandco.com/]
-- [{{Allez les filles}}->http://www.allezlesfilles.com/] (Bordeaux)
-- [{{Rock School Barbey}}->http://www.rockschool-barbey.com/] (Bordeaux)
+- [__Info concert__->http://www.infoconcert.com/]
+- [__Concert and co__->http://www.concertandco.com/]
+- [__Allez les filles__->http://www.allezlesfilles.com/] (Bordeaux)
+- [__Rock School Barbey__->http://www.rockschool-barbey.com/] (Bordeaux)
 
 <h2>Radio et télé</h2>
 
-- [{{C'est Lenoir}}->http://www.radiofrance.fr/franceinter/em/cestlenoir/]
-- [{{Le pont des artistes}}->http://www.radiofrance.fr/franceinter/em/pontdesartistes/]
+- [__C'est Lenoir__->http://www.radiofrance.fr/franceinter/em/cestlenoir/]
+- [__Le pont des artistes__->http://www.radiofrance.fr/franceinter/em/pontdesartistes/]
 
 <h2>Photos</h2>
 

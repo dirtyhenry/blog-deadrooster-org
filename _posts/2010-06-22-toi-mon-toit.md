@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Toi mon toit
+description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
+  {Toi mon toit} de Elli Medeiros. Mais cette semaine, Katerine nous offre aussi un
+  nouveau titre bien à lui !
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -17,9 +21,9 @@ tags:
 - Single
 comments: []
 ---
-La reprise de la semaine de {{Katerine, Francis et ses peintres}} est [{Toi mon toit}->http://www.katerinefrancisetsespeintres.com/25.html], de Elli Medeiros.
+La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Toi mon toit*->http://www.katerinefrancisetsespeintres.com/25.html], de Elli Medeiros.
 
-L'originale suit, comme d'habitude, mais d'abord, profitons également du nouveau titre du prochain album de Katerine, {Bla Bla Bla}, diffusé cette semaine également :
+L'originale suit, comme d'habitude, mais d'abord, profitons également du nouveau titre du prochain album de Katerine, *Bla Bla Bla*, diffusé cette semaine également :
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/cYfNDHSqrEA" frameborder="0" allowfullscreen></iframe>
 

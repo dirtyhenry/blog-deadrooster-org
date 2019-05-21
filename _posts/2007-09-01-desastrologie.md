@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Désastrologie
 author:
   display_name: Dirty Henry
@@ -14,4 +15,4 @@ categories: []
 tags: []
 comments: []
 ---
-Pour les amateurs de {La Sciences Des Rêves}, voici l'adresse du site de Baptiste Ibar, l'auteur des peintures du calendrier de Désastrologie du film : [www.baptisteibar.com->http://www.baptisteibar.com].
+Pour les amateurs de *La Sciences Des Rêves*, voici l'adresse du site de Baptiste Ibar, l'auteur des peintures du calendrier de Désastrologie du film : [www.baptisteibar.com->http://www.baptisteibar.com].

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The Fresh & Onlys - Presence Of Mind
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/9YzkHYZyErA" frameborder="0" allowfullscreen></iframe>
 
-Second extrait de leur {Long Slow Dance} (à paraître le mois prochain), après [{Yes Or No}->1050].
+Second extrait de leur *Long Slow Dance* (à paraître le mois prochain), après [*Yes Or No*->1050].

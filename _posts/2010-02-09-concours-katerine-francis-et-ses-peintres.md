@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Concours Katerine, Francis et ses peintres
+description: Après {C'est lundi}, {Une chanson douce}, {La boîte de jazz}, {Belle
+  Île en Mer}, {Coup de folie} et {Papayou}, quelle seront les prochaines reprises
+  de Katerine, Francis et ses peintres ?
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -18,28 +22,28 @@ tags:
 - Katerine
 comments: []
 ---
-<span style="color:#009;">{{Edit}} : 2010, c'est fini, le concours est terminé !</span>
+<span style="color:#009;">__Edit__ : 2010, c'est fini, le concours est terminé !</span>
 
 <h2>Concours permanent</h2>
 
-<span style="color:#009;">{{Edit}} : on me glisse à l'oreille (merci à Damien et Guillaume) que c'est plus marrant de laisser le concours ouvert jusqu'à la fin de l'année, dont acte. En plus, plus on joue tard, moins on a de chances de gagner donc ça vaut. Mieux, pourquoi ne pourrait-on pas jouer plusieurs fois ? Dont acte également ! Mais par contre {{il est interdit de jouer une chanson déjà jouée par soi-même ou un autre concurrent}} (cf. chansons jouées en bas de page)</span>
+<span style="color:#009;">__Edit__ : on me glisse à l'oreille (merci à Damien et Guillaume) que c'est plus marrant de laisser le concours ouvert jusqu'à la fin de l'année, dont acte. En plus, plus on joue tard, moins on a de chances de gagner donc ça vaut. Mieux, pourquoi ne pourrait-on pas jouer plusieurs fois ? Dont acte également ! Mais par contre __il est interdit de jouer une chanson déjà jouée par soi-même ou un autre concurrent__ (cf. chansons jouées en bas de page)</span>
 
-Le site [www.katerinefrancisetsespeintres.com->http://www.katerinefrancisetsespeintres.com/] sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle pépite de la chanson française, reprise par {{Philippe Katerine}} et le groupe {{Francis et ses peintres}}.
+Le site [www.katerinefrancisetsespeintres.com->http://www.katerinefrancisetsespeintres.com/] sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle pépite de la chanson française, reprise par __Philippe Katerine__ et le groupe __Francis et ses peintres__.
 
-Les 6 premières semaines de l'année furent lourdes de bonnes surprises avec des reprises de {C'est lundi}, {Une chanson douce}, {La boîte de jazz}, {Belle Île en Mer}, {Coup de folie} et {Papayou}. Mais que nous réservent les prochaines semaines ?
+Les 6 premières semaines de l'année furent lourdes de bonnes surprises avec des reprises de *C'est lundi*, *Une chanson douce*, *La boîte de jazz*, *Belle Île en Mer*, *Coup de folie* et *Papayou*. Mais que nous réservent les prochaines semaines ?
 
-Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts pour la chanson n°2, etc... <strike>Les pronostics sont ouverts jusqu'à dimanche, où les pronostics seront publiés sur ce site !</strike> Le vainqueur du pronostic gagnera {{une photo dédicacée de [Jean-Pierre Caca->rubrique 5]}}. 
+Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts pour la chanson n°2, etc... <strike>Les pronostics sont ouverts jusqu'à dimanche, où les pronostics seront publiés sur ce site !</strike> Le vainqueur du pronostic gagnera __une photo dédicacée de [Jean-Pierre Caca->rubrique 5]__. 
 
 Rendez-vous en 2011 pour le verdict !
 
 L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer le résultat final uniquement : pas d'inscription à une mailing-liste, pas de mémorisation, pas de transmission à des tiers ou quoi que ce soit, ce n'est pas le genre de la maison.
 
-{{Les chansons jouées au 11/11/2010 :}} 
-- 1990 (Jean Leloup) {{x2}}
+__Les chansons jouées au 11/11/2010 :__ 
+- 1990 (Jean Leloup) __x2__
 - A bicyclette (Yves Montand)
 - Africa (Toto)
 - A la claire fontaine (traditionnel)
-- Alexandrie, Alexandra (Claude François) {{x2}}
+- Alexandrie, Alexandra (Claude François) __x2__
 - Allumez le feu (Johnny Hallyday)
 - L'Amérique (Joe Dassin)
 - L'amour avec toi (Michel Polnareff)
@@ -49,12 +53,12 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Avec le temps (Léo Ferré)
 - <strike>Balade irlandaise (Bourvil)</strike>
 - La bamba triste (Pierre Billon)
-- Banana split (Lio) {{x5}}
+- Banana split (Lio) __x5__
 - Bang Bang (Nicoletta)
 - Bécassine (Chantal Goya)
 - Une belle histoire (Michel Fugain)
 - Bidon (Alain Souchon)
-- Big Bisous (Carlos) {{x2}}
+- Big Bisous (Carlos) __x2__
 - Bleu comme toi (Etienne Daho)
 - La Bohème (Charles Aznavour)
 - Bonne bonne humeur ce matin (Tristan)
@@ -78,7 +82,7 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Chante (Les Forbans)
 - Le chanteur abandonné (Johnny Hallyday)
 - Chapi Chapo (thème de la série)
-- Chic Planète (L'Affaire Louis Trio) {{x2}}
+- Chic Planète (L'Affaire Louis Trio) __x2__
 - Colargol (thème de la série)
 - Comme un garçon (Sylvie Vartan)
 - Comment te dire adieu (Françoise Hardy)
@@ -97,7 +101,7 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Est-ce que tu viens pour les vacances (David et Jonathan)
 - Etienne (Guesch Patti)
 - L'été indien (Joe Dassin)
-- Tes états d'âmes Eric (Luna Parker) {{x2}}
+- Tes états d'âmes Eric (Luna Parker) __x2__
 - Fais pas ci fais pas ça (Jacques Dutronc)
 - Félicie (Fernandel)
 - Femme des années 80 (Michel Sardou)
@@ -106,7 +110,7 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - The final countdown (Europe)
 - La fleur aux dents (Joe Dassin)
 - La foule (Edith Piaf)
-- Foule Sentimentale (Alain Souchon) {{x2}}
+- Foule Sentimentale (Alain Souchon) __x2__
 - Gaby (Alain Bashung)
 - Le gentil dauphin triste (Gérard Lenorman)
 - Girls & Boys (Blur)
@@ -120,7 +124,7 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Hot for teacher (Van Halen)
 - Hymne à l'amour (Edith Piaf)
 - Il est cinq heures, Paris s'éveille (Jacques Dutronc)
-- Il tape sur des bambous (Philippe Lavil) {{x2}}
+- Il tape sur des bambous (Philippe Lavil) __x2__
 - Itsy bitsy, petit Bikini (Dalida)
 - I will survive (Glorya Gaynor)
 - La Java (Zizi Jenmaire)
@@ -142,12 +146,12 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Je te regarde quand tu dors la nuit (Peter Kröner)
 - Jolie Môme (Léo Ferré)
 - Les jolies colonies de vacances (Pierre Perret)
-- J'suis snob (Boris Vian) {{x2}}
+- J'suis snob (Boris Vian) __x2__
 - Kollé Serré (Philippe Lavil feat. Jocelyne Béroard)
 - Kung-Fu Fighting (Carl Douglas)
 - Lili (Pierre Perret)
 - Le Loir-et-Cher (Michel Delpech)
-- Le lundi au soleil (Claude François) {{x3}}
+- Le lundi au soleil (Claude François) __x3__
 - La Maison près de la fontaine (Nino Ferrer)
 - Macumba (Jean-Pierre Mader)
 - Madame la misère (Léo Ferré)
@@ -155,8 +159,8 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Maguy (générique TV)
 - Mais non, mais non (Henri Salvador)
 - La Maladie d'Amour (Michel Sardou)
-- Mambo du décalco (Richard Gotainer) {{x2}}
-- <strike>Maman a tort (Mylène Farmer) {{x2}}</strike>
+- Mambo du décalco (Richard Gotainer) __x2__
+- <strike>Maman a tort (Mylène Farmer) __x2__</strike>
 - Mamy Blue (Nicoletta)
 - Marianne (Michel Delpech)
 - Les marionnettes (Christophe)
@@ -175,7 +179,7 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - La nuit je mens (Alain Bashung)
 - On the road again (Bernard Lavilliers)
 - Orion (Metallica)
-- Ouragan (Stéphanie de Monaco) {{x2}}
+- Ouragan (Stéphanie de Monaco) __x2__
 - Le Paradis Blanc (Michel Delpech)
 - La Parisienne (Marie-Paul Belle)
 - Le parking des anges (Marc Lavoine)
@@ -183,7 +187,7 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Le petit bonhomme en mousse (Patrick Sébastien)
 - Petit Franck (François Feldman)
 - Les petits pains au chocolat (Joe Dassin)
-- Les p'tits papiers (Régine) {{x2}}
+- Les p'tits papiers (Régine) __x2__
 - Petits pois lardons (Julien Clerc)
 - Un petit poisson un petit oiseau	(Juliette Gréco)
 - Le plastique c'est fantastique (Elmer Food Beat)
@@ -209,23 +213,23 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Sans contrefaçon (Mylène Farmer)
 - Si tu vas à Rio	(Luis Mariano)
 - S.O.S. Amor (Alain Bashung)
-- Les sucettes à l'anis (France Gall) {{x2}}
-- Le Sud (Nino Ferrer) {{x2}}
+- Les sucettes à l'anis (France Gall) __x2__
+- Le Sud (Nino Ferrer) __x2__
 - La tactique du gendarme (Bourvil)
 - Tango (Bernard Lavilliers)
-- Tata Yoyo (Annie Cordy) {{x5}}
+- Tata Yoyo (Annie Cordy) __x5__
 - Le Telefon (Nino Ferrer)
 - Le téléphone pleure (Claude François)
 - Thaï Nana (Kazero)
 - Toi femme publique (Noë Willer)
 - Touche pas mon sexe (Comix)
-- Tout doucement (Bibi) {{x2}}
+- Tout doucement (Bibi) __x2__
 - Tous les cris, les SOS (Daniel Balavoine)
-- Tropique (Muriel Dacq) {{x2}}
+- Tropique (Muriel Dacq) __x2__
 - Tu tournes mon coeur (Stephan Eicher)
 - Twist à St-Tropez (Chat Sauvages/Dick Rivers)
 - La Valise (Dorothée)
-- Les valses de Vienne (François Feldman) {{x2}}
+- Les valses de Vienne (François Feldman) __x2__
 - Vanina (Dave)
 - Vingt ans (Léo Ferré)
 - Vivre ou survivre (Daniel Balavoine)
@@ -233,6 +237,6 @@ L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer 
 - Le Youki (Richard Gotainer)
 - Voulez-vous du chewing-gum ? (Roger Manson)
 - Vous les femmes (Julio Iglesias)
-- Voyage, voyage (Desireless) {{x3}}
+- Voyage, voyage (Desireless) __x3__
 - Les Zazous (Andrex, puis Brigitte Fontaine et -M-)
 - Le Zizi (Pierre Perret)

@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Jet à l'Élysée Montmartre
 author:
   display_name: Dirty Henry
@@ -20,4 +21,4 @@ comments: []
 ---
 Ça sent la rentrée donc les concerts vont commencer.
 
-En attendant les dates du festival des Inrocks qui s'annonce bien dense, les Australiens de {{Jet}} débarqueront à Paris le 14 octobre, à l'Elysée Montmartre.
+En attendant les dates du festival des Inrocks qui s'annonce bien dense, les Australiens de __Jet__ débarqueront à Paris le 14 octobre, à l'Elysée Montmartre.

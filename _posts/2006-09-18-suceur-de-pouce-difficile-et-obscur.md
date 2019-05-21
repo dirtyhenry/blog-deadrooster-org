@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Suceur de pouce difficile et obscur
 author:
   display_name: Dirty Henry
@@ -16,7 +17,7 @@ tags:
 - Cinéma
 comments: []
 ---
-Voir le premier film de {{Mike Mills}} est un parcours difficile. D'abord, le titre français du film repousse les moins courageux. Pourquoi diable traduire {Thumbsucker} (titre assez bien trouvé pour un film dont le personnage principal rechigne à arrêter de sucer son pouce malgré son âge) en {Age Difficile Obscur} ? (dont les initiales forment {ADO}, wah, trop fort, quel génie a bien pu avoir une idée pareille ? Lui là-bas ? Bien, jetez-lui tout ce qui vous tombe sous la main à la gueule). 
+Voir le premier film de __Mike Mills__ est un parcours difficile. D'abord, le titre français du film repousse les moins courageux. Pourquoi diable traduire *Thumbsucker* (titre assez bien trouvé pour un film dont le personnage principal rechigne à arrêter de sucer son pouce malgré son âge) en *Age Difficile Obscur* ? (dont les initiales forment *ADO*, wah, trop fort, quel génie a bien pu avoir une idée pareille ? Lui là-bas ? Bien, jetez-lui tout ce qui vous tombe sous la main à la gueule). 
 
 Ensuite, il faut trouver une salle qui le diffuse. Allociné donne l'info : seules 3 salles en France diffusent le film en ce dimanche 17 septembre 2006, soit 11 jours seulement après la sortie française du film. Pourtant le casting a quelques beaux noms : Keanu Reeves, Vince Vaughn. Enfin...
 

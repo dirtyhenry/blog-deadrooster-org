@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Nouveau single Graham Coxon
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ tags:
 - Graham Coxon
 comments: []
 ---
-Le nouveau single de Graham Coxon sortira le 23 octobre. Le double-A-side intitulé {What Ya Gonna Do Now / Bl00dy Annoying} sortira en 45 tours en édition limitée et en édition digitale uniquement. Ces deux titres sont les premiers que Graham a enregistré en studio avec son groupe live.
+Le nouveau single de Graham Coxon sortira le 23 octobre. Le double-A-side intitulé *What Ya Gonna Do Now / Bl00dy Annoying* sortira en 45 tours en édition limitée et en édition digitale uniquement. Ces deux titres sont les premiers que Graham a enregistré en studio avec son groupe live.

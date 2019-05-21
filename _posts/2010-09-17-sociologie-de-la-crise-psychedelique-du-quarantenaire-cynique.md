@@ -1,6 +1,10 @@
 ---
-
+status: publie
+published: false
 title: Sociologie de la crise psychédélique du quarantenaire cynique
+description: 'Le vendredi, le fun est de bon aloi. Cette semaine : crise existentielle,
+  hallucination psychédélique, punk adolescent de quarantenaire, une touche de cynisme
+  et une étude sociologique populaire.  '
 author:
   display_name: Dirty Henry
   login: dirtyhenry
@@ -19,7 +23,7 @@ comments: []
 ---
 <h2>Die, Sweet Roadrunner, Die</h2>
 
-On commence par un court dessin animé, de l'école Seth MacFarlane, le créateur de {Family Guy} et d'{American Dad}.
+On commence par un court dessin animé, de l'école Seth MacFarlane, le créateur de *Family Guy* et d'*American Dad*.
 
 <iframe width="500" height="405" src="http://www.youtube.com/embed/PgLvmp-TO0E" frameborder="0" allowfullscreen></iframe>
 
@@ -35,9 +39,9 @@ On commence par un court dessin animé, de l'école Seth MacFarlane, le créateu
 
 <iframe width="500" height="405" src="http://www.youtube.com/embed/Vn1GaaLhz4g" frameborder="0" allowfullscreen></iframe>
 
-<h2>Weezer's {Memories}</h2>
+<h2>Weezer's *Memories*</h2>
 
-Il est temps de lancer une bande son pour la dernière partie du post. Je vous propose un plaisir coupable et un bon vieux Weezer, qui jouent {Memories} tiré de leur nouvel album {Hurley}.
+Il est temps de lancer une bande son pour la dernière partie du post. Je vous propose un plaisir coupable et un bon vieux Weezer, qui jouent *Memories* tiré de leur nouvel album *Hurley*.
 
 (via [Stereogum->http://stereogum.com/512912/weezer-bring-memories-to-leno-confirm-blinkerton-tour-working-with-male-bonding/video/])
 

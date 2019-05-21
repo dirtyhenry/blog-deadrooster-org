@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: M Ward - Me And My Shadow
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <iframe width="540" height="392" src="http://teamcoco.com/embed/v/41670" frameborder="0" allowfullscreen></iframe>
 
-Extrait de {A Wasteland Companion}, avec Zooey Deschanel, sa compère de She & Him aux choeurs.
+Extrait de *A Wasteland Companion*, avec Zooey Deschanel, sa compère de She & Him aux choeurs.

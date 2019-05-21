@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: La compile du 7 août
 author:
   display_name: Joe Gantdelaine
@@ -20,18 +21,18 @@ tags:
 - Herman Düne
 comments: []
 ---
--# Herman Düne - {Seven Cities}
--# Eels - {Hey Man (Now, You're Really Living)}
--# Of Montreal - {A Sentence of Sorts in Kongsvinger}
--# Johnny Cash - {Ballad of a Teenage Queen}
--# Creedence Clearwater Revival - {Cotton Fields}
--# The Black Keys - {The Lengths}*
--# Isobel Campbell & Mark Lanegan - {Ramblin' Man}
--# Sly and the Family Stone - {Runnin' Away}
--# Marvin Gaye - {Once Upon a Time}
--# Fountains of Wayne - {Planet of Weed}
--# Jason Falkner - {This Time}*
--# Just Jack - {Writer's Block}
+-# Herman Düne - *Seven Cities*
+-# Eels - *Hey Man (Now, You're Really Living)*
+-# Of Montreal - *A Sentence of Sorts in Kongsvinger*
+-# Johnny Cash - *Ballad of a Teenage Queen*
+-# Creedence Clearwater Revival - *Cotton Fields*
+-# The Black Keys - *The Lengths**
+-# Isobel Campbell & Mark Lanegan - *Ramblin' Man*
+-# Sly and the Family Stone - *Runnin' Away*
+-# Marvin Gaye - *Once Upon a Time*
+-# Fountains of Wayne - *Planet of Weed*
+-# Jason Falkner - *This Time**
+-# Just Jack - *Writer's Block*
 
 [Ecouter la compile sur Spotify -> http://open.spotify.com/user/guiguilele/playlist/5ZO0DMFEXTssWLRooaL20C]
 

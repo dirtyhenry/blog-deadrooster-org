@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The Strypes - You Can't Judge A Book By The Cover
 author:
   display_name: Dirty Henry
@@ -16,4 +17,4 @@ comments: []
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/cWT382YAerw" frameborder="0" allowfullscreen></iframe>
 
-Des enfants chantent du rock des early-60's. Pour en avoir plus, allez écouter leur EP [{Young, Gifted & Blue} sur Soundcloud->https://soundcloud.com/the-strypes/sets/young-gifted-blue].
+Des enfants chantent du rock des early-60's. Pour en avoir plus, allez écouter leur EP [*Young, Gifted & Blue* sur Soundcloud->https://soundcloud.com/the-strypes/sets/young-gifted-blue].

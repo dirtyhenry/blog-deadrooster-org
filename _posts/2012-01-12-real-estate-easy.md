@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: Real Estate - Easy
 author:
   display_name: Joe Gantdelaine

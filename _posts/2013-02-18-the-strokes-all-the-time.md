@@ -1,5 +1,6 @@
 ---
-
+status: publie
+published: false
 title: The Strokes - All The Time
 author:
   display_name: Dirty Henry
@@ -14,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-Après un premier extrait sujet à débats, The Strokes proposent un 2nd extrait de leur 5ème album à paraître en mars, {Comedown Machine}. Du classique, du direct, de l'efficace.
+Après un premier extrait sujet à débats, The Strokes proposent un 2nd extrait de leur 5ème album à paraître en mars, *Comedown Machine*. Du classique, du direct, de l'efficace.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F78952710"></iframe>
 
