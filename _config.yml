@@ -20,19 +20,38 @@ sass:
 # Build settings
 markdown: kramdown
 
-permalink:  /:slug.html
-exclude: [ 'node_modules', 'Gemfile', 'Gemfile.lock', 'Gruntfile.js', 'package.json', 'package-lock.json', 'README.md', 'config.ru', 'vendor', 'Procfile', 'unicorn.rb', 'assets/images/s3', 'Rakefile', 'Makefile', 'yarn.lock' ]
+permalink: /:slug.html
+exclude:
+  [
+    "node_modules",
+    "Gemfile",
+    "Gemfile.lock",
+    "Gruntfile.js",
+    "package.json",
+    "package-lock.json",
+    "README.md",
+    "config.ru",
+    "vendor",
+    "Procfile",
+    "unicorn.rb",
+    "assets/images/s3",
+    "Rakefile",
+    "Makefile",
+    "yarn.lock",
+  ]
 
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
 
+theme: kids
+
 # Pagination Settings
 pagination:
   enabled: true
   per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
+  permalink: "/page/:num/"
+  title: ":title - page :num of :max"
   limit: 0
-  sort_field: 'date'
+  sort_field: "date"
   sort_reverse: true
