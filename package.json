@@ -15,6 +15,6 @@
     "grunt-contrib-coffee": "2.1.0",
     "grunt-contrib-copy": "1.0.0",
     "grunt-contrib-uglify": "4.0.1",
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   }
 }
