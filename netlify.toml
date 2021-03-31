@@ -1,4 +1,34 @@
 [[redirects]]
+  from = "/"
+  to = "https://deadrooster.org/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pixar-movie-challenge.html"
+  to = "https://deadrooster.org/pixar-movie-challenge/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-automne-2017.html"
+  to = "https://deadrooster.org/water-music/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/page/*"
+  to = "https://deadrooster.org/archives/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/feed.xml"
+  to = "https://deadrooster.org/feed.xml"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*.html"
   to = "https://deadrooster.org/:splat/"
   status = 301
