@@ -1,0 +1,143 @@
+[[redirects]]
+  from = "/"
+  to = "https://deadrooster.org/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pixar-movie-challenge.html"
+  to = "https://deadrooster.org/pixar-movie-challenge/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-automne-2017.html"
+  to = "https://deadrooster.org/water-music/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/page/*"
+  to = "https://deadrooster.org/archives/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/feed.xml"
+  to = "https://deadrooster.org/feed.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-ete-2017-face-b.html"
+  to = "https://deadrooster.org/bilan-2017/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-ete-2017.html"
+  to = "https://deadrooster.org/compile-ete-2017/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-printemps-2017-face-b.html"
+  to = "https://deadrooster.org/compile-printemps-2017-face-B/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-printemps-2017.html"
+  to = "https://deadrooster.org/compile-printemps-2017/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-hiver-2017-face-b.html"
+  to = "https://deadrooster.org/compile-hiver-2017-face-B/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-hiver-2017.html"
+  to = "https://deadrooster.org/compile-hiver-2017/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/deep-purple.html"
+  to = "https://deadrooster.org/deep-purple/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-automne-2016-face-b.html"
+  to = "https://deadrooster.org/compile-automne-2016-face-B/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/compile-automne-2016.html"
+  to = "https://deadrooster.org/compile-automne-2016/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/clash.html"
+  to = "https://deadrooster.org/clash/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/bruce-springsteen.html"
+  to = "https://deadrooster.org/bruce-springsteen/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kurt-vile-lumiere-d-automne.html"
+  to = "https://deadrooster.org/kurt-vile/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/yo-la-tengo.html"
+  to = "https://deadrooster.org/yo-la-tengo/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/les-guns.html"
+  to = "https://deadrooster.org/les-guns/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/faut-il-sauver-michel-sardou.html"
+  to = "https://deadrooster.org/laurent-chalumeau/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/neutral-milk-hotel.html"
+  to = "https://deadrooster.org/neutral-milk-hotel/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/education-musimentale.html"
+  to = "https://deadrooster.org/education-musimentale/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/playlist-top-musique-2014.html"
+  to = "https://deadrooster.org/playlist-top-musique-2014/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://deadrooster.org/:splat"
+  status = 301
+  force = true
