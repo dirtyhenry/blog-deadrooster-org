@@ -18,3 +18,6 @@ clean:
 
 lint:
 	bundle exec rubocop
+
+open:
+	open . -a 'Visual Studio Code'
